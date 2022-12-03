@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>OPML of iamdtms</title>
+  </head>
+  <body>
+    <outline text="uiuxdev" title="uiuxdev">
+      <outline text="W3C News" title="W3C News" type="rss" xmlUrl="https://www.w3.org/blog/news/feed" htmlUrl="https://www.w3.org/blog/news"/>
+      <outline text="Eric Meyer" title="Eric Meyer" type="rss" xmlUrl="https://meyerweb.com/eric/thoughts/category/tech/rss2/full/" htmlUrl="https://meyerweb.com/eric/thoughts"/>
+      <outline text="Lea Verou" title="Lea Verou" type="rss" xmlUrl="http://lea.verou.me/feed/" htmlUrl="http://lea.verou.me/"/>
+      <outline text="Brad Frost" title="Brad Frost" type="rss" xmlUrl="http://feeds.feedburner.com/brad-frosts-blog" htmlUrl="http://bradfrost.com/"/>
+      <outline text="Addy Osmani" title="Addy Osmani" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfetJpmQH2XpFj8uFgWsezw" htmlUrl="http://www.youtube.com/channel/UCfetJpmQH2XpFj8uFgWsezw"/>
+      <outline text="web.dev" title="web.dev" type="rss" xmlUrl="https://web.dev/feed.xml" htmlUrl="https://web.dev/"/>
+      <outline text="Smashing Magazine" title="Smashing Magazine" type="rss" xmlUrl="http://www.smashingmagazine.com/feed/" htmlUrl="http://www.smashingmagazine.com/"/>
+      <outline text="Codrops" title="Codrops" type="rss" xmlUrl="http://feeds2.feedburner.com/tympanus" htmlUrl="http://tympanus.net/codrops"/>
+      <outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="http://css-tricks.com/"/>
+    </outline>
+    <outline text="news" title="news">
+      <outline text="CNN" title="CNN" type="rss" xmlUrl="http://edition.cnn.com/partners/google/cnn_topstories.rss" htmlUrl="http://www.cnn.com/index.html?eref=mrss_igoogle_cnn"/>
+      <outline text="Portfolio.hu" title="Portfolio.hu" type="rss" xmlUrl="https://www.portfolio.hu/rss/all.xml" htmlUrl="https://www.portfolio.hu/"/>
+      <outline text="Euronews" title="Euronews" type="rss" xmlUrl="https://hu.euronews.com/rss?level=theme&amp;name=news" htmlUrl="https://hu.euronews.com/"/>
+      <outline text="National Geographic" title="National Geographic" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A" htmlUrl="http://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A/videos"/>
+      <outline text="HVG" title="HVG" type="rss" xmlUrl="https://hvg.hu/rss" htmlUrl="http://hvg.hu/"/>
+      <outline text="24.hu" title="24.hu" type="rss" xmlUrl="https://24.hu/feed/" htmlUrl="https://24.hu/"/>
+      <outline text="Telex" title="Telex" type="rss" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
+      <outline text="atlatszo" title="atlatszo" type="rss" xmlUrl="https://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu/"/>
+      <outline text="444" title="444" type="rss" xmlUrl="https://444.hu/feed" htmlUrl="https://444.hu/feed"/>
+      <outline text="Forbes" title="Forbes" type="rss" xmlUrl="http://forbes.hu/feed/" htmlUrl="http://forbes.hu/"/>
+    </outline>
+    <outline text="future" title="future">
+      <outline text="MIT Technology Review" title="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/topnews.rss" htmlUrl="https://www.technologyreview.com/topnews.rss"/>
+      <outline text="Robohub" title="Robohub" type="rss" xmlUrl="http://robohub.org/feed/" htmlUrl="http://robohub.org/"/>
+      <outline text="The Guardian - AI" title="The Guardian - AI" type="rss" xmlUrl="http://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="http://www.theguardian.com/technology/artificialintelligenceai"/>
+      <outline text="Singularity Hub" title="Singularity Hub" type="rss" xmlUrl="http://singularityhub.com/feed/" htmlUrl="http://singularityhub.com/"/>
+      <outline text="Singularity Weblog" title="Singularity Weblog" type="rss" xmlUrl="http://feeds.feedburner.com/SingularityBlog" htmlUrl="https://www.singularityweblog.com/"/>
+      <outline text="MIT News - Robotics" title="MIT News - Robotics" type="rss" xmlUrl="http://web.mit.edu/newsoffice/topic/mitrobotics-rss.xml" htmlUrl="http://newsoffice.mit.edu/topic/mitrobotics-rss.xml"/>
+      <outline text="Machine Learning Mastery" title="Machine Learning Mastery" type="rss" xmlUrl="http://feeds.feedburner.com/MachineLearningMastery" htmlUrl="http://machinelearningmastery.com/"/>
+      <outline text="ScienceDaily - AI" title="ScienceDaily - AI" type="rss" xmlUrl="http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="http://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
+      <outline text="BBC Future" title="BBC Future" type="rss" xmlUrl="http://www.bbc.com/future/feed.rss" htmlUrl="http://www.bbc.com/future/feed.rss"/>
+      <outline text="MIT News - Computer Science and Artificial Intelligence Laboratory " title="MIT News - Computer Science and Artificial Intelligence Laboratory " type="rss" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="http://newsoffice.mit.edu/topic/mitcomputer-science-and-artificial-intelligence-laboratory-csail-rss.xml"/>
+    </outline>
+    <outline text="gaming" title="gaming">
+      <outline text="Gamekapocs" title="Gamekapocs" type="rss" xmlUrl="http://www.gamekapocs.hu/rss" htmlUrl="http://www.gamekapocs.hu/"/>
+      <outline text="GameSpot" title="GameSpot" type="rss" xmlUrl="https://www.gamespot.com/feeds/mashup" htmlUrl="http://www.gamespot.com/feeds/mashup/"/>
+      <outline text="GameStar" title="GameStar" type="rss" xmlUrl="https://www.gamestar.hu/site/rss/rss.xml" htmlUrl="https://www.gamestar.hu/"/>
+      <outline text="WePC" title="WePC" type="rss" xmlUrl="https://www.wepc.com/feed/" htmlUrl="https://www.wepc.com/"/>
+      <outline text="IGN" title="IGN" type="rss" xmlUrl="http://feeds.ign.com/ign/games-all" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=3c853897b3e044f5abd763d061015c37"/>
+      <outline text="Metacritic" title="Metacritic" type="rss" xmlUrl="http://www.metacritic.com/rss/games/pc.xml" htmlUrl="http://www.metacritic.com/"/>
+      <outline text="IGN Hungary" title="IGN Hungary" type="rss" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="http://hu.ign.com/"/>
+      <outline text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" type="rss" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="http://www.rockpapershotgun.com/"/>
+      <outline text="Polygon" title="Polygon" type="rss" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="http://www.polygon.com/"/>
+    </outline>
+    <outline text="design" title="design">
+      <outline text="Behance Featured Projects" title="Behance Featured Projects" type="rss" xmlUrl="http://www.behance.net/featuredProjects.xml" htmlUrl="http://www.behance.net/"/>
+      <outline text="Abduzeedo" title="Abduzeedo" type="rss" xmlUrl="http://feeds.feedburner.com/abduzeedo" htmlUrl="http://abduzeedo.com/frontpage/blog/1"/>
+    </outline>
+    <outline text="android" title="android">
+      <outline text="GSMArena" title="GSMArena" type="rss" xmlUrl="http://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="http://www.gsmarena.com/"/>
+      <outline text="PhoneArena" title="PhoneArena" type="rss" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="http://www.phonearena.com/"/>
+      <outline text="NapiDroid" title="NapiDroid" type="rss" xmlUrl="http://napidroid.hu/feed/" htmlUrl="http://napidroid.hu/"/>
+      <outline text="Android Central" title="Android Central" type="rss" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com/"/>
+      <outline text="Mobilarena" title="Mobilarena" type="rss" xmlUrl="http://mobilarena.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://mobilarena.hu/"/>
+      <outline text="Android Authority" title="Android Authority" type="rss" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="http://www.androidauthority.com/"/>
+      <outline text="Android Police" title="Android Police" type="rss" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="http://www.androidpolice.com/"/>
+    </outline>
+    <outline text="tech" title="tech">
+      <outline text="PCMag" title="PCMag" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRhADYLTpsb0JA-uaLWovGw" htmlUrl="http://www.youtube.com/user/PCMagazineReviews"/>
+      <outline text="ExtremeTech" title="ExtremeTech" type="rss" xmlUrl="https://www.extremetech.com/feed" htmlUrl="http://www.extremetech.com/"/>
+      <outline text="Google Developers Blog" title="Google Developers Blog" type="rss" xmlUrl="https://developers.googleblog.com/feeds/posts/default" htmlUrl="http://developers.googleblog.com/"/>
+      <outline text="Hacker Noon - hackernoon-top-story" title="Hacker Noon - hackernoon-top-story" type="rss" xmlUrl="https://hackernoon.com/tagged/hackernoon-top-story/feed" htmlUrl="http://github.com/dylang/node-rss"/>
+      <outline text="The Verge -  Science Posts" title="The Verge -  Science Posts" type="rss" xmlUrl="http://www.theverge.com/science/rss/index.xml" htmlUrl="http://www.theverge.com/science"/>
+      <outline text="TEDTalks" title="TEDTalks" type="rss" xmlUrl="https://www.ted.com/feeds/talks.rss" htmlUrl="http://www.ted.com/talks/list"/>
+      <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="http://arstechnica.com/"/>
+      <outline text="AnandTech" title="AnandTech" type="rss" xmlUrl="http://www.anandtech.com/rss/" htmlUrl="http://www.anandtech.com/"/>
+    </outline>
+  </body>
+</opml>
