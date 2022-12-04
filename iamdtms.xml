@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>OPML of iamdtms</title>
+    <title>Feeds of Tamas Dohany from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
     <outline text="uiuxdev" title="uiuxdev">
@@ -16,16 +16,12 @@
       <outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="http://css-tricks.com/"/>
     </outline>
     <outline text="news" title="news">
-      <outline text="CNN" title="CNN" type="rss" xmlUrl="http://edition.cnn.com/partners/google/cnn_topstories.rss" htmlUrl="http://www.cnn.com/index.html?eref=mrss_igoogle_cnn"/>
       <outline text="Portfolio.hu" title="Portfolio.hu" type="rss" xmlUrl="https://www.portfolio.hu/rss/all.xml" htmlUrl="https://www.portfolio.hu/"/>
-      <outline text="Euronews" title="Euronews" type="rss" xmlUrl="https://hu.euronews.com/rss?level=theme&amp;name=news" htmlUrl="https://hu.euronews.com/"/>
-      <outline text="National Geographic" title="National Geographic" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A" htmlUrl="http://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A/videos"/>
       <outline text="HVG" title="HVG" type="rss" xmlUrl="https://hvg.hu/rss" htmlUrl="http://hvg.hu/"/>
       <outline text="24.hu" title="24.hu" type="rss" xmlUrl="https://24.hu/feed/" htmlUrl="https://24.hu/"/>
       <outline text="Telex" title="Telex" type="rss" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
       <outline text="atlatszo" title="atlatszo" type="rss" xmlUrl="https://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu/"/>
       <outline text="444" title="444" type="rss" xmlUrl="https://444.hu/feed" htmlUrl="https://444.hu/feed"/>
-      <outline text="Forbes" title="Forbes" type="rss" xmlUrl="http://forbes.hu/feed/" htmlUrl="http://forbes.hu/"/>
     </outline>
     <outline text="future" title="future">
       <outline text="MIT Technology Review" title="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/topnews.rss" htmlUrl="https://www.technologyreview.com/topnews.rss"/>
