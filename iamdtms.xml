@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="uiuxdev" title="uiuxdev">
+      <outline text="Bootstrap Blog" title="Bootstrap Blog" type="rss" xmlUrl="http://blog.getbootstrap.com/feed.xml" htmlUrl="http://blog.getbootstrap.com/"/>
       <outline text="W3C News" title="W3C News" type="rss" xmlUrl="https://www.w3.org/blog/news/feed" htmlUrl="https://www.w3.org/blog/news"/>
       <outline text="Eric Meyer" title="Eric Meyer" type="rss" xmlUrl="https://meyerweb.com/eric/thoughts/category/tech/rss2/full/" htmlUrl="https://meyerweb.com/eric/thoughts"/>
       <outline text="Lea Verou" title="Lea Verou" type="rss" xmlUrl="http://lea.verou.me/feed/" htmlUrl="http://lea.verou.me/"/>
@@ -16,7 +17,6 @@
       <outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="http://css-tricks.com/"/>
     </outline>
     <outline text="future" title="future">
-      <outline text="MIT Technology Review" title="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/topnews.rss" htmlUrl="https://www.technologyreview.com/topnews.rss"/>
       <outline text="Robohub" title="Robohub" type="rss" xmlUrl="http://robohub.org/feed/" htmlUrl="http://robohub.org/"/>
       <outline text="The Guardian - AI" title="The Guardian - AI" type="rss" xmlUrl="http://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="http://www.theguardian.com/technology/artificialintelligenceai"/>
       <outline text="Singularity Hub" title="Singularity Hub" type="rss" xmlUrl="http://singularityhub.com/feed/" htmlUrl="http://singularityhub.com/"/>
@@ -37,10 +37,6 @@
       <outline text="IGN Hungary" title="IGN Hungary" type="rss" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="http://hu.ign.com/"/>
       <outline text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" type="rss" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="http://www.rockpapershotgun.com/"/>
       <outline text="Polygon" title="Polygon" type="rss" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="http://www.polygon.com/"/>
-    </outline>
-    <outline text="design" title="design">
-      <outline text="Behance Featured Projects" title="Behance Featured Projects" type="rss" xmlUrl="http://www.behance.net/featuredProjects.xml" htmlUrl="http://www.behance.net/"/>
-      <outline text="Abduzeedo" title="Abduzeedo" type="rss" xmlUrl="http://feeds.feedburner.com/abduzeedo" htmlUrl="http://abduzeedo.com/frontpage/blog/1"/>
     </outline>
     <outline text="android" title="android">
       <outline text="GSMArena" title="GSMArena" type="rss" xmlUrl="http://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="http://www.gsmarena.com/"/>
