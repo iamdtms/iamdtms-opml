@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>iamdtms' OPML</title>
+    <title>Feeds of Tamas Dohany from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
     <outline text="uiuxdev" title="uiuxdev">
-      <outline text="Bootstrap Blog" title="Bootstrap Blog" type="rss" xmlUrl="http://blog.getbootstrap.com/feed.xml" htmlUrl="http://blog.getbootstrap.com/"/>
       <outline text="W3C News" title="W3C News" type="rss" xmlUrl="https://www.w3.org/blog/news/feed" htmlUrl="https://www.w3.org/blog/news"/>
       <outline text="Eric Meyer" title="Eric Meyer" type="rss" xmlUrl="https://meyerweb.com/eric/thoughts/category/tech/rss2/full/" htmlUrl="https://meyerweb.com/eric/thoughts"/>
       <outline text="Lea Verou" title="Lea Verou" type="rss" xmlUrl="http://lea.verou.me/feed/" htmlUrl="http://lea.verou.me/"/>
