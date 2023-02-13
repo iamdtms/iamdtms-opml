@@ -1,2 +1,2 @@
 # xmlUrls
-OPML feed export: uiuxdev, future, gaming, design, android, tech
+OPML feed export: web, future, tech, security, gaming, android
