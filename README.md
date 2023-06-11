@@ -1,2 +1,2 @@
 # xmlUrls
-OPML feed export: Hungary, future, tech, security, gamer, web, android, releases 
+OPML feed export: hun, future, tech, security, gamer, web, android, releases 
