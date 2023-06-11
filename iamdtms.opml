@@ -5,23 +5,23 @@
         <title>iamdtms' subscriptions in feedly Cloud</title>
     </head>
     <body>
-        <outline text="hungary" title="hungary">
+        <outline text="hun" title="hun">
             <outline type="rss" text="Népszava" title="Népszava" xmlUrl="https://nepszava.hu/feed/" htmlUrl="https://nepszava.hu/feed/nepszava.hu"/>
             <outline type="rss" text="theGeek.hu" title="theGeek.hu" xmlUrl="https://thegeek.hu/feed/" htmlUrl="https://thegeek.hu/"/>
             <outline type="rss" text="PlayDome.hu" title="PlayDome.hu" xmlUrl="http://www.pcdome.hu/rss.html" htmlUrl="https://www.playdome.hu"/>
             <outline type="rss" text="PC World Online Hírek" title="PC World Online Hírek" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://pcworld.hu"/>
-            <outline type="rss" text="A PGO legfrissebb anyagai | PC Guru Online" title="A PGO legfrissebb anyagai | PC Guru Online" xmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" htmlUrl="https://www.pcguru.hu"/>
+            <outline type="rss" text="PGO" title="PGO" xmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" htmlUrl="https://www.pcguru.hu"/>
             <outline type="rss" text="PC Fórum" title="PC Fórum" xmlUrl="http://pcforum.hu/site.pc/backend/pcforum.rdf" htmlUrl="https://pcforum.hu/"/>
-            <outline type="rss" text="hvg.hu RSS" title="hvg.hu RSS" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/"/>
+            <outline type="rss" text="hvg.hu" title="hvg.hu" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/"/>
             <outline type="rss" text="444.hu" title="444.hu" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGoLa-QhHmTxLEdjv_8dxrg" htmlUrl="https://www.youtube.com/channel/UCGoLa-QhHmTxLEdjv_8dxrg"/>
             <outline type="rss" text="HWSW Informatikai Hírmagazin" title="HWSW Informatikai Hírmagazin" xmlUrl="http://www.hwsw.hu/xml/latest_news_rss.xml" htmlUrl="https://www.hwsw.hu/xml/latest_news_rss.xml"/>
             <outline type="rss" text="Portfolio.hu - Összes hír" title="Portfolio.hu - Összes hír" xmlUrl="http://www.portfolio.hu/rss/cikkek/all.xml" htmlUrl="https://www.portfolio.hu"/>
             <outline type="rss" text="GameStar" title="GameStar" xmlUrl="https://www.gamestar.hu/site/rss/rss.xml" htmlUrl="https://www.gamestar.hu"/>
             <outline type="rss" text="Penzcentrum.hu - Összes hír" title="Penzcentrum.hu - Összes hír" xmlUrl="http://www.penzcentrum.hu/rss/all.xml" htmlUrl="https://www.penzcentrum.hu/"/>
             <outline type="rss" text="IGN Hungary" title="IGN Hungary" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="https://hu.ign.com"/>
-            <outline type="rss" text="Hírek és cikkek - GAMEPOD.hu" title="Hírek és cikkek - GAMEPOD.hu" xmlUrl="http://gamepod.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://gamepod.hu"/>
+            <outline type="rss" text="GAMEPOD.hu" title="GAMEPOD.hu" xmlUrl="http://gamepod.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://gamepod.hu"/>
             <outline type="rss" text="Telex RSS: Legfrissebb" title="Telex RSS: Legfrissebb" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
-            <outline type="rss" text="Gamekapocs játékmagazin - Friss hírek" title="Gamekapocs játékmagazin - Friss hírek" xmlUrl="http://feeds2.feedburner.com/gamekapocs" htmlUrl="https://www.gamekapocs.hu"/>
+            <outline type="rss" text="Gamekapocs" title="Gamekapocs" xmlUrl="http://feeds2.feedburner.com/gamekapocs" htmlUrl="https://www.gamekapocs.hu"/>
             <outline type="rss" text="atlatszo.hu" title="atlatszo.hu" xmlUrl="http://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu"/>
             <outline type="rss" text="Android Portál" title="Android Portál" xmlUrl="http://androidportal.hu/rss.xml" htmlUrl="https://androidportal.hu"/>
             <outline type="rss" text="Hírek és cikkek - PROHARDVER!" title="Hírek és cikkek - PROHARDVER!" xmlUrl="http://prohardver.hu/_xcache/rss_ph.xml" htmlUrl="https://prohardver.hu"/>
@@ -31,7 +31,7 @@
             <outline type="rss" text="Mobilarena HU" title="Mobilarena HU" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzlxYxlDo6oZuUkCrex5V4A" htmlUrl="https://www.youtube.com/channel/UCzlxYxlDo6oZuUkCrex5V4A"/>
             <outline type="rss" text="NapiDroid" title="NapiDroid" xmlUrl="http://napidroid.hu/feed/" htmlUrl="https://napidroid.hu"/>
             <outline type="rss" text="Gamer365" title="Gamer365" xmlUrl="https://www.gamer365.hu/rss.xml" htmlUrl="https://www.gamer365.hu"/>
-            <outline type="rss" text="Esport 1 - Minden esport 1 helyen!" title="Esport 1 - Minden esport 1 helyen!" xmlUrl="https://esport1.hu/rss" htmlUrl="https://esport1.hu"/>
+            <outline type="rss" text="Esport 1" title="Esport 1" xmlUrl="https://esport1.hu/rss" htmlUrl="https://esport1.hu"/>
             <outline type="rss" text="Napi.hu" title="Napi.hu" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.napi.hu/"/>
         </outline>
         <outline text="future" title="future">
@@ -49,9 +49,9 @@
         <outline text="tech" title="tech">
             <outline type="rss" text="Computerworld" title="Computerworld" xmlUrl="http://feeds.computerworld.com/Computerworld/News" htmlUrl="https://www.computerworld.com"/>
             <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss-full.xml" htmlUrl="http://www.engadget.com"/>
-            <outline type="rss" text="DebugPoint NEWS" title="DebugPoint NEWS" xmlUrl="https://debugpointnews.com/feed/" htmlUrl="https://debugpointnews.com/"/>
+            <outline type="rss" text="DebugPoint" title="DebugPoint" xmlUrl="https://debugpointnews.com/feed/" htmlUrl="https://debugpointnews.com/"/>
             <outline type="rss" text="ExtremeTech" title="ExtremeTech" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/feed"/>
-            <outline type="rss" text="Google for Developers Blog - News about Web, Mobile, AI and Cloud" title="Google for Developers Blog - News about Web, Mobile, AI and Cloud" xmlUrl="https://developers.googleblog.com/feeds/posts/default" htmlUrl="http://developers.googleblog.com/"/>
+            <outline type="rss" text="Google for Developers Blog" title="Google for Developers Blog" xmlUrl="https://developers.googleblog.com/feeds/posts/default" htmlUrl="http://developers.googleblog.com/"/>
             <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
             <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
             <outline type="rss" text="TEDTalks" title="TEDTalks" xmlUrl="https://www.ted.com/feeds/talks.rss" htmlUrl="https://www.ted.com/talks"/>
@@ -61,10 +61,11 @@
             <outline type="rss" text="AnandTech" title="AnandTech" xmlUrl="http://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com"/>
             <outline type="rss" text="Wired" title="Wired" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="https://www.wired.com"/>
             <outline type="rss" text="Digital Trends" title="Digital Trends" xmlUrl="http://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com"/>
-            <outline type="rss" text="Hacker Noon - hackernoon-top-story" title="Hacker Noon - hackernoon-top-story" xmlUrl="https://hackernoon.com/tagged/hackernoon-top-story/feed" htmlUrl="https://hackernoon.com/tagged/hackernoon-top-story"/>
+            <outline type="rss" text="Hacker Noon" title="Hacker Noon" xmlUrl="https://hackernoon.com/tagged/hackernoon-top-story/feed" htmlUrl="https://hackernoon.com/tagged/hackernoon-top-story"/>
             <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
             <outline type="rss" text="PCMag" title="PCMag" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRhADYLTpsb0JA-uaLWovGw" htmlUrl="https://www.youtube.com/channel/UCRhADYLTpsb0JA-uaLWovGw"/>
             <outline type="rss" text="PCWorld" title="PCWorld" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDC1Pas1aocEA5HBl7jp0ew" htmlUrl="https://www.youtube.com/channel/UCDC1Pas1aocEA5HBl7jp0ew"/>
+            <outline type="rss" text="The Linux Mint Blog" title="The Linux Mint Blog" xmlUrl="http://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com"/>
         </outline>
         <outline text="security" title="security">
             <outline type="rss" text="Exploit-DB.com RSS Feed" title="Exploit-DB.com RSS Feed" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com"/>
@@ -73,12 +74,10 @@
             <outline type="rss" text="Center for Internet Security - Multi-State Information Sharing and Analysis Center" title="Center for Internet Security - Multi-State Information Sharing and Analysis Center" xmlUrl="https://www.cisecurity.org/feed/advisories" htmlUrl="https://www.cisecurity.org/feed/advisories"/>
         </outline>
         <outline text="gamer" title="gamer">
-            <outline type="rss" text="PCGamer latest" title="PCGamer latest" xmlUrl="http://www.maximumpc.com/articles/all/feed" htmlUrl="https://www.pcgamer.com/rss/"/>
+            <outline type="rss" text="PCGamer" title="PCGamer" xmlUrl="http://www.maximumpc.com/articles/all/feed" htmlUrl="https://www.pcgamer.com/rss/"/>
             <outline type="rss" text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/feed"/>
             <outline type="rss" text="Polygon" title="Polygon" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/"/>
-            <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="http://feeds.gawker.com/kotaku/vip" htmlUrl="https://kotaku.com"/>
-            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup"/>
-            <outline type="rss" text="Destructoid" title="Destructoid" xmlUrl="http://www.destructoid.com/elephant/index.phtml?mode=atom" htmlUrl="https://www.destructoid.com/"/>
+            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup/"/>
             <outline type="rss" text="Metacritic" title="Metacritic" xmlUrl="http://www.metacritic.com/rss/games/pc.xml" htmlUrl="https://www.metacritic.com"/>
         </outline>
         <outline text="web" title="web">
@@ -97,7 +96,6 @@
             <outline type="rss" text="Hayley Hughes" title="Hayley Hughes" xmlUrl="https://www.hayley.work/work?format=RSS"/>
             <outline type="rss" text="Paul Robert Lloyd" title="Paul Robert Lloyd" xmlUrl="https://paulrobertlloyd.com/feed.xml" htmlUrl="https://paulrobertlloyd.com"/>
             <outline type="rss" text="Cassidy James Blaede" title="Cassidy James Blaede" xmlUrl="https://cassidyjames.com/feed.xml" htmlUrl="https://cassidyjames.com/"/>
-            <outline type="rss" text="Chris Enns | Faraway, So Close" title="Chris Enns | Faraway, So Close" xmlUrl="http://feedpress.me/chrisennsdotcom" htmlUrl="https://chrisenns.com/"/>
             <outline type="rss" text="remy sharp's b:log" title="remy sharp's b:log" xmlUrl="http://feeds.feedburner.com/remysharp" htmlUrl="https://remysharp.com"/>
             <outline type="rss" text="Andy Croll" title="Andy Croll" xmlUrl="https://andycroll.com/index.xml" htmlUrl="https://andycroll.com/"/>
             <outline type="rss" text="Bramus van Damme" title="Bramus van Damme" xmlUrl="http://www.bram.us/feed/" htmlUrl="https://www.bram.us"/>
@@ -193,7 +191,6 @@
             <outline type="rss" text="Mandy Brown | A Working Library" title="Mandy Brown | A Working Library" xmlUrl="http://aworkinglibrary.com/feed/index.xml"/>
         </outline>
         <outline text="android" title="android">
-            <outline type="rss" text="GSMArena" title="GSMArena" xmlUrl="http://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
             <outline type="rss" text="PhoneArena" title="PhoneArena" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="https://www.phonearena.com/"/>
             <outline type="rss" text="Android Central" title="Android Central" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com/rss.xml"/>
             <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com"/>
@@ -201,10 +198,10 @@
         </outline>
         <outline text="releases" title="releases">
             <outline type="rss" text="Steam Updates" title="Steam Updates" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
-            <outline type="rss" text="Blizzard News" title="Blizzard News" xmlUrl="https://rsshub.app/blizzard/news" htmlUrl="https://news.blizzard.com/en-us/"/>
+            <outline type="rss" text="Blizzard" title="Blizzard" xmlUrl="https://rsshub.app/blizzard/news" htmlUrl="https://news.blizzard.com/en-us/"/>
             <outline type="rss" text="Games PC - PreDB.me" title="Games PC - PreDB.me" xmlUrl="http://predb.me/?cats=games-pc&amp;rss=1" htmlUrl="https://predb.me"/>
-            <outline type="rss" text="Epic Games Store - Free Games" title="Epic Games Store - Free Games" xmlUrl="https://rsshub.app/epicgames/freegames" htmlUrl="https://store.epicgames.com/en-US/free-games?lang=en-US"/>
-            <outline type="rss" text="GOG.com News" title="GOG.com News" xmlUrl="http://www.gog.com/en/frontpage/rss" htmlUrl="http://www.gog.com/frontpage/rss"/>
+            <outline type="rss" text="Epic - Free Games" title="Epic - Free Games" xmlUrl="https://rsshub.app/epicgames/freegames" htmlUrl="https://store.epicgames.com/en-US/free-games?lang=en-US"/>
+            <outline type="rss" text="GOG.com" title="GOG.com" xmlUrl="http://www.gog.com/en/frontpage/rss" htmlUrl="http://www.gog.com/frontpage/rss"/>
         </outline>
     </body>
 </opml>
