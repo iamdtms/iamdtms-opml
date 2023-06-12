@@ -1,2 +1,2 @@
 # iamdtms-opml
-OPML feed export: hun, future, tech, security, gamer, web, android, releases 
+OPML feed export: future, tech (en+hu), security, gamer, web, android, releases
