@@ -52,11 +52,11 @@
             <outline type="rss" text="0 Day News ≈ Packet Storm" title="0 Day News ≈ Packet Storm" xmlUrl="http://rss.packetstormsecurity.org/news/tags/zero_day/" htmlUrl="https://packetstormsecurity.com/"/>
             <outline type="rss" text="Center for Internet Security - Multi-State Information Sharing and Analysis Center" title="Center for Internet Security - Multi-State Information Sharing and Analysis Center" xmlUrl="https://www.cisecurity.org/feed/advisories" htmlUrl="https://www.cisecurity.org/feed/advisories"/>
         </outline>
-        <outline text="game--news" title="game--news">
+        <outline text="game--en" title="game--en">
             <outline type="rss" text="PCGamer" title="PCGamer" xmlUrl="http://www.maximumpc.com/articles/all/feed" htmlUrl="https://www.pcgamer.com/rss/"/>
             <outline type="rss" text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/feed"/>
             <outline type="rss" text="Polygon" title="Polygon" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/"/>
-            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup/"/>
+            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup"/>
             <outline type="rss" text="Metacritic" title="Metacritic" xmlUrl="http://www.metacritic.com/rss/games/pc.xml" htmlUrl="https://www.metacritic.com"/>
         </outline>
         <outline text="web" title="web">
