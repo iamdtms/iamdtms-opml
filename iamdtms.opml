@@ -65,7 +65,7 @@
             <outline type="rss" text="PCGamer" title="PCGamer" xmlUrl="http://www.maximumpc.com/articles/all/feed" htmlUrl="https://www.pcgamer.com/rss/"/>
             <outline type="rss" text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/feed"/>
             <outline type="rss" text="Polygon" title="Polygon" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/"/>
-            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup"/>
+            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup/"/>
             <outline type="rss" text="Metacritic" title="Metacritic" xmlUrl="http://www.metacritic.com/rss/games/pc.xml" htmlUrl="https://www.metacritic.com"/>
         </outline>
         <outline text="web" title="web">
@@ -205,6 +205,17 @@
             <outline type="rss" text="Games PC - PreDB.me" title="Games PC - PreDB.me" xmlUrl="http://predb.me/?cats=games-pc&amp;rss=1" htmlUrl="https://predb.me"/>
             <outline type="rss" text="Epic - Free Games" title="Epic - Free Games" xmlUrl="https://rsshub.app/epicgames/freegames" htmlUrl="https://store.epicgames.com/en-US/free-games?lang=en-US"/>
             <outline type="rss" text="GOG.com" title="GOG.com" xmlUrl="http://www.gog.com/en/frontpage/rss" htmlUrl="http://www.gog.com/frontpage/rss"/>
+        </outline>
+        <outline text="news--hu" title="news--hu">
+            <outline type="rss" text="Portfolio.hu - Összes hír" title="Portfolio.hu - Összes hír" xmlUrl="http://www.portfolio.hu/rss/cikkek/all.xml" htmlUrl="https://www.portfolio.hu"/>
+            <outline type="rss" text="Penzcentrum.hu - Összes hír" title="Penzcentrum.hu - Összes hír" xmlUrl="http://www.penzcentrum.hu/rss/all.xml" htmlUrl="https://www.penzcentrum.hu/"/>
+            <outline type="rss" text="24.hu" title="24.hu" xmlUrl="http://www.technet.hu/rss/" htmlUrl="https://24.hu"/>
+            <outline type="rss" text="Népszava" title="Népszava" xmlUrl="https://nepszava.hu/feed" htmlUrl="https://nepszava.hu/nepszava.hu"/>
+            <outline type="rss" text="Telex RSS: Legfrissebb" title="Telex RSS: Legfrissebb" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
+            <outline type="rss" text="Napi.hu" title="Napi.hu" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.napi.hu/"/>
+            <outline type="rss" text="hvg.hu" title="hvg.hu" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/"/>
+            <outline type="rss" text="444.hu" title="444.hu" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGoLa-QhHmTxLEdjv_8dxrg" htmlUrl="https://www.youtube.com/channel/UCGoLa-QhHmTxLEdjv_8dxrg"/>
+            <outline type="rss" text="atlatszo.hu" title="atlatszo.hu" xmlUrl="http://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu"/>
         </outline>
     </body>
 </opml>
