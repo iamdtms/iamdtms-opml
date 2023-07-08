@@ -1,2 +1,2 @@
 # iamdtms-opml
-OPML export: devices, future, game(news, releases, hu), security, science, web, tech(en, hu), linux, hu
+OPML export: devices, future, game, security, science, web, tech, linux
