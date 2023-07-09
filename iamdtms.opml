@@ -24,6 +24,7 @@
             <outline type="rss" text="ExtremeTech" title="ExtremeTech" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/feed"/>
             <outline type="rss" text="Phoronix" title="Phoronix" xmlUrl="http://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
             <outline type="rss" text="Google for Developers Blog" title="Google for Developers Blog" xmlUrl="https://developers.googleblog.com/feeds/posts/default" htmlUrl="http://developers.googleblog.com/"/>
+            <outline type="rss" text="Tomshardware" title="Tomshardware" xmlUrl="http://www.tomshardware.com/feeds/rss2/all.xml" htmlUrl="https://www.tomshardware.com/feeds/all"/>
             <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
             <outline type="rss" text="TEDTalks" title="TEDTalks" xmlUrl="https://www.ted.com/feeds/talks.rss" htmlUrl="https://www.ted.com/talks"/>
             <outline type="rss" text="Neowin" title="Neowin" xmlUrl="http://feeds.feedburner.com/neowin-main" htmlUrl="https://www.neowin.net/"/>
@@ -56,7 +57,7 @@
             <outline type="rss" text="Steam Updates" title="Steam Updates" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
             <outline type="rss" text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/feed"/>
             <outline type="rss" text="Polygon" title="Polygon" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/"/>
-            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup"/>
+            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup/"/>
             <outline type="rss" text="Blizzard" title="Blizzard" xmlUrl="https://rsshub.app/blizzard/news" htmlUrl="https://news.blizzard.com/en-us/"/>
             <outline type="rss" text="Games PC - PreDB.me" title="Games PC - PreDB.me" xmlUrl="http://predb.me/?cats=games-pc&amp;rss=1" htmlUrl="https://predb.me"/>
             <outline type="rss" text="Epic - Free Games" title="Epic - Free Games" xmlUrl="https://rsshub.app/epicgames/freegames" htmlUrl="https://store.epicgames.com/en-US/free-games?lang=en-US"/>
@@ -168,12 +169,10 @@
         </outline>
         <outline text="devices" title="devices">
             <outline type="rss" text="PhoneArena" title="PhoneArena" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="https://www.phonearena.com/"/>
-            <outline type="rss" text="Android Portál" title="Android Portál" xmlUrl="http://androidportal.hu/rss.xml" htmlUrl="https://androidportal.hu"/>
-            <outline type="rss" text="NapiDroid" title="NapiDroid" xmlUrl="http://napidroid.hu/feed/" htmlUrl="https://napidroid.hu"/>
+            <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="http://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
             <outline type="rss" text="Android Central" title="Android Central" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com/rss.xml"/>
             <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com"/>
             <outline type="rss" text="Android Police" title="Android Police" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com"/>
-            <outline type="rss" text="Mobilarena HU" title="Mobilarena HU" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzlxYxlDo6oZuUkCrex5V4A" htmlUrl="https://www.youtube.com/channel/UCzlxYxlDo6oZuUkCrex5V4A"/>
         </outline>
         <outline text="linux" title="linux">
             <outline type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"/>
