@@ -128,7 +128,6 @@
             <outline type="rss" text="Dave Rupert LLC" title="Dave Rupert LLC" xmlUrl="http://daverupert.com/atom.xml" htmlUrl="https://daverupert.com"/>
             <outline type="rss" text="Jeffrey Zeldman" title="Jeffrey Zeldman" xmlUrl="http://www.zeldman.com/feed/" htmlUrl="https://www.zeldman.com/"/>
             <outline type="rss" text="Robin Rendle" title="Robin Rendle" xmlUrl="https://robinrendle.com/feed.xml" htmlUrl="https://robinrendle.com/"/>
-            <outline type="rss" text="Nolan Lawson | Read the Tea Leaves" title="Nolan Lawson | Read the Tea Leaves" xmlUrl="http://nolanlawson.com/feed/" htmlUrl="https://nolanlawson.com"/>
             <outline type="rss" text="Jens Oliver Meiert" title="Jens Oliver Meiert" xmlUrl="https://meiert.com/en/feed/" htmlUrl="https://meiert.com/en/"/>
             <outline type="rss" text="Zach Leatherman" title="Zach Leatherman" xmlUrl="http://www.zachleat.com/web/feed/" htmlUrl="https://www.zachleat.com/web/"/>
             <outline type="rss" text="Tantek Çelik" title="Tantek Çelik" xmlUrl="http://tantek.com/updates.atom" htmlUrl="https://tantek.com/"/>
@@ -163,6 +162,7 @@
             <outline type="rss" text="Holger Bartel | foobartel.com" title="Holger Bartel | foobartel.com" xmlUrl="https://foobartel.com/feed" htmlUrl="https://foobartel.com"/>
             <outline type="rss" text="Simon Collison" title="Simon Collison" xmlUrl="https://colly.com/journal/feed" htmlUrl="https://colly.com"/>
             <outline type="rss" text="Brendan Dawes" title="Brendan Dawes" xmlUrl="http://brendandawes.com/blog/feed" htmlUrl="http://brendandawes.com/blog"/>
+            <outline type="rss" text="Chris Coyier" title="Chris Coyier" xmlUrl="http://chriscoyier.net/feed/" htmlUrl="https://chriscoyier.net/"/>
             <outline type="rss" text="Stéphanie Walter – Senior UX Designer, Mobile Expert, Conference Speaker, Blog writer and Teacher." title="Stéphanie Walter – Senior UX Designer, Mobile Expert, Conference Speaker, Blog writer and Teacher." xmlUrl="https://stephaniewalter.design/feed/" htmlUrl="https://stephaniewalter.design/"/>
             <outline type="rss" text="Max Böck" title="Max Böck" xmlUrl="https://mxb.at/feed.xml" htmlUrl="https://mxb.dev"/>
             <outline type="rss" text="Stefan Judis" title="Stefan Judis" xmlUrl="https://www.stefanjudis.com/rss.xml" htmlUrl="https://www.stefanjudis.com/"/>
@@ -184,6 +184,7 @@
             <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="http://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
             <outline type="rss" text="Android Central" title="Android Central" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com/rss.xml"/>
             <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com"/>
+            <outline type="rss" text="XiaomiToday" title="XiaomiToday" xmlUrl="http://www.xiaomitoday.com/feed/" htmlUrl="https://www.xiaomitoday.com/"/>
             <outline type="rss" text="Android Police" title="Android Police" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com"/>
         </outline>
         <outline text="linux" title="linux">
