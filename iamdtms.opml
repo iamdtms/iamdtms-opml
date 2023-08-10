@@ -5,6 +5,32 @@
         <title>iamdtms' subscriptions</title>
     </head>
     <body>
+        <outline text="hu" title="hu">
+            <outline type="rss" text="theGeek.hu" title="theGeek.hu" xmlUrl="https://thegeek.hu/feed/" htmlUrl="https://thegeek.hu/"/>
+            <outline type="rss" text="Hírek és cikkek - PROHARDVER!" title="Hírek és cikkek - PROHARDVER!" xmlUrl="http://prohardver.hu/_xcache/rss_ph.xml" htmlUrl="https://prohardver.hu"/>
+            <outline type="rss" text="24.hu" title="24.hu" xmlUrl="http://www.technet.hu/rss/" htmlUrl="https://24.hu"/>
+            <outline type="rss" text="PlayDome.hu" title="PlayDome.hu" xmlUrl="http://www.pcdome.hu/rss.html" htmlUrl="https://www.playdome.hu"/>
+            <outline type="rss" text="PC World Online Hírek" title="PC World Online Hírek" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://pcworld.hu"/>
+            <outline type="rss" text="PGO" title="PGO" xmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" htmlUrl="https://www.pcguru.hu"/>
+            <outline type="rss" text="Népszava" title="Népszava" xmlUrl="https://nepszava.hu/feed" htmlUrl="https://nepszava.hu/nepszava.hu"/>
+            <outline type="rss" text="Leet" title="Leet" xmlUrl="https://leet.hu/feed/" htmlUrl="https://leet.hu"/>
+            <outline type="rss" text="PC Fórum" title="PC Fórum" xmlUrl="http://pcforum.hu/site.pc/backend/pcforum.rdf" htmlUrl="https://pcforum.hu/"/>
+            <outline type="rss" text="raketa" title="raketa" xmlUrl="https://raketa.hu/feed" htmlUrl="https://raketa.hu/"/>
+            <outline type="rss" text="hvg.hu" title="hvg.hu" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/"/>
+            <outline type="rss" text="444.hu" title="444.hu" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGoLa-QhHmTxLEdjv_8dxrg" htmlUrl="https://www.youtube.com/channel/UCGoLa-QhHmTxLEdjv_8dxrg"/>
+            <outline type="rss" text="HWSW Informatikai Hírmagazin" title="HWSW Informatikai Hírmagazin" xmlUrl="http://www.hwsw.hu/xml/latest_news_rss.xml" htmlUrl="https://www.hwsw.hu/xml/latest_news_rss.xml"/>
+            <outline type="rss" text="Portfolio.hu - Összes hír" title="Portfolio.hu - Összes hír" xmlUrl="http://www.portfolio.hu/rss/cikkek/all.xml" htmlUrl="https://www.portfolio.hu"/>
+            <outline type="rss" text="GameStar" title="GameStar" xmlUrl="https://www.gamestar.hu/site/rss/rss.xml" htmlUrl="https://www.gamestar.hu"/>
+            <outline type="rss" text="Penzcentrum.hu - Összes hír" title="Penzcentrum.hu - Összes hír" xmlUrl="http://www.penzcentrum.hu/rss/all.xml" htmlUrl="https://www.penzcentrum.hu/"/>
+            <outline type="rss" text="Gamer365" title="Gamer365" xmlUrl="https://www.gamer365.hu/rss.xml" htmlUrl="https://www.gamer365.hu"/>
+            <outline type="rss" text="IGN Hungary" title="IGN Hungary" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="https://hu.ign.com"/>
+            <outline type="rss" text="GAMEPOD.hu" title="GAMEPOD.hu" xmlUrl="http://gamepod.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://gamepod.hu"/>
+            <outline type="rss" text="Esport 1" title="Esport 1" xmlUrl="https://esport1.hu/rss" htmlUrl="https://esport1.hu"/>
+            <outline type="rss" text="Telex RSS: Legfrissebb" title="Telex RSS: Legfrissebb" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
+            <outline type="rss" text="Gamekapocs" title="Gamekapocs" xmlUrl="http://feeds2.feedburner.com/gamekapocs" htmlUrl="https://www.gamekapocs.hu"/>
+            <outline type="rss" text="Napi.hu" title="Napi.hu" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.napi.hu/"/>
+            <outline type="rss" text="atlatszo.hu" title="atlatszo.hu" xmlUrl="http://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu"/>
+        </outline>
         <outline text="future" title="future">
             <outline type="rss" text="Robohub" title="Robohub" xmlUrl="http://robohub.org/feed/" htmlUrl="https://robohub.org"/>
             <outline type="rss" text="The Guardian - AI" title="The Guardian - AI" xmlUrl="http://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
@@ -54,7 +80,7 @@
             <outline type="rss" text="Steam Updates" title="Steam Updates" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
             <outline type="rss" text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/feed"/>
             <outline type="rss" text="Polygon" title="Polygon" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/"/>
-            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup"/>
+            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup/"/>
             <outline type="rss" text="Blizzard" title="Blizzard" xmlUrl="https://rsshub.app/blizzard/news" htmlUrl="https://news.blizzard.com/en-us/"/>
             <outline type="rss" text="Epic - Free Games" title="Epic - Free Games" xmlUrl="https://rsshub.app/epicgames/freegames" htmlUrl="https://store.epicgames.com/en-US/free-games?lang=en-US"/>
             <outline type="rss" text="Metacritic" title="Metacritic" xmlUrl="http://www.metacritic.com/rss/games/pc.xml" htmlUrl="https://www.metacritic.com"/>
@@ -90,7 +116,6 @@
             <outline type="rss" text="Hidde de Vries" title="Hidde de Vries" xmlUrl="https://hiddedevries.nl/rss/full/" htmlUrl="https://hidde.blog"/>
             <outline type="rss" text="remy sharp's b:log" title="remy sharp's b:log" xmlUrl="http://feeds.feedburner.com/remysharp" htmlUrl="https://remysharp.com"/>
             <outline type="rss" text="Bruce Lawson" title="Bruce Lawson" xmlUrl="http://www.brucelawson.co.uk/feed/" htmlUrl="https://brucelawson.co.uk"/>
-            <outline type="rss" text="Veerle Pieters" title="Veerle Pieters" xmlUrl="https://veerle.duoh.com/full-feed.rss" htmlUrl="https://veerle.duoh.com"/>
             <outline type="rss" text="Andy Croll" title="Andy Croll" xmlUrl="https://andycroll.com/index.xml" htmlUrl="https://andycroll.com/"/>
             <outline type="rss" text="Bramus van Damme" title="Bramus van Damme" xmlUrl="http://www.bram.us/feed/" htmlUrl="https://www.bram.us"/>
             <outline type="rss" text="Amber Wilson" title="Amber Wilson" xmlUrl="https://amberwilson.co.uk/rss.xml" htmlUrl="https://amberwilson.co.uk/blog/"/>
