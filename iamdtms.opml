@@ -68,6 +68,7 @@
             <outline type="rss" text="CIS" title="CIS" xmlUrl="https://www.cisecurity.org/feed/advisories" htmlUrl="https://www.cisecurity.org/feed/advisories"/>
         </outline>
         <outline text="game" title="game">
+            <outline type="rss" text="GOG Games RSS" title="GOG Games RSS" xmlUrl="https://gog-games.com/rss" htmlUrl="http://gog-games.to"/>
             <outline type="rss" text="Steam Updates" title="Steam Updates" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
             <outline type="rss" text="PGT" title="PGT" xmlUrl="http://gamestorrent.co/feed" htmlUrl="https://pcgamestorrents.com/"/>
             <outline type="rss" text="Blizzard" title="Blizzard" xmlUrl="https://rsshub.app/blizzard/news" htmlUrl="https://news.blizzard.com/en-us/"/>
@@ -91,7 +92,7 @@
             <outline type="rss" text="Hidde de Vries" title="Hidde de Vries" xmlUrl="https://hiddedevries.nl/rss/full/" htmlUrl="https://hidde.blog"/>
             <outline type="rss" text="remy sharp" title="remy sharp" xmlUrl="http://feeds.feedburner.com/remysharp" htmlUrl="https://remysharp.com"/>
             <outline type="rss" text="Manuel Matuzović" title="Manuel Matuzović" xmlUrl="https://www.matuzo.at/feed.xml" htmlUrl="https://www.matuzo.at"/>
-            <outline type="rss" text="yuanchuan" title="yuanchuan" xmlUrl="https://yuanchuan.dev/feed.xml" htmlUrl="https://yuanchuan.dev/"/>
+            <outline type="rss" text="yuanchuan" title="yuanchuan" xmlUrl="https://yuanchuan.dev/feed.xml" htmlUrl="http://yuanchuan.dev/"/>
             <outline type="rss" text="Cory Doctorow" title="Cory Doctorow" xmlUrl="https://craphound.com/feed/" htmlUrl="https://craphound.com"/>
             <outline type="rss" text="Heydon Pickering" title="Heydon Pickering" xmlUrl="http://www.heydonworks.com/feed" htmlUrl="https://heydonworks.com"/>
             <outline type="rss" text="Bramus" title="Bramus" xmlUrl="http://www.bram.us/feed/" htmlUrl="https://www.bram.us"/>
