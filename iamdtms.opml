@@ -13,6 +13,7 @@
             <outline type="rss" text="PC World Online" title="PC World Online" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://pcworld.hu"/>
             <outline type="rss" text="PGO" title="PGO" xmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" htmlUrl="https://www.pcguru.hu"/>
             <outline type="rss" text="Népszava" title="Népszava" xmlUrl="https://nepszava.hu/feed" htmlUrl="https://nepszava.hu/nepszava.hu"/>
+            <outline type="rss" text="Qubit" title="Qubit" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
             <outline type="rss" text="PC Fórum" title="PC Fórum" xmlUrl="http://pcforum.hu/site.pc/backend/pcforum.rdf" htmlUrl="https://pcforum.hu/"/>
             <outline type="rss" text="raketa" title="raketa" xmlUrl="https://raketa.hu/feed" htmlUrl="https://raketa.hu/"/>
             <outline type="rss" text="hvg" title="hvg" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/"/>
