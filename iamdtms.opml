@@ -21,6 +21,15 @@
             <outline type="rss" text="Leet" title="Leet" xmlUrl="https://leet.hu/feed/" htmlUrl="https://leet.hu"/>
             <outline type="rss" text="PC Fórum" title="PC Fórum" xmlUrl="http://pcforum.hu/site.pc/backend/pcforum.rdf" htmlUrl="https://pcforum.hu/"/>
         </outline>
+        <outline text="game-hu" title="game-hu">
+            <outline type="rss" text="GameStar" title="GameStar" xmlUrl="https://www.gamestar.hu/site/rss/rss.xml" htmlUrl="https://www.gamestar.hu"/>
+            <outline type="rss" text="Gamer365" title="Gamer365" xmlUrl="https://www.gamer365.hu/rss.xml" htmlUrl="https://www.gamer365.hu"/>
+            <outline type="rss" text="PlayDome" title="PlayDome" xmlUrl="http://www.pcdome.hu/rss.html" htmlUrl="https://www.playdome.hu"/>
+            <outline type="rss" text="GAMEPOD" title="GAMEPOD" xmlUrl="http://gamepod.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://gamepod.hu"/>
+            <outline type="rss" text="PGO" title="PGO" xmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" htmlUrl="https://www.pcguru.hu"/>
+            <outline type="rss" text="Esport 1" title="Esport 1" xmlUrl="https://esport1.hu/rss" htmlUrl="https://esport1.hu"/>
+            <outline type="rss" text="Gamekapocs" title="Gamekapocs" xmlUrl="http://feeds2.feedburner.com/gamekapocs" htmlUrl="https://www.gamekapocs.hu"/>
+        </outline>
         <outline text="future" title="future">
             <outline type="rss" text="Singularity Hub" title="Singularity Hub" xmlUrl="http://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
             <outline type="rss" text="BBC Future" title="BBC Future" xmlUrl="http://www.bbc.com/future/feed.rss" htmlUrl="https://www.bbc.com/"/>
@@ -57,17 +66,7 @@
             <outline type="rss" text="Exploit DB" title="Exploit DB" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com"/>
             <outline type="rss" text="CIS" title="CIS" xmlUrl="https://www.cisecurity.org/feed/advisories" htmlUrl="https://www.cisecurity.org/feed/advisories"/>
         </outline>
-        <outline text="game-hu" title="game-hu">
-            <outline type="rss" text="GameStar" title="GameStar" xmlUrl="https://www.gamestar.hu/site/rss/rss.xml" htmlUrl="https://www.gamestar.hu"/>
-            <outline type="rss" text="Gamer365" title="Gamer365" xmlUrl="https://www.gamer365.hu/rss.xml" htmlUrl="https://www.gamer365.hu"/>
-            <outline type="rss" text="PlayDome" title="PlayDome" xmlUrl="http://www.pcdome.hu/rss.html" htmlUrl="https://www.playdome.hu"/>
-            <outline type="rss" text="GAMEPOD" title="GAMEPOD" xmlUrl="http://gamepod.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://gamepod.hu"/>
-            <outline type="rss" text="PGO" title="PGO" xmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" htmlUrl="https://www.pcguru.hu"/>
-            <outline type="rss" text="Esport 1" title="Esport 1" xmlUrl="https://esport1.hu/rss" htmlUrl="https://esport1.hu"/>
-            <outline type="rss" text="Gamekapocs" title="Gamekapocs" xmlUrl="http://feeds2.feedburner.com/gamekapocs" htmlUrl="https://www.gamekapocs.hu"/>
-        </outline>
         <outline text="game" title="game">
-            <outline type="rss" text="GOG Games RSS" title="GOG Games RSS" xmlUrl="https://gog-games.com/rss" htmlUrl="http://gog-games.to"/>
             <outline type="rss" text="Steam Updates" title="Steam Updates" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
             <outline type="rss" text="Blizzard" title="Blizzard" xmlUrl="https://rsshub.app/blizzard/news" htmlUrl="https://news.blizzard.com/en-us/"/>
             <outline type="rss" text="Destructoid" title="Destructoid" xmlUrl="http://www.destructoid.com/elephant/index.phtml?mode=atom" htmlUrl="https://www.destructoid.com/"/>
