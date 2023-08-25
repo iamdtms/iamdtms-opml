@@ -5,10 +5,6 @@
         <title>iamdtms' subscriptions</title>
     </head>
     <body>
-        <outline text="hu" title="hu">
-            <outline type="rss" text="Qubit" title="Qubit" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
-            <outline type="rss" text="raketa" title="raketa" xmlUrl="https://raketa.hu/feed" htmlUrl="https://raketa.hu/"/>
-        </outline>
         <outline text="tech-hu" title="tech-hu">
             <outline type="rss" text="HWSW" title="HWSW" xmlUrl="http://www.hwsw.hu/xml/latest_news_rss.xml" htmlUrl="https://www.hwsw.hu/xml/latest_news_rss.xml"/>
             <outline type="rss" text="theGeek" title="theGeek" xmlUrl="https://thegeek.hu/feed/" htmlUrl="https://thegeek.hu/"/>
