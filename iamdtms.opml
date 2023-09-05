@@ -24,6 +24,7 @@
         </outline>
         <outline text="future" title="future">
             <outline type="rss" text="Singularity Hub" title="Singularity Hub" xmlUrl="http://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
+            <outline type="rss" text="Futurism" title="Futurism" xmlUrl="http://www.fromquarkstoquasars.com/feed/" htmlUrl="https://futurism.com"/>
             <outline type="rss" text="BBC Future" title="BBC Future" xmlUrl="http://www.bbc.com/future/feed.rss" htmlUrl="https://www.bbc.com/"/>
             <outline type="rss" text="MIT News - Computer Science and Artificial Intelligence Laboratory " title="MIT News - Computer Science and Artificial Intelligence Laboratory " xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/"/>
         </outline>
@@ -32,6 +33,7 @@
             <outline type="rss" text="DebugPoint" title="DebugPoint" xmlUrl="https://debugpointnews.com/feed/" htmlUrl="https://debugpointnews.com/"/>
             <outline type="rss" text="ExtremeTech" title="ExtremeTech" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/feed"/>
             <outline type="rss" text="Phoronix" title="Phoronix" xmlUrl="http://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
+            <outline type="rss" text="New Features from Feedly" title="New Features from Feedly" xmlUrl="https://feedly.com/new-features/feed.xml" htmlUrl="https://feedly.com/new-features"/>
             <outline type="rss" text="Google for Developers Blog" title="Google for Developers Blog" xmlUrl="https://developers.googleblog.com/feeds/posts/default" htmlUrl="http://developers.googleblog.com/"/>
             <outline type="rss" text="Tomshardware" title="Tomshardware" xmlUrl="http://www.tomshardware.com/feeds/rss2/all.xml" htmlUrl="https://www.tomshardware.com/feeds/all"/>
             <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
@@ -69,7 +71,6 @@
             <outline type="rss" text="Mozilla Foundation Security Advisories" title="Mozilla Foundation Security Advisories" xmlUrl="https://advisories.feedly.com/mozilla/feed.json" htmlUrl="https://www.mozilla.org/en-US/security/advisories/"/>
             <outline type="rss" text="Jenkins Security Advisories" title="Jenkins Security Advisories" xmlUrl="https://advisories.feedly.com/jenkins/feed.json" htmlUrl="https://www.jenkins.io/security/advisories/"/>
             <outline type="rss" text="Code Execution Files ≈ Packet Storm" title="Code Execution Files ≈ Packet Storm" xmlUrl="http://rss.packetstormsecurity.com/files/tags/code_execution/" htmlUrl="https://packetstormsecurity.com/"/>
-            <outline type="rss" text=" Grafana Advisory Database on GitHub" title=" Grafana Advisory Database on GitHub" xmlUrl="https://advisories.feedly.com/github/grafana/feed.json" htmlUrl="https://github.com/grafana/grafana/security/advisories/"/>
             <outline type="rss" text="CISA - Known exploited vulnerabilities catalog" title="CISA - Known exploited vulnerabilities catalog" xmlUrl="https://advisories.feedly.com/cisa/exploitedCve/feed.json" htmlUrl="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"/>
             <outline type="rss" text="Google Chrome Security Bulletins" title="Google Chrome Security Bulletins" xmlUrl="https://advisories.feedly.com/google/chrome/feed.json" htmlUrl="https://chromereleases.googleblog.com/"/>
             <outline type="rss" text="CERT Recently Published Vulnerability Notes" title="CERT Recently Published Vulnerability Notes" xmlUrl="http://www.kb.cert.org/vulfeed" htmlUrl="https://kb.cert.org/vuls/"/>
