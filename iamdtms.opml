@@ -13,6 +13,7 @@
             <outline type="rss" text="Leet" title="Leet" xmlUrl="https://leet.hu/feed/" htmlUrl="https://leet.hu"/>
             <outline type="rss" text="Qubit" title="Qubit" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
             <outline type="rss" text="PC Fórum" title="PC Fórum" xmlUrl="http://pcforum.hu/site.pc/backend/pcforum.rdf" htmlUrl="https://pcforum.hu/"/>
+            <outline type="rss" text="Hello Xiaomi" title="Hello Xiaomi" xmlUrl="http://helloxiaomi.hu/feed/" htmlUrl="https://helloxiaomi.hu/"/>
             <outline type="rss" text="HWSW" title="HWSW" xmlUrl="http://www.hwsw.hu/xml/latest_news_rss.xml" htmlUrl="https://www.hwsw.hu/xml/latest_news_rss.xml"/>
             <outline type="rss" text="GameStar" title="GameStar" xmlUrl="https://www.gamestar.hu/site/rss/rss.xml" htmlUrl="https://www.gsplus.hu"/>
             <outline type="rss" text="NapiDroid" title="NapiDroid" xmlUrl="http://napidroid.hu/feed/" htmlUrl="https://napidroid.hu"/>
@@ -25,7 +26,6 @@
         <outline text="future" title="future">
             <outline type="rss" text="MIT Technology Review" title="MIT Technology Review" xmlUrl="http://www.technologyreview.com/rss/rss.aspx" htmlUrl="https://www.technologyreview.com"/>
             <outline type="rss" text="Singularity Hub" title="Singularity Hub" xmlUrl="http://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
-            <outline type="rss" text="Futurism" title="Futurism" xmlUrl="http://www.fromquarkstoquasars.com/feed/" htmlUrl="https://futurism.com"/>
             <outline type="rss" text="BBC Future" title="BBC Future" xmlUrl="http://www.bbc.com/future/feed.rss" htmlUrl="https://www.bbc.com/"/>
             <outline type="rss" text="MIT News - Computer Science and Artificial Intelligence Laboratory " title="MIT News - Computer Science and Artificial Intelligence Laboratory " xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/"/>
         </outline>
@@ -47,9 +47,10 @@
             <outline type="rss" text="The Next Web" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="https://thenextweb.com"/>
             <outline type="rss" text="AnandTech" title="AnandTech" xmlUrl="http://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com"/>
             <outline type="rss" text="Digital Trends" title="Digital Trends" xmlUrl="http://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com"/>
+            <outline type="rss" text="Hacker Noon" title="Hacker Noon" xmlUrl="https://hackernoon.com/feed" htmlUrl="https://hackernoon.com"/>
             <outline type="rss" text="AlternativeTo News" title="AlternativeTo News" xmlUrl="https://alternativeto.net/news/feed/" htmlUrl="https://alternativeto.net/"/>
             <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
-            <outline type="rss" text="PCWorld" title="PCWorld" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDC1Pas1aocEA5HBl7jp0ew" htmlUrl="https://www.youtube.com/channel/UCDC1Pas1aocEA5HBl7jp0ew"/>
+            <outline type="rss" text="PCWorld" title="PCWorld" xmlUrl="http://feeds.pcworld.com/pcworld/latestnews" htmlUrl="https://www.pcworld.com"/>
         </outline>
         <outline text="science" title="science">
             <outline type="rss" text="Breaking Science News" title="Breaking Science News" xmlUrl="http://www.sci-news.com/feed" htmlUrl="https://www.sci.news/"/>
@@ -64,22 +65,22 @@
             <outline type="rss" text="Exploit-DB.com RSS Feed" title="Exploit-DB.com RSS Feed" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com"/>
             <outline type="rss" text="Google Android Security Bulletins" title="Google Android Security Bulletins" xmlUrl="https://advisories.feedly.com/google/android/feed.json" htmlUrl="https://source.android.com/security/bulletin"/>
             <outline type="rss" text="CISA Cybersecurity Advisories" title="CISA Cybersecurity Advisories" xmlUrl="https://www.cisa.gov/uscert/ncas/alerts.xml" htmlUrl="https://www.cisa.gov/"/>
-            <outline type="rss" text="Intel Product Security Advisories" title="Intel Product Security Advisories" xmlUrl="https://advisories.feedly.com/intel/feed.json" htmlUrl="https://www.intel.com/content/www/us/en/security-center/default.html"/>
             <outline type="rss" text="The Exploit Database - CXSecurity.com" title="The Exploit Database - CXSecurity.com" xmlUrl="http://securityreason.com/rss/ExploitAlert" htmlUrl="https://cxsecurity.com/wlb/"/>
             <outline type="rss" text="Exploit Files ≈ Packet Storm" title="Exploit Files ≈ Packet Storm" xmlUrl="http://packetstormsecurity.org/exploits.xml" htmlUrl="https://packetstormsecurity.com/"/>
-            <outline type="rss" text="Nvidia Product Security" title="Nvidia Product Security" xmlUrl="https://advisories.feedly.com/nvidia/feed.json" htmlUrl="https://www.nvidia.com/en-us/security/"/>
             <outline type="rss" text="Elastic Stack" title="Elastic Stack" xmlUrl="https://discuss.elastic.co/c/announcements/security-announcements/31.rss" htmlUrl="https://discuss.elastic.co/c/announcements/security-announcements/31"/>
             <outline type="rss" text="Center for Internet Security - Multi-State Information Sharing and Analysis Center" title="Center for Internet Security - Multi-State Information Sharing and Analysis Center" xmlUrl="https://www.cisecurity.org/feed/advisories" htmlUrl="https://www.cisecurity.org/feed/advisories"/>
             <outline type="rss" text="CXSECURITY Database RSS Feed - CXSecurity.com" title="CXSECURITY Database RSS Feed - CXSecurity.com" xmlUrl="http://securityreason.com/rss/SecurityAlert" htmlUrl="https://cxsecurity.com/wlb/"/>
-            <outline type="rss" text="Mozilla Foundation Security Advisories" title="Mozilla Foundation Security Advisories" xmlUrl="https://advisories.feedly.com/mozilla/feed.json" htmlUrl="https://www.mozilla.org/en-US/security/advisories/"/>
             <outline type="rss" text="Jenkins Security Advisories" title="Jenkins Security Advisories" xmlUrl="https://advisories.feedly.com/jenkins/feed.json" htmlUrl="https://www.jenkins.io/security/advisories/"/>
             <outline type="rss" text="Code Execution Files ≈ Packet Storm" title="Code Execution Files ≈ Packet Storm" xmlUrl="http://rss.packetstormsecurity.com/files/tags/code_execution/" htmlUrl="https://packetstormsecurity.com/"/>
             <outline type="rss" text="CISA - Known exploited vulnerabilities catalog" title="CISA - Known exploited vulnerabilities catalog" xmlUrl="https://advisories.feedly.com/cisa/exploitedCve/feed.json" htmlUrl="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"/>
             <outline type="rss" text="Security Latest" title="Security Latest" xmlUrl="http://blog.wired.com/defense/atom.xml" htmlUrl="https://www.wired.com"/>
             <outline type="rss" text="Google Chrome Security Bulletins" title="Google Chrome Security Bulletins" xmlUrl="https://advisories.feedly.com/google/chrome/feed.json" htmlUrl="https://chromereleases.googleblog.com/"/>
             <outline type="rss" text="CERT Recently Published Vulnerability Notes" title="CERT Recently Published Vulnerability Notes" xmlUrl="http://www.kb.cert.org/vulfeed" htmlUrl="https://kb.cert.org/vuls/"/>
-            <outline type="rss" text="Hacker Noon" title="Hacker Noon" xmlUrl="https://hackernoon.com/feed" htmlUrl="https://hackernoon.com"/>
             <outline type="rss" text="0 Day News ≈ Packet Storm" title="0 Day News ≈ Packet Storm" xmlUrl="http://rss.packetstormsecurity.org/news/tags/zero_day/" htmlUrl="https://packetstormsecurity.com/"/>
+        </outline>
+        <outline text="media" title="media">
+            <outline type="rss" text="TED Talks Daily (HD video)" title="TED Talks Daily (HD video)" xmlUrl="http://feeds.feedburner.com/TedtalksHD" htmlUrl="https://www.ted.com/talks"/>
+            <outline type="rss" text="The Verge (uploads) on YouTube" title="The Verge (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/TheVerge/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://www.youtube.com/playlist?list=UUddiUEpeqJcYeBxX1IVBKvQ"/>
         </outline>
         <outline text="web" title="web">
             <outline type="rss" text="Adam Argyle" title="Adam Argyle" xmlUrl="https://nerdy.dev/rss.xml" htmlUrl="https://nerdy.dev"/>
@@ -90,7 +91,6 @@
             <outline type="rss" text="Release notes from mastodon" title="Release notes from mastodon" xmlUrl="https://github.com/tootsuite/mastodon/releases.atom" htmlUrl="https://github.com/mastodon/mastodon/releases"/>
             <outline type="rss" text="Rachel Andrew" title="Rachel Andrew" xmlUrl="http://www.rachelandrew.co.uk/feed/" htmlUrl="http://rachelandrew.co.uk"/>
             <outline type="rss" text="Matthias Ott" title="Matthias Ott" xmlUrl="https://matthiasott.com/rss"/>
-            <outline type="rss" text="Elliot Jay Stocks" title="Elliot Jay Stocks" xmlUrl="http://feeds.feedburner.com/elliotjaystocks" htmlUrl="https://elliotjaystocks.com/"/>
             <outline type="rss" text="Michelle Barker" title="Michelle Barker" xmlUrl="https://css-irl.info/rss.xml" htmlUrl="https://css-irl.info/"/>
             <outline type="rss" text="Brad Frost" title="Brad Frost" xmlUrl="http://feeds.feedburner.com/brad-frosts-blog" htmlUrl="https://bradfrost.com"/>
             <outline type="rss" text="Hidde de Vries" title="Hidde de Vries" xmlUrl="https://hiddedevries.nl/rss/full/" htmlUrl="https://hidde.blog"/>
@@ -102,12 +102,11 @@
             <outline type="rss" text="Bramus" title="Bramus" xmlUrl="http://www.bram.us/feed/" htmlUrl="https://www.bram.us"/>
             <outline type="rss" text="Una Kravets" title="Una Kravets" xmlUrl="https://una.im/rss.xml" htmlUrl="https://una.im/"/>
             <outline type="rss" text="Luke Wroblewski" title="Luke Wroblewski" xmlUrl="http://feeds.feedburner.com/FunctioningForm" htmlUrl="http://www.lukew.com"/>
-            <outline type="rss" text="Jake Archibald" title="Jake Archibald" xmlUrl="http://jakearchibald.com/posts.rss" htmlUrl="https://jakearchibald.com/"/>
             <outline type="rss" text="Jeffrey Zeldman" title="Jeffrey Zeldman" xmlUrl="http://www.zeldman.com/feed/" htmlUrl="https://www.zeldman.com/"/>
         </outline>
         <outline text="game" title="game">
             <outline type="rss" text="Steam Updates" title="Steam Updates" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
-            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup/"/>
+            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup"/>
             <outline type="rss" text="Blizzard" title="Blizzard" xmlUrl="https://rsshub.app/blizzard/news" htmlUrl="https://news.blizzard.com/en-us/"/>
             <outline type="rss" text="Destructoid" title="Destructoid" xmlUrl="http://www.destructoid.com/elephant/index.phtml?mode=atom" htmlUrl="https://www.destructoid.com/"/>
             <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw" htmlUrl="https://www.youtube.com/channel/UCbu2SsF-Or3Rsn3NxqODImw"/>
