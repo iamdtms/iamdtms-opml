@@ -1,3 +1,3 @@
 # iamdtms-opml
 iamdtms OPML export [EN, HU]: 
-hu, science, technology
+future, hu, media, science, security, technology, web
