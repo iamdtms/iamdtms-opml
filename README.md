@@ -1,3 +1,3 @@
 # iamdtms-opml
-iamdtms OPML export [EN, HU]: 
+iamdtms OPML export: 
 android, future, media, science, security, technology, web
