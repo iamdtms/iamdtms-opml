@@ -45,26 +45,11 @@
             <outline type="rss" text="Center for Internet Security - Multi-State Information Sharing and Analysis Center" title="Center for Internet Security - Multi-State Information Sharing and Analysis Center" xmlUrl="https://www.cisecurity.org/feed/advisories" htmlUrl="https://www.cisecurity.org/feed/advisories"/>
             <outline type="rss" text="CXSECURITY Database RSS Feed - CXSecurity.com" title="CXSECURITY Database RSS Feed - CXSecurity.com" xmlUrl="http://securityreason.com/rss/SecurityAlert" htmlUrl="https://cxsecurity.com/wlb/"/>
             <outline type="rss" text="Jenkins Security Advisories" title="Jenkins Security Advisories" xmlUrl="https://advisories.feedly.com/jenkins/feed.json" htmlUrl="https://www.jenkins.io/security/advisories/"/>
-            <outline type="rss" text="Code Execution Files ≈ Packet Storm" title="Code Execution Files ≈ Packet Storm" xmlUrl="http://rss.packetstormsecurity.com/files/tags/code_execution/" htmlUrl="https://packetstormsecurity.com/"/>
             <outline type="rss" text="CISA - Known exploited vulnerabilities catalog" title="CISA - Known exploited vulnerabilities catalog" xmlUrl="https://advisories.feedly.com/cisa/exploitedCve/feed.json" htmlUrl="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"/>
             <outline type="rss" text="Security Latest" title="Security Latest" xmlUrl="http://blog.wired.com/defense/atom.xml" htmlUrl="https://www.wired.com"/>
             <outline type="rss" text="Google Chrome Security Bulletins" title="Google Chrome Security Bulletins" xmlUrl="https://advisories.feedly.com/google/chrome/feed.json" htmlUrl="https://chromereleases.googleblog.com/"/>
             <outline type="rss" text="CERT Recently Published Vulnerability Notes" title="CERT Recently Published Vulnerability Notes" xmlUrl="http://www.kb.cert.org/vulfeed" htmlUrl="https://kb.cert.org/vuls/"/>
             <outline type="rss" text="0 Day News ≈ Packet Storm" title="0 Day News ≈ Packet Storm" xmlUrl="http://rss.packetstormsecurity.org/news/tags/zero_day/" htmlUrl="https://packetstormsecurity.com/"/>
-        </outline>
-        <outline text="media" title="media">
-            <outline type="rss" text="TED Talks Daily (HD video)" title="TED Talks Daily (HD video)" xmlUrl="http://feeds.feedburner.com/TedtalksHD" htmlUrl="https://www.ted.com/talks"/>
-            <outline type="rss" text="UKF Drum &amp; Bass" title="UKF Drum &amp; Bass" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCr8oc-LOaApCXWLjL7vdsgw" htmlUrl="https://www.youtube.com/channel/UCr8oc-LOaApCXWLjL7vdsgw"/>
-            <outline type="rss" text="TheVR Gaming+" title="TheVR Gaming+" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSFMCn1xtj_4kOy6KNK_fNg" htmlUrl="https://www.youtube.com/channel/UCSFMCn1xtj_4kOy6KNK_fNg"/>
-            <outline type="rss" text="Kevin Powell" title="Kevin Powell" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJZv4d5rbIKd4QHMPkcABCw" htmlUrl="https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw"/>
-            <outline type="rss" text="Tech Spurt" title="Tech Spurt" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVLN0tY51ewH44wUtx3YZTA" htmlUrl="https://www.youtube.com/channel/UCVLN0tY51ewH44wUtx3YZTA"/>
-            <outline type="rss" text="Coldplay" title="Coldplay" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDPM_n1atn2ijUwHd0NNRQw" htmlUrl="https://www.youtube.com/channel/UCDPM_n1atn2ijUwHd0NNRQw"/>
-            <outline type="rss" text="Ubisoft" title="Ubisoft" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0KU8F9jJqSLS11LRXvFWmg" htmlUrl="https://www.youtube.com/channel/UC0KU8F9jJqSLS11LRXvFWmg"/>
-            <outline type="rss" text="Puzsér Róbert" title="Puzsér Róbert" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7ivXUYaRoZb5WDLKksETUA" htmlUrl="https://www.youtube.com/channel/UC7ivXUYaRoZb5WDLKksETUA"/>
-            <outline type="rss" text="Android" title="Android" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9M7-jzdU8CVrQo1JwmIdWA" htmlUrl="https://www.youtube.com/channel/UC9M7-jzdU8CVrQo1JwmIdWA"/>
-            <outline type="rss" text="Tech2.hu" title="Tech2.hu" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAA4EV4denSMDNMvUxDV82A" htmlUrl="https://www.youtube.com/channel/UCAA4EV4denSMDNMvUxDV82A"/>
-            <outline type="rss" text="UKF Dubstep" title="UKF Dubstep" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfLFTP1uTuIizynWsZq2nkQ" htmlUrl="https://www.youtube.com/channel/UCfLFTP1uTuIizynWsZq2nkQ"/>
-            <outline type="rss" text="The Verge (uploads) on YouTube" title="The Verge (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/TheVerge/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" htmlUrl="https://www.youtube.com/playlist?list=UUddiUEpeqJcYeBxX1IVBKvQ"/>
         </outline>
         <outline text="android " title="android ">
             <outline type="rss" text="Android" title="Android" xmlUrl="http://officialandroid.blogspot.com/feeds/posts/default" htmlUrl="https://blog.google/products/android/"/>
