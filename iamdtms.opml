@@ -33,7 +33,6 @@
             <outline type="rss" text="Science Latest" title="Science Latest" xmlUrl="http://blog.wired.com/wiredscience/rss.xml" htmlUrl="https://www.wired.com"/>
             <outline type="rss" text="Nature" title="Nature" xmlUrl="http://www.nature.com/nature/current_issue/rss" htmlUrl="http://feeds.nature.com/nature/rss/current"/>
             <outline type="rss" text="National Geographic" title="National Geographic" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A" htmlUrl="https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A"/>
-            <outline type="rss" text="New Scientist - Home" title="New Scientist - Home" xmlUrl="http://feeds.newscientist.com/invention" htmlUrl="https://www.newscientist.com/"/>
         </outline>
         <outline text="security" title="security">
             <outline type="rss" text="Exploit-DB.com RSS Feed" title="Exploit-DB.com RSS Feed" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com"/>
@@ -58,8 +57,8 @@
             <outline type="rss" text="Phandroid" title="Phandroid" xmlUrl="http://phandroid.com/feed/" htmlUrl="https://phandroid.com/"/>
             <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com"/>
             <outline type="rss" text="Android Central RSS Feed" title="Android Central RSS Feed" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com"/>
+            <outline type="rss" text="XiaomiToday" title="XiaomiToday" xmlUrl="http://www.xiaomitoday.com/feed/" htmlUrl="https://www.xiaomitoday.com/"/>
             <outline type="rss" text="Android Police" title="Android Police" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com"/>
-            <outline type="rss" text="Hello Xiaomi" title="Hello Xiaomi" xmlUrl="http://helloxiaomi.hu/feed/" htmlUrl="https://helloxiaomi.hu/"/>
         </outline>
         <outline text="web" title="web">
             <outline type="rss" text="Adam Argyle" title="Adam Argyle" xmlUrl="https://nerdy.dev/rss.xml" htmlUrl="https://nerdy.dev"/>
