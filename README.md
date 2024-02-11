@@ -1,3 +1,3 @@
 # iamdtms-opml
 iamdtms OPML export: 
-future, science, security, technology
+android, future / AI, gaming, hu, science, security, technology
