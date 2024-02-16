@@ -5,22 +5,7 @@
         <title>iamdtms' subscriptions</title>
     </head>
     <body>
-        <outline text="gaming" title="gaming">
-            <outline type="rss" text="PCGamer latest" title="PCGamer latest" xmlUrl="http://www.maximumpc.com/articles/all/feed" htmlUrl="https://www.pcgamer.com"/>
-            <outline type="rss" text="Steam" title="Steam" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
-            <outline type="rss" text="Polygon" title="Polygon" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/"/>
-            <outline type="rss" text="PCGamesN" title="PCGamesN" xmlUrl="http://www.pcgamesn.com/mainrss.xml" htmlUrl="https://www.pcgamesn.com"/>
-            <outline type="rss" text="Game Informer News" title="Game Informer News" xmlUrl="http://www.gameinformer.com/b/mainfeed.aspx?Tags=news" htmlUrl="https://www.gameinformer.com/"/>
-            <outline type="rss" text="Giant Bomb " title="Giant Bomb " xmlUrl="http://feeds.feedburner.com/GiantbombAll" htmlUrl="https://www.giantbomb.com/feeds/mashup/"/>
-            <outline type="rss" text="Gaming – Ars Technica" title="Gaming – Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/gaming/" htmlUrl="https://arstechnica.com"/>
-            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup/"/>
-            <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="http://feeds.gawker.com/kotaku/vip" htmlUrl="https://kotaku.com"/>
-            <outline type="rss" text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/feed"/>
-            <outline type="rss" text="RSSHub" title="RSSHub" xmlUrl="https://rsshub.app/blizzard/news" htmlUrl="https://news.blizzard.com/en-us/"/>
-            <outline type="rss" text="IGN" title="IGN" xmlUrl="http://feeds.ign.com/ign/games-all" htmlUrl="https://www.ign.com/articles"/>
-            <outline type="rss" text="Eurogamer" title="Eurogamer" xmlUrl="http://www.eurogamer.net/rss/eurogamer_frontpage_feed.rss" htmlUrl="https://www.eurogamer.net/feed"/>
-        </outline>
-        <outline text="future / AI" title="future / AI">
+        <outline text="future AI" title="future AI">
             <outline type="rss" text="Robohub" title="Robohub" xmlUrl="http://robohub.org/feed/" htmlUrl="https://robohub.org"/>
             <outline type="rss" text="AI - The Next Web" title="AI - The Next Web" xmlUrl="https://thenextweb.com/artificial-intelligence/feed/" htmlUrl="https://thenextweb.com"/>
             <outline type="rss" text="MIT Technology Review" title="MIT Technology Review" xmlUrl="http://www.technologyreview.com/rss/rss.aspx" htmlUrl="https://www.technologyreview.com"/>
@@ -34,7 +19,7 @@
             <outline type="rss" text="New York Times - AI" title="New York Times - AI" xmlUrl="http://topics.nytimes.com/top/reference/timestopics/subjects/a/artificial_intelligence/?rss=1" htmlUrl="https://www.nytimes.com/topic/subject/artificial-intelligence"/>
             <outline type="rss" text="MIT News - AI Lab" title="MIT News - AI Lab" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/"/>
         </outline>
-        <outline text="technology" title="technology">
+        <outline text="tech EN" title="tech EN">
             <outline type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"/>
             <outline type="rss" text="Computerworld" title="Computerworld" xmlUrl="http://feeds.computerworld.com/Computerworld/News" htmlUrl="https://www.computerworld.com"/>
             <outline type="rss" text="MS Poweruser" title="MS Poweruser" xmlUrl="http://wmpoweruser.com/feed/" htmlUrl="https://mspoweruser.com"/>
@@ -74,27 +59,14 @@
             <outline type="rss" text="CERT Recently Published Vulnerability Notes" title="CERT Recently Published Vulnerability Notes" xmlUrl="http://www.kb.cert.org/vulfeed" htmlUrl="https://kb.cert.org/vuls/"/>
             <outline type="rss" text="0 Day News ≈ Packet Storm" title="0 Day News ≈ Packet Storm" xmlUrl="http://rss.packetstormsecurity.org/news/tags/zero_day/" htmlUrl="https://packetstormsecurity.com/"/>
         </outline>
-        <outline text="hu" title="hu">
-            <outline type="rss" text="Népszava" title="Népszava" xmlUrl="https://nepszava.hu/feed/" htmlUrl="https://nepszava.hu/feed/nepszava.hu"/>
-            <outline type="rss" text="PROHARDVER!" title="PROHARDVER!" xmlUrl="http://prohardver.hu/_xcache/rss_ph.xml" htmlUrl="https://prohardver.hu"/>
-            <outline type="rss" text="24" title="24" xmlUrl="http://www.technet.hu/rss/" htmlUrl="https://24.hu"/>
+        <outline text="tech HU" title="tech HU">
+            <outline type="rss" text="HWSW" title="HWSW" xmlUrl="http://www.hwsw.hu/xml/latest_news_rss.xml" htmlUrl="https://www.hwsw.hu/xml/latest_news_rss.xml"/>
+            <outline type="rss" text="PROHARDVER" title="PROHARDVER" xmlUrl="http://prohardver.hu/_xcache/rss_ph.xml" htmlUrl="https://prohardver.hu"/>
             <outline type="rss" text="PlayDome" title="PlayDome" xmlUrl="http://www.pcdome.hu/rss.html" htmlUrl="https://www.playdome.hu"/>
-            <outline type="rss" text="PCW" title="PCW" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://www.pcwplus.hu"/>
-            <outline type="rss" text="PGO" title="PGO" xmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" htmlUrl="https://www.pcguru.hu"/>
+            <outline type="rss" text="GAMEPOD" title="GAMEPOD" xmlUrl="http://gamepod.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://gamepod.hu"/>
+            <outline type="rss" text="PCW - A megújult PC World Online Hírek" title="PCW - A megújult PC World Online Hírek" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://www.pcwplus.hu"/>
             <outline type="rss" text="Leet" title="Leet" xmlUrl="https://leet.hu/feed/" htmlUrl="https://leet.hu"/>
             <outline type="rss" text="PC Fórum" title="PC Fórum" xmlUrl="http://pcforum.hu/site.pc/backend/pcforum.rdf" htmlUrl="https://pcforum.hu/"/>
-            <outline type="rss" text="HVG" title="HVG" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/"/>
-            <outline type="rss" text="HWSW" title="HWSW" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:219498447/sounds.rss" htmlUrl="http://hwsw.hu"/>
-            <outline type="rss" text="Gamestar" title="Gamestar" xmlUrl="https://www.gamestar.hu/site/rss/rss.xml" htmlUrl="https://www.gsplus.hu"/>
-            <outline type="rss" text="Gamer365" title="Gamer365" xmlUrl="https://www.gamer365.hu/rss.xml" htmlUrl="https://www.gamer365.hu"/>
-            <outline type="rss" text="444" title="444" xmlUrl="http://444.hu/feed/" htmlUrl="https://444.hu/feed"/>
-            <outline type="rss" text="IGN Hungary" title="IGN Hungary" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="https://hu.ign.com"/>
-            <outline type="rss" text="GAMEPOD" title="GAMEPOD" xmlUrl="http://gamepod.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://gamepod.hu"/>
-            <outline type="rss" text="Telex" title="Telex" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
-            <outline type="rss" text="Esport 1" title="Esport 1" xmlUrl="https://esport1.hu/rss" htmlUrl="https://esport1.hu"/>
-            <outline type="rss" text="Gamekapocs" title="Gamekapocs" xmlUrl="http://feeds2.feedburner.com/gamekapocs" htmlUrl="https://www.gamekapocs.hu"/>
-            <outline type="rss" text="Economx" title="Economx" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
-            <outline type="rss" text="atlatszo" title="atlatszo" xmlUrl="http://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu"/>
         </outline>
         <outline text="android" title="android">
             <outline type="rss" text="PhoneArena" title="PhoneArena" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="https://www.phonearena.com/"/>
