@@ -1,3 +1,3 @@
 # iamdtms-opml
-iamdtms OPML export: 
+iamdtms Hungarian OPML export collection: 
 gaming, life, pol, tech, tud
