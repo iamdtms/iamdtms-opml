@@ -14,5 +14,4 @@ Feed categories:
 - tech (HU)
 - tech (EN)
 
-* (HU) = Hungarian
-* (EN) = English
+(HU) = Hungarian, (EN) = English
