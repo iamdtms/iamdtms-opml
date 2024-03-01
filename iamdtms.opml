@@ -13,18 +13,19 @@
             <outline type="rss" text="Eurogamer" title="Eurogamer" xmlUrl="http://www.eurogamer.net/rss/eurogamer_frontpage_feed.rss" htmlUrl="https://www.eurogamer.net/feed"/>
         </outline>
         <outline text="future/AI (EN)" title="future/AI (EN)">
+            <outline type="rss" text="Singularity Hub" title="Singularity Hub" xmlUrl="http://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
+            <outline type="rss" text="Futurism" title="Futurism" xmlUrl="http://www.fromquarkstoquasars.com/feed/" htmlUrl="https://futurism.com"/>
+            <outline type="rss" text="The Verge - AI" title="The Verge - AI" xmlUrl="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" htmlUrl="https://www.theverge.com/ai-artificial-intelligence"/>
+            <outline type="rss" text="New York Times - AI" title="New York Times - AI" xmlUrl="http://topics.nytimes.com/top/reference/timestopics/subjects/a/artificial_intelligence/?rss=1" htmlUrl="https://www.nytimes.com/topic/subject/artificial-intelligence"/>
+            <outline type="rss" text="MIT News - AI Lab" title="MIT News - AI Lab" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/"/>
             <outline type="rss" text="Robohub" title="Robohub" xmlUrl="http://robohub.org/feed/" htmlUrl="https://robohub.org"/>
             <outline type="rss" text="AI - The Next Web" title="AI - The Next Web" xmlUrl="https://thenextweb.com/artificial-intelligence/feed/" htmlUrl="https://thenextweb.com"/>
             <outline type="rss" text="MIT Technology Review" title="MIT Technology Review" xmlUrl="http://www.technologyreview.com/rss/rss.aspx" htmlUrl="https://www.technologyreview.com"/>
             <outline type="rss" text="OpenAI " title="OpenAI " xmlUrl="https://blog.openai.com/rss/" htmlUrl="https://blog.openai.com"/>
             <outline type="rss" text="AI TechCrunch" title="AI TechCrunch" xmlUrl="https://techcrunch.com/tag/artificial-intelligence/feed/" htmlUrl="https://techcrunch.com/tag/artificial-intelligence/"/>
-            <outline type="rss" text="Singularity Hub" title="Singularity Hub" xmlUrl="http://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
             <outline type="rss" text="The Guardian - AI " title="The Guardian - AI " xmlUrl="http://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
-            <outline type="rss" text="The Verge - AI" title="The Verge - AI" xmlUrl="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" htmlUrl="https://www.theverge.com/ai-artificial-intelligence"/>
             <outline type="rss" text="BBC Future" title="BBC Future" xmlUrl="http://www.bbc.com/future/feed.rss" htmlUrl="https://www.bbc.com/"/>
             <outline type="rss" text="ScienceDaily - AI" title="ScienceDaily - AI" xmlUrl="http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
-            <outline type="rss" text="New York Times - AI" title="New York Times - AI" xmlUrl="http://topics.nytimes.com/top/reference/timestopics/subjects/a/artificial_intelligence/?rss=1" htmlUrl="https://www.nytimes.com/topic/subject/artificial-intelligence"/>
-            <outline type="rss" text="MIT News - AI Lab" title="MIT News - AI Lab" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/"/>
         </outline>
         <outline text="game (HU)" title="game (HU)">
             <outline type="rss" text="PlayDome" title="PlayDome" xmlUrl="http://www.pcdome.hu/rss.html" htmlUrl="https://www.playdome.hu"/>
@@ -33,7 +34,7 @@
             <outline type="rss" text="GS Hírek" title="GS Hírek" xmlUrl="http://www.gamestar.hu/rss/rss.xml" htmlUrl="https://www.gsplus.hu"/>
             <outline type="rss" text="Gamekapocs" title="Gamekapocs" xmlUrl="http://feeds2.feedburner.com/gamekapocs" htmlUrl="https://www.gamekapocs.hu"/>
         </outline>
-        <outline text="politics (HU)" title="politics (HU)">
+        <outline text="news (HU)" title="news (HU)">
             <outline type="rss" text="444" title="444" xmlUrl="https://444.hu/feed" htmlUrl="https://444.hu/feed"/>
             <outline type="rss" text="telex" title="telex" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
             <outline type="rss" text="economx" title="economx" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
