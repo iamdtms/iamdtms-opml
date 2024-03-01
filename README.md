@@ -6,7 +6,7 @@ Feed categories:
 - game (EN)
 - game (HU)
 - future/AI (EN)
-- politics (HU)
+- news (HU)
 - life (HU)
 - science (HU)
 - science (EN)
