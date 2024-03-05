@@ -3,7 +3,6 @@ iamdtms OPML export.
 Feed categories:
 
 - android (EN)
-- android (HU)
 - design (EN)
 - game (EN)
 - game (HU)
