@@ -1,112 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <opml version="1.0">
-    <head>
-        <title>iamdtms' subscriptions</title>
-    </head>
-    <body>
-        <outline text="game (EN)" title="game (EN)">
-            <outline type="rss" text="Gaming – Ars Technica" title="Gaming – Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/gaming/" htmlUrl="https://arstechnica.com"/>
-            <outline type="rss" text="PCGamer latest" title="PCGamer latest" xmlUrl="http://www.maximumpc.com/articles/all/feed" htmlUrl="https://www.pcgamer.com"/>
-            <outline type="rss" text="Steam" title="Steam" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
-            <outline type="rss" text="Destructoid" title="Destructoid" xmlUrl="http://www.destructoid.com/elephant/index.phtml?mode=atom" htmlUrl="https://www.destructoid.com/"/>
-            <outline type="rss" text="Eurogamer" title="Eurogamer" xmlUrl="http://www.eurogamer.net/rss/eurogamer_frontpage_feed.rss" htmlUrl="https://www.eurogamer.net/feed"/>
-        </outline>
-        <outline text="future/AI (EN)" title="future/AI (EN)">
-            <outline type="rss" text="Singularity Hub" title="Singularity Hub" xmlUrl="http://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
-            <outline type="rss" text="Futurism" title="Futurism" xmlUrl="http://www.fromquarkstoquasars.com/feed/" htmlUrl="https://futurism.com"/>
-            <outline type="rss" text="The Verge - AI" title="The Verge - AI" xmlUrl="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" htmlUrl="https://www.theverge.com/ai-artificial-intelligence"/>
-            <outline type="rss" text="New York Times - AI" title="New York Times - AI" xmlUrl="http://topics.nytimes.com/top/reference/timestopics/subjects/a/artificial_intelligence/?rss=1" htmlUrl="https://www.nytimes.com/topic/subject/artificial-intelligence"/>
-            <outline type="rss" text="MIT News - AI Lab" title="MIT News - AI Lab" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://www.csail.mit.edu/"/>
-            <outline type="rss" text="Robohub" title="Robohub" xmlUrl="http://robohub.org/feed/" htmlUrl="https://robohub.org"/>
-            <outline type="rss" text="AI - The Next Web" title="AI - The Next Web" xmlUrl="https://thenextweb.com/artificial-intelligence/feed/" htmlUrl="https://thenextweb.com"/>
-            <outline type="rss" text="MIT Technology Review" title="MIT Technology Review" xmlUrl="http://www.technologyreview.com/rss/rss.aspx" htmlUrl="https://www.technologyreview.com"/>
-            <outline type="rss" text="OpenAI " title="OpenAI " xmlUrl="https://blog.openai.com/rss/" htmlUrl="https://blog.openai.com"/>
-            <outline type="rss" text="AI TechCrunch" title="AI TechCrunch" xmlUrl="https://techcrunch.com/tag/artificial-intelligence/feed/" htmlUrl="https://techcrunch.com/tag/artificial-intelligence/"/>
-            <outline type="rss" text="The Guardian - AI " title="The Guardian - AI " xmlUrl="http://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
-            <outline type="rss" text="BBC Future" title="BBC Future" xmlUrl="http://www.bbc.com/future/feed.rss" htmlUrl="https://www.bbc.com/"/>
-            <outline type="rss" text="ScienceDaily - AI" title="ScienceDaily - AI" xmlUrl="http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
-        </outline>
-        <outline text="game (HU)" title="game (HU)">
-            <outline type="rss" text="PlayDome" title="PlayDome" xmlUrl="http://www.pcdome.hu/rss.html" htmlUrl="https://www.playdome.hu"/>
-            <outline type="rss" text="GAMEPOD" title="GAMEPOD" xmlUrl="http://gamepod.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://gamepod.hu"/>
-            <outline type="rss" text="PC Guru Online" title="PC Guru Online" xmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" htmlUrl="https://www.pcguru.hu"/>
-            <outline type="rss" text="GS Hírek" title="GS Hírek" xmlUrl="http://www.gamestar.hu/rss/rss.xml" htmlUrl="https://www.gsplus.hu"/>
-            <outline type="rss" text="Gamekapocs" title="Gamekapocs" xmlUrl="http://feeds2.feedburner.com/gamekapocs" htmlUrl="https://www.gamekapocs.hu"/>
-        </outline>
-        <outline text="news (HU)" title="news (HU)">
-            <outline type="rss" text="444" title="444" xmlUrl="https://444.hu/feed" htmlUrl="https://444.hu/feed"/>
-            <outline type="rss" text="telex" title="telex" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
-            <outline type="rss" text="economx" title="economx" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
-            <outline type="rss" text="hvg" title="hvg" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/"/>
-            <outline type="rss" text="atlatszo" title="atlatszo" xmlUrl="http://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu"/>
-        </outline>
-        <outline text="life (HU)" title="life (HU)">
-            <outline type="rss" text="Világgazdaság" title="Világgazdaság" xmlUrl="https://www.vg.hu/feed/" htmlUrl="https://www.vg.hu"/>
-            <outline type="rss" text="Kiszámoló" title="Kiszámoló" xmlUrl="http://kiszamolo.hu/feed/" htmlUrl="https://kiszamolo.hu/"/>
-            <outline type="rss" text="Penzcentrum" title="Penzcentrum" xmlUrl="http://www.penzcentrum.hu/rss/all.xml" htmlUrl="https://www.penzcentrum.hu/"/>
-            <outline type="rss" text="WeloveBudapest" title="WeloveBudapest" xmlUrl="https://welovebudapest.com/cikkek/rss/" htmlUrl="https://welovebudapest.com/cikkek//"/>
-        </outline>
-        <outline text="science (HU)" title="science (HU)">
-            <outline type="rss" text="Hamu és Gyémánt" title="Hamu és Gyémánt" xmlUrl="https://hamuesgyemant.hu/feeds/feed.rss" htmlUrl="https://hamuesgyemant.hu/"/>
-            <outline type="rss" text="Qubit" title="Qubit" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
-            <outline type="rss" text="Raketa.hu" title="Raketa.hu" xmlUrl="https://raketa.hu/feed" htmlUrl="https://raketa.hu/"/>
-        </outline>
-        <outline text="tech (EN)" title="tech (EN)">
-            <outline type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"/>
-            <outline type="rss" text="Computerworld" title="Computerworld" xmlUrl="http://feeds.computerworld.com/Computerworld/News" htmlUrl="https://www.computerworld.com"/>
-            <outline type="rss" text="MS Poweruser" title="MS Poweruser" xmlUrl="http://wmpoweruser.com/feed/" htmlUrl="https://mspoweruser.com"/>
-            <outline type="rss" text="ExtremeTech" title="ExtremeTech" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/feed"/>
-            <outline type="rss" text="Phoronix" title="Phoronix" xmlUrl="http://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
-            <outline type="rss" text="Windows Central" title="Windows Central" xmlUrl="http://feeds.feedburner.com/wmexperts" htmlUrl="https://www.windowscentral.com"/>
-            <outline type="rss" text="PCMag" title="PCMag" xmlUrl="http://blogs.pcmag.com/atwork/index.xml" htmlUrl="https://www.pcmag.com/feeds/rss/latest"/>
-            <outline type="rss" text="Tomshardware" title="Tomshardware" xmlUrl="http://www.tomshardware.com/feeds/rss2/all.xml" htmlUrl="https://www.tomshardware.com"/>
-            <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/everything" htmlUrl="https://arstechnica.com"/>
-            <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
-            <outline type="rss" text="Neowin" title="Neowin" xmlUrl="http://feeds.feedburner.com/neowin-main" htmlUrl="https://www.neowin.net/"/>
-            <outline type="rss" text="The Next Web" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="https://thenextweb.com"/>
-            <outline type="rss" text="Digital Trends" title="Digital Trends" xmlUrl="http://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com"/>
-            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
-            <outline type="rss" text="PCWorld" title="PCWorld" xmlUrl="http://feeds.pcworld.com/pcworld/latestnews" htmlUrl="https://www.pcworld.com"/>
-        </outline>
-        <outline text="science (EN)" title="science (EN)">
-            <outline type="rss" text="Breaking Science News" title="Breaking Science News" xmlUrl="http://www.sci-news.com/feed" htmlUrl="https://www.sci.news/"/>
-            <outline type="rss" text="Science Magazine" title="Science Magazine" xmlUrl="http://www.sciencemag.org/rss/current.xml" htmlUrl="https://www.science.org/journal/science"/>
-            <outline type="rss" text="Science Latest" title="Science Latest" xmlUrl="http://blog.wired.com/wiredscience/rss.xml" htmlUrl="https://www.wired.com"/>
-            <outline type="rss" text="Nature" title="Nature" xmlUrl="http://www.nature.com/nature/current_issue/rss" htmlUrl="http://feeds.nature.com/nature/rss/current"/>
-            <outline type="rss" text="National Geographic" title="National Geographic" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A" htmlUrl="https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A"/>
-        </outline>
-        <outline text="security (EN)" title="security (EN)">
-            <outline type="rss" text="Exploit-DB.com RSS Feed" title="Exploit-DB.com RSS Feed" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com"/>
-            <outline type="rss" text="Google Android Security Bulletins" title="Google Android Security Bulletins" xmlUrl="https://advisories.feedly.com/google/android/feed.json" htmlUrl="https://source.android.com/security/bulletin"/>
-            <outline type="rss" text="CISA Cybersecurity Advisories" title="CISA Cybersecurity Advisories" xmlUrl="https://www.cisa.gov/uscert/ncas/alerts.xml" htmlUrl="https://www.cisa.gov/"/>
-            <outline type="rss" text="The Exploit Database - CXSecurity.com" title="The Exploit Database - CXSecurity.com" xmlUrl="http://securityreason.com/rss/ExploitAlert" htmlUrl="https://cxsecurity.com/wlb/"/>
-            <outline type="rss" text="Exploit Files ≈ Packet Storm" title="Exploit Files ≈ Packet Storm" xmlUrl="http://packetstormsecurity.org/exploits.xml" htmlUrl="https://packetstormsecurity.com/"/>
-            <outline type="rss" text="Elastic Stack" title="Elastic Stack" xmlUrl="https://discuss.elastic.co/c/announcements/security-announcements/31.rss" htmlUrl="https://discuss.elastic.co/c/announcements/security-announcements/31"/>
-            <outline type="rss" text="Center for Internet Security - Multi-State Information Sharing and Analysis Center" title="Center for Internet Security - Multi-State Information Sharing and Analysis Center" xmlUrl="https://www.cisecurity.org/feed/advisories" htmlUrl="https://www.cisecurity.org/feed/advisories"/>
-            <outline type="rss" text="CXSECURITY Database RSS Feed - CXSecurity.com" title="CXSECURITY Database RSS Feed - CXSecurity.com" xmlUrl="http://securityreason.com/rss/SecurityAlert" htmlUrl="https://cxsecurity.com/wlb/"/>
-            <outline type="rss" text="Jenkins Security Advisories" title="Jenkins Security Advisories" xmlUrl="https://advisories.feedly.com/jenkins/feed.json" htmlUrl="https://www.jenkins.io/security/advisories/"/>
-            <outline type="rss" text="CISA - Known exploited vulnerabilities catalog" title="CISA - Known exploited vulnerabilities catalog" xmlUrl="https://advisories.feedly.com/cisa/exploitedCve/feed.json" htmlUrl="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"/>
-            <outline type="rss" text="Security Latest" title="Security Latest" xmlUrl="http://blog.wired.com/defense/atom.xml" htmlUrl="https://www.wired.com"/>
-            <outline type="rss" text="Google Chrome Security Bulletins" title="Google Chrome Security Bulletins" xmlUrl="https://advisories.feedly.com/google/chrome/feed.json" htmlUrl="https://chromereleases.googleblog.com/"/>
-            <outline type="rss" text="CERT Recently Published Vulnerability Notes" title="CERT Recently Published Vulnerability Notes" xmlUrl="http://www.kb.cert.org/vulfeed" htmlUrl="https://kb.cert.org/vuls/"/>
-            <outline type="rss" text="0 Day News ≈ Packet Storm" title="0 Day News ≈ Packet Storm" xmlUrl="http://rss.packetstormsecurity.org/news/tags/zero_day/" htmlUrl="https://packetstormsecurity.com/"/>
-        </outline>
-        <outline text="tech (HU)" title="tech (HU)">
-            <outline type="rss" text="HWSW" title="HWSW" xmlUrl="http://www.hwsw.hu/xml/latest_news_rss.xml" htmlUrl="https://www.hwsw.hu/xml/latest_news_rss.xml"/>
-            <outline type="rss" text="Android Portál" title="Android Portál" xmlUrl="http://androidportal.hu/rss.xml" htmlUrl="https://androidportal.hu"/>
-            <outline type="rss" text="iPon cikkek" title="iPon cikkek" xmlUrl="http://ipon.hu/news-feed" htmlUrl="https://ipon.hu/rss/contents-feed"/>
-            <outline type="rss" text="PROHARDVER" title="PROHARDVER" xmlUrl="http://prohardver.hu/_xcache/rss_ph.xml" htmlUrl="https://prohardver.hu"/>
-            <outline type="rss" text="PCW" title="PCW" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://www.pcwplus.hu"/>
-            <outline type="rss" text="Leet" title="Leet" xmlUrl="https://leet.hu/feed/" htmlUrl="https://leet.hu"/>
-            <outline type="rss" text="PC Fórum" title="PC Fórum" xmlUrl="http://pcforum.hu/site.pc/backend/pcforum.rdf" htmlUrl="https://pcforum.hu/"/>
-            <outline type="rss" text="Mobilarena" title="Mobilarena" xmlUrl="http://mobilarena.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://mobilarena.hu"/>
-        </outline>
-        <outline text="android (EN)" title="android (EN)">
-            <outline type="rss" text="PhoneArena" title="PhoneArena" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="https://www.phonearena.com/"/>
-            <outline type="rss" text="GSMArena" title="GSMArena" xmlUrl="http://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
-            <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com"/>
-            <outline type="rss" text="Android Police" title="Android Police" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com"/>
-        </outline>
-    </body>
+  <head>
+    <title>iamdtms'RSS Feeds</title>
+    <dateCreated>2024-03-05T21:50:56Z</dateCreated>
+  </head>
+  <body>
+    <outline title="android (EN)" text="android (EN)">
+      <outline text="PhoneArena" title="PhoneArena" type="rss" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="http://www.phonearena.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.phonearena.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="GSMArena" title="GSMArena" type="rss" xmlUrl="http://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="http://www.gsmarena.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.gsmarena.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Android Authority" title="Android Authority" type="rss" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="http://www.androidauthority.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.androidauthority.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Android Police" title="Android Police" type="rss" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="http://www.androidpolice.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.androidpolice.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Android Central" title="Android Central" type="rss" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="http://www.androidcentral.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.androidcentral.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="android (HU)" text="android (HU)">
+      <outline text="NapiDroid" title="NapiDroid" type="rss" xmlUrl="http://napidroid.hu/feed/" htmlUrl="http://napidroid.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/napidroid.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Mobilarena" title="Mobilarena" type="rss" xmlUrl="http://mobilarena.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://mobilarena.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/mobilarena.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="design (EN)" text="design (EN)">
+      <outline text="Abduzeedo" title="Abduzeedo" type="rss" xmlUrl="http://feeds.feedburner.com/abduzeedo" htmlUrl="http://abduzeedo.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/abduzeedo.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="game (EN)" text="game (EN)">
+      <outline text="Gaming – Ars Technica" title="Gaming – Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/gaming/" htmlUrl="http://arstechnica.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/arstechnica.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="PCGamer latest" title="PCGamer latest" type="rss" xmlUrl="http://www.maximumpc.com/articles/all/feed" htmlUrl="" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.maximumpc.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Steam" title="Steam" type="rss" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.steampowered.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Destructoid" title="Destructoid" type="rss" xmlUrl="http://www.destructoid.com/elephant/index.phtml?mode=atom" htmlUrl="https://www.destructoid.com/?mode=atom" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.destructoid.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Eurogamer" title="Eurogamer" type="rss" xmlUrl="http://www.eurogamer.net/rss/eurogamer_frontpage_feed.rss" htmlUrl="http://www.eurogamer.net/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.eurogamer.net" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="game (HU)" text="game (HU)">
+      <outline text="PlayDome" title="PlayDome" type="rss" xmlUrl="https://www.playdome.hu/rss/playdome.xml" htmlUrl="https://www.playdome.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.playdome.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="GAMEPOD" title="GAMEPOD" type="rss" xmlUrl="http://gamepod.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://gamepod.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/gamepod.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="PC Guru Online" title="PC Guru Online" type="rss" xmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" htmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/h" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="GS Hírek" title="GS Hírek" type="rss" xmlUrl="https://www.gsplus.hu/site/rss/rss.xml" htmlUrl="https://www.gsplus.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.gsplus.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Gamekapocs" title="Gamekapocs" type="rss" xmlUrl="http://feeds2.feedburner.com/gamekapocs" htmlUrl="https://www.gamekapocs.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.gamekapocs.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="future/AI (EN)" text="future/AI (EN)">
+      <outline text="Singularity Hub" title="Singularity Hub" type="rss" xmlUrl="http://singularityhub.com/feed/" htmlUrl="http://singularityhub.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/singularityhub.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Futurism" title="Futurism" type="rss" xmlUrl="http://www.fromquarkstoquasars.com/feed/" htmlUrl="http://futurism.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/futurism.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="The Verge - AI" title="The Verge - AI" type="rss" xmlUrl="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" htmlUrl="https://www.theverge.com/ai-artificial-intelligence" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.theverge.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="New York Times - AI" title="New York Times - AI" type="rss" xmlUrl="http://topics.nytimes.com/top/reference/timestopics/subjects/a/artificial_intelligence/?rss=1" htmlUrl="http://topics.nytimes.com/top/reference/timestopics/subjects/a/artificial_intelligence/?rss=1" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/h" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="MIT News - Computer Science and Artificial Intelligence Laboratory " title="MIT News - Computer Science and Artificial Intelligence Laboratory " type="rss" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="http://news.mit.edu/topic/mitcomputer-science-and-artificial-intelligence-laboratory-csail-rss.xml" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/news.mit.edu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Robohub" title="Robohub" type="rss" xmlUrl="http://robohub.org/feed/" htmlUrl="http://robohub.org" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/robohub.org" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="AI - The Next Web" title="AI - The Next Web" type="rss" xmlUrl="https://thenextweb.com/artificial-intelligence/feed" htmlUrl="https://thenextweb.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/thenextweb.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="New on MIT Technology Review" title="New on MIT Technology Review" type="rss" xmlUrl="http://www.technologyreview.com/rss/rss.aspx" htmlUrl="http://www.technologyreview.com/stream/%5Baction.subscribe?sort=recent" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.technologyreview.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="OpenAI " title="OpenAI " type="rss" xmlUrl="https://blog.openai.com/rss/" htmlUrl="https://blog.openai.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/blog.openai.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="AI TechCrunch" title="AI TechCrunch" type="rss" xmlUrl="https://techcrunch.com/tag/artificial-intelligence/feed/" htmlUrl="https://techcrunch.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/techcrunch.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="The Guardian - AI" title="The Guardian - AI" type="rss" xmlUrl="http://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.theguardian.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="BBC Future" title="BBC Future" type="rss" xmlUrl="http://www.bbc.com/future/feed.rss" htmlUrl="http://www.bbc.com/future" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.bbc.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Kurzweil" title="Kurzweil" type="rss" xmlUrl="http://www.kurzweilai.net/feed/atom" htmlUrl="http://www.kurzweilai.net" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.kurzweilai.net" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Singularity Weblog" title="Singularity Weblog" type="rss" xmlUrl="http://feeds.feedburner.com/SingularityBlog" htmlUrl="https://www.singularityweblog.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.singularityweblog.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="MIT News - Robotics" title="MIT News - Robotics" type="rss" xmlUrl="http://web.mit.edu/newsoffice/topic/mitrobotics-rss.xml" htmlUrl="http://news.mit.edu/topic/mitrobotics-rss.xml" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/news.mit.edu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="ScienceDaily - AI" title="ScienceDaily - AI" type="rss" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.sciencedaily.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Machine Learning Mastery" title="Machine Learning Mastery" type="rss" xmlUrl="http://feeds.feedburner.com/MachineLearningMastery" htmlUrl="http://machinelearningmastery.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/machinelearningmastery.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="news (HU)" text="news (HU)">
+      <outline text="444" title="444" type="rss" xmlUrl="https://444.hu/feed" htmlUrl="https://444.hu/feed" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/444.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="telex" title="telex" type="rss" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/telex.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="economx" title="economx" type="rss" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="http://www.napi.hu/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.napi.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="hvg" title="hvg" type="rss" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/hvg.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="atlatszo" title="atlatszo" type="rss" xmlUrl="http://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/atlatszo.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Forbes.hu" title="Forbes.hu" type="rss" xmlUrl="https://forbes.hu/feed/" htmlUrl="https://forbes.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/forbes.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="life (HU)" text="life (HU)">
+      <outline text="Világgazdaság" title="Világgazdaság" type="rss" xmlUrl="https://www.vg.hu/feed/" htmlUrl="https://www.vg.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.vg.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Kiszámoló" title="Kiszámoló" type="rss" xmlUrl="http://kiszamolo.hu/feed/" htmlUrl="http://kiszamolo.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/kiszamolo.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Penzcentrum" title="Penzcentrum" type="rss" xmlUrl="https://www.penzcentrum.hu/rss/all.xml" htmlUrl="http://www.penzcentrum.hu/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.penzcentrum.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="WeloveBudapest" title="WeloveBudapest" type="rss" xmlUrl="https://welovebudapest.com/cikkek/rss/" htmlUrl="https://welovebudapest.com/cikkek/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/welovebudapest.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="science (EN)" text="science (EN)">
+      <outline text="Breaking Science News" title="Breaking Science News" type="rss" xmlUrl="http://www.sci-news.com/feed" htmlUrl="http://www.sci-news.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.sci-news.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Science Magazine" title="Science Magazine" type="rss" xmlUrl="http://www.sciencemag.org/rss/current.xml" htmlUrl="http://www.sciencemag.org" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.sciencemag.org" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Science Latest" title="Science Latest" type="rss" xmlUrl="http://blog.wired.com/wiredscience/rss.xml" htmlUrl="https://www.wired.com/category/science/latest" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.wired.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Nature" title="Nature" type="rss" xmlUrl="http://www.nature.com/nature/current_issue/rss" htmlUrl="http://www.nature.com/nature/current_issue/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.nature.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="National Geographic" title="National Geographic" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A" htmlUrl="http://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.youtube.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="science (HU)" text="science (HU)">
+      <outline text="Hamu és Gyémánt" title="Hamu és Gyémánt" type="rss" xmlUrl="https://hamuesgyemant.hu/feeds/feed.rss" htmlUrl="https://hamuesgyemant.hu/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/hamuesgyemant.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Qubit" title="Qubit" type="rss" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/qubit.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Raketa.hu" title="Raketa.hu" type="rss" xmlUrl="https://raketa.hu/feed" htmlUrl="https://raketa.hu/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/raketa.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="security (EN)" text="security (EN)">
+      <outline text="Exploit-DB.com RSS Feed" title="Exploit-DB.com RSS Feed" type="rss" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.exploit-db.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Google Android Security Bulletins" title="Google Android Security Bulletins" type="rss" xmlUrl="https://advisories.feedly.com/google/android/feed.json" htmlUrl="https://source.android.com/security/bulletin" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/source.android.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="CISA Cybersecurity Advisories" title="CISA Cybersecurity Advisories" type="rss" xmlUrl="https://www.cisa.gov/uscert/ncas/alerts.xml" htmlUrl="https://us-cert.cisa.gov/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/us-cert.cisa.gov" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="The Exploit Database - CXSecurity.com" title="The Exploit Database - CXSecurity.com" type="rss" xmlUrl="http://securityreason.com/rss/ExploitAlert" htmlUrl="https://cxsecurity.com/wlb/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/cxsecurity.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Exploit Files ≈ Packet Storm" title="Exploit Files ≈ Packet Storm" type="rss" xmlUrl="http://packetstormsecurity.org/exploits.xml" htmlUrl="https://packetstormsecurity.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/packetstormsecurity.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Elastic Stack" title="Elastic Stack" type="rss" xmlUrl="https://discuss.elastic.co/c/announcements/security-announcements/31.rss" htmlUrl="https://discuss.elastic.co/c/announcements/security-announcements/31" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/discuss.elastic.co" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Center for Internet Security - Multi-State Information Sharing and Analysis Center" title="Center for Internet Security - Multi-State Information Sharing and Analysis Center" type="rss" xmlUrl="https://www.cisecurity.org/feed/advisories" htmlUrl="https://www.cisecurity.org" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.cisecurity.org" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="CXSECURITY Database RSS Feed - CXSecurity.com" title="CXSECURITY Database RSS Feed - CXSecurity.com" type="rss" xmlUrl="https://cxsecurity.com/wlb/rss/all/" htmlUrl="https://cxsecurity.com/wlb/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/cxsecurity.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Jenkins Security Advisories" title="Jenkins Security Advisories" type="rss" xmlUrl="https://advisories.feedly.com/jenkins/feed.json" htmlUrl="https://www.jenkins.io/security/advisories/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.jenkins.io" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="CISA - Known exploited vulnerabilities catalog" title="CISA - Known exploited vulnerabilities catalog" type="rss" xmlUrl="https://advisories.feedly.com/cisa/exploitedCve/feed.json" htmlUrl="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.cisa.gov" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Security Latest" title="Security Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/security/latest/rss" htmlUrl="https://www.wired.com/category/security/latest" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.wired.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Google Chrome Security Bulletins" title="Google Chrome Security Bulletins" type="rss" xmlUrl="https://advisories.feedly.com/google/chrome/feed.json" htmlUrl="https://chromereleases.googleblog.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/chromereleases.googleblog.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="CERT Recently Published Vulnerability Notes" title="CERT Recently Published Vulnerability Notes" type="rss" xmlUrl="http://www.kb.cert.org/vulfeed" htmlUrl="http://www.kb.cert.org/vuls/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.kb.cert.org" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="0 Day News ≈ Packet Storm" title="0 Day News ≈ Packet Storm" type="rss" xmlUrl="http://rss.packetstormsecurity.org/news/tags/zero_day/" htmlUrl="https://packetstormsecurity.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/packetstormsecurity.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="tech (EN)" text="tech (EN)">
+      <outline text="OMG! Ubuntu!" title="OMG! Ubuntu!" type="rss" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.omgubuntu.co.uk" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Computerworld" title="Computerworld" type="rss" xmlUrl="http://feeds.computerworld.com/Computerworld/News" htmlUrl="http://www.computerworld.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.computerworld.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="MS Poweruser" title="MS Poweruser" type="rss" xmlUrl="http://wmpoweruser.com/feed/" htmlUrl="http://mspoweruser.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/mspoweruser.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="ExtremeTech" title="ExtremeTech" type="rss" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.extremetech.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="http://feeds.feedburner.com/Phoronix" htmlUrl="http://www.phoronix.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.phoronix.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Windows Central" title="Windows Central" type="rss" xmlUrl="http://feeds.feedburner.com/wmexperts" htmlUrl="http://www.windowscentral.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.windowscentral.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="PCMag" title="PCMag" type="rss" xmlUrl="https://www.pcmag.com/feeds/rss/latest" htmlUrl="https://www.pcmag.com/feeds/rss/latest" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.pcmag.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Tomshardware" title="Tomshardware" type="rss" xmlUrl="http://www.tomshardware.com/feeds/rss2/all.xml" htmlUrl="http://www.tomshardware.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.tomshardware.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/everything" htmlUrl="http://arstechnica.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/arstechnica.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/slashdot.org" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Neowin" title="Neowin" type="rss" xmlUrl="http://feeds.feedburner.com/neowin-main" htmlUrl="http://www.neowin.net/news/rss/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.neowin.net" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="The Next Web" title="The Next Web" type="rss" xmlUrl="http://feeds2.feedburner.com/TheNextWeb" htmlUrl="http://thenextweb.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/thenextweb.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Digital Trends" title="Digital Trends" type="rss" xmlUrl="http://www.digitaltrends.com/feed/" htmlUrl="http://www.digitaltrends.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.digitaltrends.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="The Verge" title="The Verge" type="rss" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="http://www.theverge.com/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.theverge.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="PCWorld" title="PCWorld" type="rss" xmlUrl="http://feeds.pcworld.com/pcworld/latestnews" htmlUrl="http://www.pcworld.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.pcworld.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="The Verge -  Science Posts" title="The Verge -  Science Posts" type="rss" xmlUrl="http://www.theverge.com/science/rss/index.xml" htmlUrl="https://www.theverge.com/science" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.theverge.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="http://arstechnica.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/arstechnica.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Google Official" title="Google Official" type="rss" xmlUrl="https://blog.google/rss/" htmlUrl="https://blog.google/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/blog.google" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="AnandTech" title="AnandTech" type="rss" xmlUrl="http://www.anandtech.com/rss/" htmlUrl="http://www.anandtech.com" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.anandtech.com" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+    <outline title="tech (HU)" text="tech (HU)">
+      <outline text="HWSW" title="HWSW" type="rss" xmlUrl="http://www.hwsw.hu/xml/latest_news_rss.xml" htmlUrl="http://www.hwsw.hu/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/www.hwsw.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Android Portál" title="Android Portál" type="rss" xmlUrl="http://androidportal.hu/rss.xml" htmlUrl="http://androidportal.hu/rss.xml" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/h" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="iPon cikkek" title="iPon cikkek" type="rss" xmlUrl="http://ipon.hu/news-feed" htmlUrl="https://ipon.hu/rss/contents-feed" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/ipon.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="PROHARDVER" title="PROHARDVER" type="rss" xmlUrl="http://prohardver.hu/_xcache/rss_ph.xml" htmlUrl="http://prohardver.hu/_xcache/rss_ph.xml" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/h" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="PCW" title="PCW" type="rss" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://pcworld.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/pcworld.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Leet" title="Leet" type="rss" xmlUrl="https://leet.hu/feed/" htmlUrl="https://leet.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/leet.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="PC Fórum" title="PC Fórum" type="rss" xmlUrl="http://pcforum.hu/site.pc/backend/pcforum.rdf" htmlUrl="http://pcforum.hu/" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/pcforum.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+      <outline text="Mobilarena" title="Mobilarena" type="rss" xmlUrl="http://mobilarena.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://mobilarena.hu" rssfr-numPosts="0" rssfr-favicon="https://icons.feedercdn.com/mobilarena.hu" rssfr-useNotifications="0" rssfr-updateInterval=""/>
+    </outline>
+  </body>
 </opml>
