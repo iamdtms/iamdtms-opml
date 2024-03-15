@@ -3,16 +3,16 @@ iamdtms OPML export.
 Feed categories:
 
 - android (EN)
-- design (EN)
+- future/AI (EN)
 - game (EN)
 - game (HU)
-- future/AI (EN)
-- news (HU)
 - life (HU)
+- news (HU)
 - science (EN)
 - science (HU)
 - security (EN)
 - tech (EN)
 - tech (HU)
+- web (EN)
 
 (HU) = Hungarian, (EN) = English
