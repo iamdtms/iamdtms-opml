@@ -7,6 +7,7 @@ Feed categories:
 - game (EN)
 - game (HU)
 - life (HU)
+- linux (EN)
 - news (HU)
 - science (EN)
 - science (HU)
