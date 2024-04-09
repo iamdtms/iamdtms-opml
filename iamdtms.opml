@@ -55,6 +55,7 @@
             <outline type="rss" text="Gaming – Ars Technica" title="Gaming – Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/gaming/" htmlUrl="https://arstechnica.com"/>
             <outline type="rss" text="PCGamer latest" title="PCGamer latest" xmlUrl="http://www.maximumpc.com/articles/all/feed" htmlUrl="https://www.pcgamer.com"/>
             <outline type="rss" text="Steam" title="Steam" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
+            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup/"/>
             <outline type="rss" text="Eurogamer" title="Eurogamer" xmlUrl="http://www.eurogamer.net/rss/eurogamer_frontpage_feed.rss" htmlUrl="https://www.eurogamer.net/feed"/>
         </outline>
         <outline text="web (EN)" title="web (EN)">
@@ -210,7 +211,6 @@
             <outline type="rss" text="2DayGeek" title="2DayGeek" xmlUrl="http://www.2daygeek.com/feed/" htmlUrl="https://www.2daygeek.com"/>
             <outline type="rss" text="DistroWatch.com: News" title="DistroWatch.com: News" xmlUrl="http://distrowatch.com/news/dw.xml" htmlUrl="https://distrowatch.com/"/>
             <outline type="rss" text="Ubuntu blog" title="Ubuntu blog" xmlUrl="http://www.ubuntu.com/rss.xml" htmlUrl="https://ubuntu.com//blog/feed"/>
-            <outline type="rss" text="Linux Today" title="Linux Today" xmlUrl="http://linuxtoday.com/backend/biglt.rss" htmlUrl="https://www.linuxtoday.com/"/>
             <outline type="rss" text="Howtoforge Linux Howtos und Tutorials" title="Howtoforge Linux Howtos und Tutorials" xmlUrl="http://www.howtoforge.com/node/feed" htmlUrl="https://www.howtoforge.com"/>
         </outline>
         <outline text="tech (HU)" title="tech (HU)">
