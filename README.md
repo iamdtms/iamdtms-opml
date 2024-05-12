@@ -4,7 +4,6 @@ Feed categories:
 
 - android (EN)
 - future/AI (EN)
-- game (EN)
 - game (HU)
 - life (HU)
 - news (HU)
