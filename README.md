@@ -7,5 +7,5 @@ Feed categories:
 - news (HU)
 - linux (EN) 
 
-(HU) = Hungarian
+(HU) = Hungarian,
 (EN) = English
