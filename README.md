@@ -2,10 +2,11 @@
 iamdtms OPML export. 
 Feed categories:
 
+- AI
 - tech
 - web
 - news (HU)
-- gaming
+- gaming (HU)
 - linux
 
 (HU) = Hungarian,
