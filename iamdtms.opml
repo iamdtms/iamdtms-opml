@@ -15,15 +15,6 @@
             <outline type="rss" text="Howtoforge Linux Howtos und Tutorials" title="Howtoforge Linux Howtos und Tutorials" xmlUrl="http://www.howtoforge.com/node/feed" htmlUrl="https://www.howtoforge.com"/>
             <outline type="rss" text="The Linux Mint Blog" title="The Linux Mint Blog" xmlUrl="http://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com"/>
         </outline>
-        <outline text="gaming" title="gaming">
-            <outline type="rss" text="Gaming – Ars Technica" title="Gaming – Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/gaming/" htmlUrl="https://arstechnica.com"/>
-            <outline type="rss" text="Steam" title="Steam" xmlUrl="http://store.steampowered.com/feeds/news.xml" htmlUrl="http://www.steampowered.com/"/>
-            <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="http://feeds.gawker.com/kotaku/vip" htmlUrl="https://kotaku.com"/>
-            <outline type="rss" text="Polygon" title="Polygon" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/"/>
-            <outline type="rss" text="GameSpot" title="GameSpot" xmlUrl="http://www.gamespot.com/rss/game_updates.php" htmlUrl="https://www.gamespot.com/feeds/mashup/"/>
-            <outline type="rss" text="IGN" title="IGN" xmlUrl="http://feeds.ign.com/ign/games-all" htmlUrl="https://www.ign.com/articles"/>
-            <outline type="rss" text="Eurogamer" title="Eurogamer" xmlUrl="http://www.eurogamer.net/rss/eurogamer_frontpage_feed.rss" htmlUrl="https://www.eurogamer.net/feed"/>
-        </outline>
         <outline text="news (HU)" title="news (HU)">
             <outline type="rss" text="444" title="444" xmlUrl="https://444.hu/feed" htmlUrl="https://444.hu/feed"/>
             <outline type="rss" text="telex" title="telex" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
@@ -56,7 +47,6 @@
             <outline type="rss" text="David Darnes" title="David Darnes" xmlUrl="https://darn.es/rss.xml" htmlUrl="https://darn.es"/>
             <outline type="rss" text="Paul Robert Lloyd" title="Paul Robert Lloyd" xmlUrl="https://paulrobertlloyd.com/feed.xml" htmlUrl="https://paulrobertlloyd.com"/>
             <outline type="rss" text="Google Developers Blog" title="Google Developers Blog" xmlUrl="http://feeds.feedburner.com/GDBcode" htmlUrl="https://developers.googleblog.com/rss/"/>
-            <outline type="rss" text="scale.at | A small scale blog about large scale projects." title="scale.at | A small scale blog about large scale projects." xmlUrl="https://www.scale.at/blog/feed.xml" htmlUrl="https://www.scale.at/blog"/>
             <outline type="rss" text="noupe" title="noupe" xmlUrl="http://feeds.feedburner.com/Noupe" htmlUrl="https://www.noupe.com/"/>
             <outline type="rss" text="The Teen Square" title="The Teen Square" xmlUrl="https://theteensquare.com/feed/" htmlUrl="https://theteensquare.com/"/>
             <outline type="rss" text="The Oatmeal - Comics by Matthew Inman" title="The Oatmeal - Comics by Matthew Inman" xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/"/>
@@ -69,7 +59,6 @@
             <outline type="rss" text="Adam Argyle" title="Adam Argyle" xmlUrl="https://nerdy.dev/rss.xml" htmlUrl="https://nerdy.dev"/>
             <outline type="rss" text="phloe.co" title="phloe.co" xmlUrl="https://phloe.co/rss.xml" htmlUrl="https://phloe.co/"/>
             <outline type="rss" text="httpsterio's ramblings and articles" title="httpsterio's ramblings and articles" xmlUrl="https://httpster.io/feed.xml" htmlUrl="https://httpster.io/"/>
-            <outline type="rss" text="Lene Saile" title="Lene Saile" xmlUrl="https://www.lenesaile.com/en/feed.xml" htmlUrl="https://www.lenesaile.com/en/"/>
             <outline type="rss" text="Text Lab | RSS Feed" title="Text Lab | RSS Feed" xmlUrl="https://textlab.dev/rss.xml" htmlUrl="https://textlab.dev"/>
             <outline type="rss" text="Robin Rendle" title="Robin Rendle" xmlUrl="http://robinrendle.com/feed.xml" htmlUrl="https://robinrendle.com/"/>
             <outline type="rss" text="Heather Buchel" title="Heather Buchel" xmlUrl="https://heather-buchel.com/feed/feed.xml" htmlUrl="https://heather-buchel.com/"/>
@@ -103,10 +92,17 @@
             <outline type="rss" text="mobilewebweekly.co" title="mobilewebweekly.co" xmlUrl="http://mobilewebweekly.co/feed" htmlUrl="https://mobilewebweekly.co"/>
             <outline type="rss" text="Ahmad Shadeed" title="Ahmad Shadeed" xmlUrl="http://ishadeed.com/feed.xml" htmlUrl="https://ishadeed.com/"/>
             <outline type="rss" text="daverupert.com" title="daverupert.com" xmlUrl="http://daverupert.com/atom.xml" htmlUrl="https://daverupert.com"/>
-            <outline type="rss" text="Jonathan Dallas" title="Jonathan Dallas" xmlUrl="https://jwdallas.com/feed.xml" htmlUrl="https://jwdallas.com/"/>
+        </outline>
+        <outline text="AI" title="AI">
+            <outline type="rss" text="MIT Technology Review" title="MIT Technology Review" xmlUrl="http://www.technologyreview.com/rss/rss.aspx" htmlUrl="https://www.technologyreview.com"/>
+            <outline type="rss" text="Singularity Hub" title="Singularity Hub" xmlUrl="http://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
+            <outline type="rss" text="The Guardian - Artificial intelligence" title="The Guardian - Artificial intelligence" xmlUrl="http://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
+            <outline type="rss" text="Futurism" title="Futurism" xmlUrl="http://www.fromquarkstoquasars.com/feed/" htmlUrl="https://futurism.com"/>
+            <outline type="rss" text="BBC Future" title="BBC Future" xmlUrl="http://www.bbc.com/future/feed.rss" htmlUrl="https://www.bbc.com/"/>
+            <outline type="rss" text="ScienceDaily - Artificial Intelligence" title="ScienceDaily - Artificial Intelligence" xmlUrl="http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
         </outline>
         <outline text="tech" title="tech">
-            <outline type="rss" text="Computerworld" title="Computerworld" xmlUrl="http://feeds.computerworld.com/Computerworld/News" htmlUrl="https://www.computerworld.com"/>
+            <outline type="rss" text="Microsoft employees must use Apple iPhones in China – Computerworld" title="Microsoft employees must use Apple iPhones in China – Computerworld" xmlUrl="http://feeds.computerworld.com/Computerworld/News" htmlUrl="https://www.computerworld.com"/>
             <outline type="rss" text="MS Poweruser" title="MS Poweruser" xmlUrl="http://wmpoweruser.com/feed/" htmlUrl="https://mspoweruser.com/"/>
             <outline type="rss" text="PCMag" title="PCMag" xmlUrl="https://www.pcmag.com/feeds/rss/latest" htmlUrl="https://www.pcmag.com/feeds/rss/latest"/>
             <outline type="rss" text="ExtremeTech" title="ExtremeTech" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/feed"/>
@@ -122,6 +118,13 @@
             <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
             <outline type="rss" text="PCWorld" title="PCWorld" xmlUrl="http://feeds.pcworld.com/pcworld/latestnews" htmlUrl="https://www.pcworld.com"/>
             <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+        </outline>
+        <outline text="gaming (HU)" title="gaming (HU)">
+            <outline type="rss" text="PlayDome.hu" title="PlayDome.hu" xmlUrl="http://www.pcdome.hu/rss.html" htmlUrl="https://www.playdome.hu"/>
+            <outline type="rss" text="A PGO legfrissebb anyagai | PC Guru Online" title="A PGO legfrissebb anyagai | PC Guru Online" xmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" htmlUrl="https://www.pcguru.hu"/>
+            <outline type="rss" text="Hírek és cikkek - GAMEPOD.hu" title="Hírek és cikkek - GAMEPOD.hu" xmlUrl="http://gamepod.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://gamepod.hu"/>
+            <outline type="rss" text="GS Hírek" title="GS Hírek" xmlUrl="http://www.gamestar.hu/rss/rss.xml" htmlUrl="https://www.gsplus.hu"/>
+            <outline type="rss" text="Gamekapocs játékmagazin - Friss hírek" title="Gamekapocs játékmagazin - Friss hírek" xmlUrl="http://feeds2.feedburner.com/gamekapocs" htmlUrl="https://www.gamekapocs.hu"/>
         </outline>
     </body>
 </opml>
