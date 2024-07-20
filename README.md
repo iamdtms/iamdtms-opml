@@ -2,11 +2,6 @@
 iamdtms OPML export. 
 Feed categories:
 
-- AI
-- linux
-- news (HU)
+- android
+- news
 - tech
-- web
-
-(HU) = Hungarian,
-default = English
