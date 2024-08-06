@@ -8,5 +8,6 @@ hu
 - Economx
 - HVG
 - Átlátszó
+
 tech
 - ...
