@@ -1,6 +1,12 @@
 # iamdtms-opml
-iamdtms OPML export. 
-Feed categories:
+iamdtms OPML export
 
-- hu
-- tech
+hu
+- 444
+- Telex
+- Forbes
+- Economx
+- HVG
+- Átlátszó
+tech
+- ...
