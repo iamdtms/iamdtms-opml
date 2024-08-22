@@ -1,13 +1,14 @@
 # iamdtms-opml
 iamdtms OPML export
 
-hu
-- 444
-- Telex
-- Forbes
-- Economx
-- HVG
-- Átlátszó
+AI, Linux, Tech, Web
 
-tech
-- ...
+News
+- 444
+- Átlátszó
+- Economx
+- Forbes
+- HVG
+- Telex
+
+109 feeds
