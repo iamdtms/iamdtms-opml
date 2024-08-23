@@ -1,9 +1,9 @@
 # iamdtms-opml
 iamdtms OPML export
 
-AI, Linux, Tech, Web
+AI, Android, Linux, Tech, Web
 
-News
+& News
 - 444
 - Átlátszó
 - Economx
