@@ -5,7 +5,7 @@
         <title>iamdtms' subscriptions</title>
     </head>
     <body>
-        <outline text="web" title="web">
+        <outline text="Web" title="Web">
             <outline type="rss" text="Google for Developers" title="Google for Developers" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw" htmlUrl="https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw"/>
             <outline type="rss" text="Chromium Blog" title="Chromium Blog" xmlUrl="http://blog.chromium.org/atom.xml" htmlUrl="http://blog.chromium.org/"/>
             <outline type="rss" text="Frontend Masters Boost RSS Feed" title="Frontend Masters Boost RSS Feed" xmlUrl="https://frontendmasters.com/blog/feed/" htmlUrl="https://frontendmasters.com/blog"/>
@@ -51,7 +51,6 @@
             <outline type="rss" text="Rody Davis" title="Rody Davis" xmlUrl="https://rodydavis.com/rss.xml" htmlUrl="https://rodydavis.com/"/>
             <outline type="rss" text="Manuel Matuzović - Blog" title="Manuel Matuzović - Blog" xmlUrl="https://www.matuzo.at/feed.xml" htmlUrl="https://www.matuzo.at"/>
             <outline type="rss" text="developer.chrome.com: Blog" title="developer.chrome.com: Blog" xmlUrl="https://developer.chrome.com/feed.xml" htmlUrl="https://developer.chrome.com/blog/"/>
-            <outline type="rss" text="Šime’s blog" title="Šime’s blog" xmlUrl="https://xn--ime-zza.eu/feed.xml" htmlUrl="https://šime.eu/"/>
             <outline type="rss" text="Scott Jehl's Blog" title="Scott Jehl's Blog" xmlUrl="https://scottjehl.com/feed.xml" htmlUrl="https://scottjehl.com/"/>
             <outline type="rss" text="Josh Collinsworth" title="Josh Collinsworth" xmlUrl="https://joshcollinsworth.com/api/rss.xml" htmlUrl="https://joshcollinsworth.com"/>
             <outline type="rss" text="That HTML Blog" title="That HTML Blog" xmlUrl="https://thathtml.blog/feed.xml" htmlUrl="https://thathtml.blog/"/>
@@ -79,32 +78,28 @@
             <outline type="rss" text="BBC Future" title="BBC Future" xmlUrl="http://www.bbc.com/future/feed.rss" htmlUrl="https://www.bbc.com/"/>
             <outline type="rss" text="ScienceDaily - Artificial Intelligence" title="ScienceDaily - Artificial Intelligence" xmlUrl="http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
         </outline>
-        <outline text="news" title="news">
+        <outline text="News" title="News">
             <outline type="rss" text="444" title="444" xmlUrl="https://444.hu/feed" htmlUrl="https://444.hu/feed"/>
             <outline type="rss" text="telex" title="telex" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
             <outline type="rss" text="forbes" title="forbes" xmlUrl="https://forbes.hu/feed/" htmlUrl="https://forbes.hu"/>
+            <outline type="rss" text="Qubit" title="Qubit" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
             <outline type="rss" text="economx" title="economx" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
             <outline type="rss" text="hvg" title="hvg" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/"/>
             <outline type="rss" text="atlatszo" title="atlatszo" xmlUrl="http://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu"/>
         </outline>
-        <outline text="tech" title="tech">
-            <outline type="rss" text="MacStadium brings Orka Desktop for Devops – Computerworld" title="MacStadium brings Orka Desktop for Devops – Computerworld" xmlUrl="http://feeds.computerworld.com/Computerworld/News" htmlUrl="https://www.computerworld.com"/>
+        <outline text="Tech" title="Tech">
             <outline type="rss" text="CNET" title="CNET" xmlUrl="http://news.cnet.com/2547-1_3-0-20.xml" htmlUrl="https://www.cnet.com/#ftag=CAD590a51e"/>
             <outline type="rss" text="MS Poweruser" title="MS Poweruser" xmlUrl="http://wmpoweruser.com/feed/" htmlUrl="https://mspoweruser.com/"/>
             <outline type="rss" text="PCMag" title="PCMag" xmlUrl="https://www.pcmag.com/feeds/rss/latest" htmlUrl="https://www.pcmag.com/feeds/rss/latest"/>
             <outline type="rss" text="ExtremeTech" title="ExtremeTech" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/feed"/>
-            <outline type="rss" text="Android Police" title="Android Police" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com"/>
             <outline type="rss" text="Windows Central" title="Windows Central" xmlUrl="http://feeds.feedburner.com/wmexperts" htmlUrl="https://www.windowscentral.com"/>
             <outline type="rss" text="TED Tech" title="TED Tech" xmlUrl="http://feeds.feedburner.com/iTunesPodcastTTTechnology" htmlUrl="http://audiocollective.ted.com"/>
             <outline type="rss" text="Tomshardware" title="Tomshardware" xmlUrl="http://www.tomshardware.com/feeds/rss2/all.xml" htmlUrl="https://www.tomshardware.com"/>
             <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/everything" htmlUrl="https://arstechnica.com"/>
             <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
-            <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="http://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
-            <outline type="rss" text="PhoneArena" title="PhoneArena" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="https://www.phonearena.com/"/>
             <outline type="rss" text="Neowin" title="Neowin" xmlUrl="http://feeds.feedburner.com/neowin-main" htmlUrl="https://www.neowin.net/"/>
             <outline type="rss" text="The Next Web" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="https://thenextweb.com"/>
             <outline type="rss" text="Android Central RSS Feed" title="Android Central RSS Feed" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com"/>
-            <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com/"/>
             <outline type="rss" text="Digital Trends" title="Digital Trends" xmlUrl="http://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com"/>
             <outline type="rss" text="Google Official" title="Google Official" xmlUrl="https://blog.google/rss/" htmlUrl="https://blog.google/"/>
             <outline type="rss" text="AnandTech" title="AnandTech" xmlUrl="http://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com"/>
@@ -113,7 +108,13 @@
             <outline type="rss" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/excerpts.rss" htmlUrl="https://www.theregister.com/"/>
             <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
         </outline>
-        <outline text="linux" title="linux">
+        <outline text="Android" title="Android">
+            <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="http://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
+            <outline type="rss" text="PhoneArena" title="PhoneArena" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="https://www.phonearena.com/"/>
+            <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com/"/>
+            <outline type="rss" text="Android Police" title="Android Police" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com"/>
+        </outline>
+        <outline text="Linux" title="Linux">
             <outline type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"/>
             <outline type="rss" text="Linux Journal - The Original Magazine of the Linux Community" title="Linux Journal - The Original Magazine of the Linux Community" xmlUrl="http://www.linuxjournal.com/node/feed" htmlUrl="https://www.linuxjournal.com/"/>
             <outline type="rss" text="DistroWatch.com: News" title="DistroWatch.com: News" xmlUrl="http://distrowatch.com/news/dw.xml" htmlUrl="https://distrowatch.com/"/>
@@ -123,6 +124,15 @@
             <outline type="rss" text="Howtoforge Linux Howtos und Tutorials" title="Howtoforge Linux Howtos und Tutorials" xmlUrl="http://www.howtoforge.com/node/feed" htmlUrl="https://www.howtoforge.com"/>
             <outline type="rss" text="It's FOSS" title="It's FOSS" xmlUrl="http://feeds.feedburner.com/ItsFoss" htmlUrl="https://itsfoss.com/"/>
             <outline type="rss" text="The Linux Mint Blog" title="The Linux Mint Blog" xmlUrl="http://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com"/>
+        </outline>
+        <outline text="Quantum" title="Quantum">
+            <outline type="rss" text="The Quantum Insider" title="The Quantum Insider" xmlUrl="https://thequantumdaily.com/feed/" htmlUrl="https://thequantuminsider.com/"/>
+            <outline type="rss" text="The Quantum Insider" title="The Quantum Insider" xmlUrl="https://thequantuminsider.com/feed/" htmlUrl="https://thequantuminsider.com/"/>
+            <outline type="rss" text="Quantum Computing Report" title="Quantum Computing Report" xmlUrl="https://quantumcomputingreport.com/feed/" htmlUrl="https://quantumcomputingreport.com/"/>
+            <outline type="rss" text="Quantum Physics News" title="Quantum Physics News" xmlUrl="http://www.physorg.com/rss-feed/physics-news/quantum-physics/" htmlUrl="https://phys.org/physics-news/quantum-physics"/>
+            <outline type="rss" text="Institute for Quantum Computing" title="Institute for Quantum Computing" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjbU8YFYBZAHAIVxY-OBaAQ" htmlUrl="https://www.youtube.com/channel/UCjbU8YFYBZAHAIVxY-OBaAQ"/>
+            <outline type="rss" text="MIT News - Quantum computing" title="MIT News - Quantum computing" xmlUrl="http://news.mit.edu/rss/topic/quantum-computing" htmlUrl="https://news.mit.edu/rss/topic/quantum-computing"/>
+            <outline type="rss" text="Quantum Computers News -- ScienceDaily" title="Quantum Computers News -- ScienceDaily" xmlUrl="http://www.sciencedaily.com/rss/computers_math/quantum_computers.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/quantum_computers/"/>
         </outline>
     </body>
 </opml>
