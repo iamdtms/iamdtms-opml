@@ -39,9 +39,7 @@
             <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="http://rss1.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/"/>
             <outline type="rss" text="Adam Argyle" title="Adam Argyle" xmlUrl="https://nerdy.dev/rss.xml" htmlUrl="https://nerdy.dev"/>
             <outline type="rss" text="httpsterio's ramblings and articles" title="httpsterio's ramblings and articles" xmlUrl="https://httpster.io/feed.xml" htmlUrl="https://httpster.io/"/>
-            <outline type="rss" text="Text Lab | RSS Feed" title="Text Lab | RSS Feed" xmlUrl="https://textlab.dev/rss.xml" htmlUrl="https://textlab.dev"/>
             <outline type="rss" text="Robin Rendle" title="Robin Rendle" xmlUrl="http://robinrendle.com/feed.xml" htmlUrl="https://robinrendle.com/"/>
-            <outline type="rss" text="Heather Buchel" title="Heather Buchel" xmlUrl="https://heather-buchel.com/feed/feed.xml" htmlUrl="https://heather-buchel.com/"/>
             <outline type="rss" text="Melanie Richards" title="Melanie Richards" xmlUrl="https://melanie-richards.com/feed.xml" htmlUrl="https://melanie-richards.com/"/>
             <outline type="rss" text="Manuel Strehl" title="Manuel Strehl" xmlUrl="https://manuel-strehl.de/feed.xml" htmlUrl="https://manuel-strehl.de/"/>
             <outline type="rss" text="Codrops" title="Codrops" xmlUrl="http://feeds.feedburner.com/Codrops" htmlUrl="https://tympanus.net/codrops"/>
@@ -120,19 +118,9 @@
             <outline type="rss" text="DistroWatch.com: News" title="DistroWatch.com: News" xmlUrl="http://distrowatch.com/news/dw.xml" htmlUrl="https://distrowatch.com/"/>
             <outline type="rss" text="Phoronix" title="Phoronix" xmlUrl="http://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
             <outline type="rss" text="Ubuntu blog" title="Ubuntu blog" xmlUrl="http://www.ubuntu.com/rss.xml" htmlUrl="https://ubuntu.com//blog/feed"/>
-            <outline type="rss" text="Planet GNOME" title="Planet GNOME" xmlUrl="http://planet.gnome.org/rss20.xml" htmlUrl="https://planet.gnome.org/"/>
             <outline type="rss" text="Howtoforge Linux Howtos und Tutorials" title="Howtoforge Linux Howtos und Tutorials" xmlUrl="http://www.howtoforge.com/node/feed" htmlUrl="https://www.howtoforge.com"/>
             <outline type="rss" text="It's FOSS" title="It's FOSS" xmlUrl="http://feeds.feedburner.com/ItsFoss" htmlUrl="https://itsfoss.com/"/>
             <outline type="rss" text="The Linux Mint Blog" title="The Linux Mint Blog" xmlUrl="http://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com"/>
-        </outline>
-        <outline text="Quantum" title="Quantum">
-            <outline type="rss" text="The Quantum Insider" title="The Quantum Insider" xmlUrl="https://thequantumdaily.com/feed/" htmlUrl="https://thequantuminsider.com/"/>
-            <outline type="rss" text="The Quantum Insider" title="The Quantum Insider" xmlUrl="https://thequantuminsider.com/feed/" htmlUrl="https://thequantuminsider.com/"/>
-            <outline type="rss" text="Quantum Computing Report" title="Quantum Computing Report" xmlUrl="https://quantumcomputingreport.com/feed/" htmlUrl="https://quantumcomputingreport.com/"/>
-            <outline type="rss" text="Quantum Physics News" title="Quantum Physics News" xmlUrl="http://www.physorg.com/rss-feed/physics-news/quantum-physics/" htmlUrl="https://phys.org/physics-news/quantum-physics"/>
-            <outline type="rss" text="Institute for Quantum Computing" title="Institute for Quantum Computing" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjbU8YFYBZAHAIVxY-OBaAQ" htmlUrl="https://www.youtube.com/channel/UCjbU8YFYBZAHAIVxY-OBaAQ"/>
-            <outline type="rss" text="MIT News - Quantum computing" title="MIT News - Quantum computing" xmlUrl="http://news.mit.edu/rss/topic/quantum-computing" htmlUrl="https://news.mit.edu/rss/topic/quantum-computing"/>
-            <outline type="rss" text="Quantum Computers News -- ScienceDaily" title="Quantum Computers News -- ScienceDaily" xmlUrl="http://www.sciencedaily.com/rss/computers_math/quantum_computers.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/quantum_computers/"/>
         </outline>
     </body>
 </opml>
