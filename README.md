@@ -1,7 +1,7 @@
 # iamdtms-opml
 iamdtms OPML export
 
-AI, Android, Linux, Tech, Web
+Tech, Web
 
 & News
 - 444
