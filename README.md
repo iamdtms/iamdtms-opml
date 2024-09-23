@@ -11,5 +11,6 @@ Tech, Web
 - HVG
 - Telex
 - Qubit
+- Rakéta
 
 https://github.com/iamdtms/iamdtms-opml
