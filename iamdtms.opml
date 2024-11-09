@@ -22,7 +22,7 @@
             <outline type="rss" text="CSSence" title="CSSence" xmlUrl="https://cssence.com/all/rss.xml" htmlUrl="https://cssence.com/all/rss.xml"/>
             <outline type="rss" text="Miriam Eric Suzanne" title="Miriam Eric Suzanne" xmlUrl="https://www.miriamsuzanne.com/feed.xml" htmlUrl="https://www.miriamsuzanne.com/"/>
             <outline type="rss" text="Maggie Appleton" title="Maggie Appleton" xmlUrl="http://MaggieAppleton.com/rss.xml" htmlUrl="https://maggieappleton.com"/>
-            <outline type="rss" text="Mayank" title="Mayank" xmlUrl="https://www.mayank.co/blog/rss.xml" htmlUrl="https://www.mayank.co/"/>
+            <outline type="rss" text="Mayank" title="Mayank" xmlUrl="https://www.mayank.co/blog/rss.xml" htmlUrl="https://mayank.co/"/>
             <outline type="rss" text="utilitybend" title="utilitybend" xmlUrl="https://utilitybend.com/rss.xml" htmlUrl="https://utilitybend.com/"/>
             <outline type="rss" text="Austin Gil" title="Austin Gil" xmlUrl="https://stegosource.com/feed/" htmlUrl="https://austingil.com"/>
             <outline type="rss" text="David Darnes" title="David Darnes" xmlUrl="https://darn.es/rss.xml" htmlUrl="https://darn.es"/>
@@ -30,7 +30,6 @@
             <outline type="rss" text="Google Developers Blog" title="Google Developers Blog" xmlUrl="http://feeds.feedburner.com/GDBcode" htmlUrl="https://developers.googleblog.com/rss/"/>
             <outline type="rss" text="noupe" title="noupe" xmlUrl="http://feeds.feedburner.com/Noupe" htmlUrl="https://www.noupe.com/"/>
             <outline type="rss" text="The Oatmeal - Comics by Matthew Inman" title="The Oatmeal - Comics by Matthew Inman" xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/"/>
-            <outline type="rss" text="Anthony Fu" title="Anthony Fu" xmlUrl="https://antfu.me/feed.xml" htmlUrl="https://antfu.me/"/>
             <outline type="rss" text="CSS3 Wizardry" title="CSS3 Wizardry" xmlUrl="http://css3wizardry.com/feed/" htmlUrl="https://css3wizardry.com"/>
             <outline type="rss" text="Bram.us" title="Bram.us" xmlUrl="http://www.bram.us/feed/" htmlUrl="https://www.bram.us"/>
             <outline type="rss" text="Una Kravets Online" title="Una Kravets Online" xmlUrl="https://una.im/rss.xml" htmlUrl="https://una.im/"/>
@@ -66,14 +65,12 @@
             <outline type="rss" text="Ahmad Shadeed" title="Ahmad Shadeed" xmlUrl="http://ishadeed.com/feed.xml" htmlUrl="https://ishadeed.com/"/>
             <outline type="rss" text="daverupert.com" title="daverupert.com" xmlUrl="http://daverupert.com/atom.xml" htmlUrl="https://daverupert.com"/>
         </outline>
-        <outline text="News" title="News">
-            <outline type="rss" text="444" title="444" xmlUrl="https://444.hu/feed" htmlUrl="https://444.hu/feed"/>
-            <outline type="rss" text="telex" title="telex" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
+        <outline text="News (hu)" title="News (hu)">
             <outline type="rss" text="forbes" title="forbes" xmlUrl="https://forbes.hu/feed/" htmlUrl="https://forbes.hu"/>
             <outline type="rss" text="Qubit" title="Qubit" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
+            <outline type="rss" text="Hungarian Unix Portal" title="Hungarian Unix Portal" xmlUrl="http://feeds.feedburner.com/HUP" htmlUrl="https://hup.hu/"/>
             <outline type="rss" text="economx" title="economx" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
             <outline type="rss" text="raketa" title="raketa" xmlUrl="https://raketa.hu/feed" htmlUrl="https://raketa.hu/"/>
-            <outline type="rss" text="hvg" title="hvg" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/"/>
             <outline type="rss" text="atlatszo" title="atlatszo" xmlUrl="http://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu"/>
         </outline>
         <outline text="Tech" title="Tech">
@@ -105,6 +102,7 @@
             <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="http://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
             <outline type="rss" text="PhoneArena" title="PhoneArena" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="https://www.phonearena.com/"/>
             <outline type="rss" text="MIT Technology Review" title="MIT Technology Review" xmlUrl="http://www.technologyreview.com/rss/rss.aspx" htmlUrl="https://www.technologyreview.com"/>
+            <outline type="rss" text="Disconnect" title="Disconnect" xmlUrl="https://www.disconnect.blog/feed" htmlUrl="https://disconnect.blog/"/>
             <outline type="rss" text="The Next Web" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="https://thenextweb.com"/>
             <outline type="rss" text="Android Central RSS Feed" title="Android Central RSS Feed" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com"/>
             <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com/"/>
