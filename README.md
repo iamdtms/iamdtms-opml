@@ -4,12 +4,10 @@ iamdtms OPML export
 Tech, Web
 
 & News
-- 444
 - Átlátszó
 - Economx
 - Forbes
-- HVG
-- Telex
+- HUP
 - Qubit
 - Rakéta
 
