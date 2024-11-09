@@ -3,7 +3,7 @@ iamdtms OPML export
 
 Tech, Web
 
-& News
+& News (hu) 
 - Átlátszó
 - Economx
 - Forbes
