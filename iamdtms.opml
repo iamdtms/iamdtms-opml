@@ -2,7 +2,7 @@
 
 <opml version="1.0">
     <head>
-        <title>iamdtms' subscriptions</title>
+        <title>iamdtms subscriptions in feedly Cloud</title>
     </head>
     <body>
         <outline text="Web" title="Web">
@@ -28,7 +28,7 @@
             <outline type="rss" text="David Darnes" title="David Darnes" xmlUrl="https://darn.es/rss.xml" htmlUrl="https://darn.es"/>
             <outline type="rss" text="Paul Robert Lloyd" title="Paul Robert Lloyd" xmlUrl="https://paulrobertlloyd.com/feed.xml" htmlUrl="https://paulrobertlloyd.com"/>
             <outline type="rss" text="Google Developers Blog" title="Google Developers Blog" xmlUrl="http://feeds.feedburner.com/GDBcode" htmlUrl="https://developers.googleblog.com/rss/"/>
-            <outline type="rss" text="noupe" title="noupe" xmlUrl="http://feeds.feedburner.com/Noupe" htmlUrl="https://www.noupe.com/"/>
+            <outline type="rss" text="noupe" title="noupe" xmlUrl="http://feeds.feedburner.com/Noupe" htmlUrl="https://www.noupe.com"/>
             <outline type="rss" text="The Oatmeal - Comics by Matthew Inman" title="The Oatmeal - Comics by Matthew Inman" xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/"/>
             <outline type="rss" text="CSS3 Wizardry" title="CSS3 Wizardry" xmlUrl="http://css3wizardry.com/feed/" htmlUrl="https://css3wizardry.com"/>
             <outline type="rss" text="Bram.us" title="Bram.us" xmlUrl="http://www.bram.us/feed/" htmlUrl="https://www.bram.us"/>
@@ -66,12 +66,10 @@
             <outline type="rss" text="daverupert.com" title="daverupert.com" xmlUrl="http://daverupert.com/atom.xml" htmlUrl="https://daverupert.com"/>
         </outline>
         <outline text="News (hu)" title="News (hu)">
+            <outline type="rss" text="Világgazdaság" title="Világgazdaság" xmlUrl="https://www.vg.hu/feed/" htmlUrl="https://www.vg.hu"/>
             <outline type="rss" text="forbes" title="forbes" xmlUrl="https://forbes.hu/feed/" htmlUrl="https://forbes.hu"/>
             <outline type="rss" text="Qubit" title="Qubit" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
-            <outline type="rss" text="Hungarian Unix Portal" title="Hungarian Unix Portal" xmlUrl="http://feeds.feedburner.com/HUP" htmlUrl="https://hup.hu/"/>
             <outline type="rss" text="economx" title="economx" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
-            <outline type="rss" text="raketa" title="raketa" xmlUrl="https://raketa.hu/feed" htmlUrl="https://raketa.hu/"/>
-            <outline type="rss" text="atlatszo" title="atlatszo" xmlUrl="http://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu"/>
         </outline>
         <outline text="Tech" title="Tech">
             <outline type="rss" text="Singularity Hub" title="Singularity Hub" xmlUrl="http://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
