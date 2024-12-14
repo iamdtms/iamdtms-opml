@@ -1,3 +1,2 @@
 # iamdtms-opml
-iamdtms OPML export: 
-Tech, Web
+iamdtms OPML export
