@@ -5,29 +5,30 @@
         <title>iamdtms' subscriptions</title>
     </head>
     <body>
-        <outline text="Feeds" title="Feeds">
+        <outline text="hun" title="hun">
             <outline type="rss" text="Népszava" title="Népszava" xmlUrl="https://nepszava.hu/feed/" htmlUrl="https://nepszava.hu/tag/"/>
-            <outline type="rss" text="Xiaomi News" title="Xiaomi News" xmlUrl="https://www.gizmochina.com/category/xiaomi/feed/" htmlUrl="https://www.gizmochina.com/category/xiaomi/"/>
-            <outline type="rss" text="Singularity Hub" title="Singularity Hub" xmlUrl="http://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
-            <outline type="rss" text="PCW" title="PCW" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://www.pcwplus.hu"/>
-            <outline type="rss" text="PCMag" title="PCMag" xmlUrl="https://www.pcmag.com/feeds/rss/latest" htmlUrl="https://www.pcmag.com/feeds/rss/latest"/>
-            <outline type="rss" text="TED Talks Daily" title="TED Talks Daily" xmlUrl="http://feeds.feedburner.com/tedtalks_audio" htmlUrl="https://www.ted.com"/>
-            <outline type="rss" text="New York Times - Artificial Intelligence " title="New York Times - Artificial Intelligence " xmlUrl="http://topics.nytimes.com/top/reference/timestopics/subjects/a/artificial_intelligence/?rss=1" htmlUrl="https://www.nytimes.com/topic/subject/artificial-intelligence"/>
-            <outline type="rss" text="hvg" title="hvg" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/"/>
-            <outline type="rss" text="Tomshardware" title="Tomshardware" xmlUrl="http://www.tomshardware.com/feeds/rss2/all.xml" htmlUrl="https://www.tomshardware.com"/>
-            <outline type="rss" text="Neowin" title="Neowin" xmlUrl="http://feeds.feedburner.com/neowin-main" htmlUrl="https://www.neowin.net/"/>
-            <outline type="rss" text="IGN Hungary" title="IGN Hungary" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="https://hu.ign.com"/>
-            <outline type="rss" text="Digital Trends" title="Digital Trends" xmlUrl="http://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com"/>
-            <outline type="rss" text="Google Official" title="Google Official" xmlUrl="https://blog.google/rss/" htmlUrl="https://blog.google/"/>
-            <outline type="rss" text="Telex" title="Telex" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
-            <outline type="rss" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/excerpts.rss" htmlUrl="https://www.theregister.com/"/>
-            <outline type="rss" text="atlatszo" title="atlatszo" xmlUrl="http://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu"/>
-            <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
-            <outline type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"/>
             <outline type="rss" text="iPon" title="iPon" xmlUrl="http://ipon.hu/news-feed" htmlUrl="https://ipon.hu/rss/contents-feed"/>
-            <outline type="rss" text="MS Poweruser" title="MS Poweruser" xmlUrl="http://wmpoweruser.com/feed/" htmlUrl="https://mspoweruser.com/"/>
+            <outline type="rss" text="NapiDroid" title="NapiDroid" xmlUrl="http://napidroid.hu/feed/" htmlUrl="https://napidroid.hu"/>
             <outline type="rss" text="PROHARDVER!" title="PROHARDVER!" xmlUrl="http://prohardver.hu/_xcache/rss_ph.xml" htmlUrl="https://prohardver.hu"/>
             <outline type="rss" text="Hamu és Gyémánt" title="Hamu és Gyémánt" xmlUrl="https://hamuesgyemant.hu/feeds/feed.rss" htmlUrl="https://hamuesgyemant.hu/"/>
+            <outline type="rss" text="IGN Hungary" title="IGN Hungary" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="https://hu.ign.com"/>
+            <outline type="rss" text="Telex" title="Telex" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
+            <outline type="rss" text="economx" title="economx" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
+            <outline type="rss" text="hvg" title="hvg" xmlUrl="http://www.hvg.hu/rss.aspx" htmlUrl="http://hvg.hu/"/>
+            <outline type="rss" text="atlatszo" title="atlatszo" xmlUrl="http://atlatszo.hu/feed/" htmlUrl="https://atlatszo.hu"/>
+        </outline>
+        <outline text="eng" title="eng">
+            <outline type="rss" text="pcwplus" title="pcwplus" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://www.pcwplus.hu"/>
+            <outline type="rss" text="PCMag" title="PCMag" xmlUrl="https://www.pcmag.com/feeds/rss/latest" htmlUrl="https://www.pcmag.com/feeds/rss/latest"/>
+            <outline type="rss" text="TED Talks Daily" title="TED Talks Daily" xmlUrl="http://feeds.feedburner.com/tedtalks_audio" htmlUrl="https://www.ted.com"/>
+            <outline type="rss" text="Tomshardware" title="Tomshardware" xmlUrl="http://www.tomshardware.com/feeds/rss2/all.xml" htmlUrl="https://www.tomshardware.com"/>
+            <outline type="rss" text="Neowin" title="Neowin" xmlUrl="http://feeds.feedburner.com/neowin-main" htmlUrl="https://www.neowin.net/"/>
+            <outline type="rss" text="Digital Trends" title="Digital Trends" xmlUrl="http://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com"/>
+            <outline type="rss" text="Google Official" title="Google Official" xmlUrl="https://blog.google/rss/" htmlUrl="https://blog.google/"/>
+            <outline type="rss" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/excerpts.rss" htmlUrl="https://www.theregister.com/"/>
+            <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+            <outline type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"/>
+            <outline type="rss" text="MS Poweruser" title="MS Poweruser" xmlUrl="http://wmpoweruser.com/feed/" htmlUrl="https://mspoweruser.com/"/>
             <outline type="rss" text="GrabFreeGames" title="GrabFreeGames" xmlUrl="https://steamcommunity.com/groups/GrabFreeGames/rss/" htmlUrl="https://steamcommunity.com/groups/GrabFreeGames"/>
             <outline type="rss" text="Futurism" title="Futurism" xmlUrl="http://www.fromquarkstoquasars.com/feed/" htmlUrl="https://futurism.com"/>
             <outline type="rss" text="ExtremeTech" title="ExtremeTech" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/feed"/>
@@ -36,9 +37,8 @@
             <outline type="rss" text="Windows Central" title="Windows Central" xmlUrl="http://feeds.feedburner.com/wmexperts" htmlUrl="https://www.windowscentral.com"/>
             <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/everything" htmlUrl="https://arstechnica.com"/>
             <outline type="rss" text="PhoneArena" title="PhoneArena" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="https://www.phonearena.com/"/>
-            <outline type="rss" text="NapiDroid" title="NapiDroid" xmlUrl="http://napidroid.hu/feed/" htmlUrl="https://napidroid.hu"/>
             <outline type="rss" text="MIT Technology" title="MIT Technology" xmlUrl="http://www.technologyreview.com/rss/rss.aspx" htmlUrl="https://www.technologyreview.com"/>
-            <outline type="rss" text="Disconnect" title="Disconnect" xmlUrl="https://www.disconnect.blog/feed" htmlUrl="https://disconnect.blog/"/>
+            <outline type="rss" text="Disconnect" title="Disconnect" xmlUrl="https://www.disconnect.blog/feed" htmlUrl="https://www.disconnect.blog"/>
             <outline type="rss" text="The Next Web" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="https://thenextweb.com"/>
             <outline type="rss" text="Android Central" title="Android Central" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com"/>
             <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com/"/>
@@ -48,7 +48,6 @@
             <outline type="rss" text="BBC Future" title="BBC Future" xmlUrl="http://www.bbc.com/future/feed.rss" htmlUrl="https://www.bbc.com/"/>
             <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
             <outline type="rss" text="PCWorld" title="PCWorld" xmlUrl="http://feeds.pcworld.com/pcworld/latestnews" htmlUrl="https://www.pcworld.com"/>
-            <outline type="rss" text="Economx" title="Economx" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
             <outline type="rss" text="The Linux Mint Blog" title="The Linux Mint Blog" xmlUrl="http://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com"/>
         </outline>
     </body>
