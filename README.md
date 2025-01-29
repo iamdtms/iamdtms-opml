@@ -1,2 +1,2 @@
 # iamdtms-opml
-iamdtms OPML export
+iamdtms OPML export. Tech, Web, HUN related. 
