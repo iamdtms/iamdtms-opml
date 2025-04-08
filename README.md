@@ -1,2 +1,3 @@
 # iamdtms-opml
-iamdtms OPML export. Tech, Web, HUN related. 
+iamdtms OPML export. 
+Gaming, Linux, Tech, Web, HUN
