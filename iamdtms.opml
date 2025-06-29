@@ -5,7 +5,7 @@
         <title>iamdtms' subscriptions</title>
     </head>
     <body>
-        <outline text="HUN" title="HUN">
+        <outline text="HUN-tech" title="HUN-tech">
             <outline type="rss" text="Portfolio.hu - Összes hír" title="Portfolio.hu - Összes hír" xmlUrl="http://www.portfolio.hu/rss/cikkek/all.xml" htmlUrl="https://www.portfolio.hu"/>
             <outline type="rss" text="iPon" title="iPon" xmlUrl="http://ipon.hu/news-feed" htmlUrl="https://ipon.hu/rss/contents-feed"/>
             <outline type="rss" text="NapiDroid" title="NapiDroid" xmlUrl="http://napidroid.hu/feed/" htmlUrl="https://napidroid.hu"/>
@@ -14,8 +14,9 @@
             <outline type="rss" text="pcwplus" title="pcwplus" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://www.pcwplus.hu"/>
             <outline type="rss" text="Qubit" title="Qubit" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
             <outline type="rss" text="News | Euronews RSS-feed" title="News | Euronews RSS-feed" xmlUrl="https://hu.euronews.com/rss?level=vertical&amp;name=news" htmlUrl="https://hu.euronews.com"/>
+            <outline type="rss" text="We love Budapest - Keresés" title="We love Budapest - Keresés" xmlUrl="https://welovebudapest.com/24ora/rss/" htmlUrl="https://welovebudapest.com/24ora/"/>
         </outline>
-        <outline text="Tech" title="Tech">
+        <outline text="ENG-tech" title="ENG-tech">
             <outline type="rss" text="PCMag" title="PCMag" xmlUrl="https://www.pcmag.com/feeds/rss/latest" htmlUrl="https://www.pcmag.com/feeds/rss/latest"/>
             <outline type="rss" text="TED Talks Daily" title="TED Talks Daily" xmlUrl="http://feeds.feedburner.com/tedtalks_audio" htmlUrl="https://www.ted.com"/>
             <outline type="rss" text="Tomshardware" title="Tomshardware" xmlUrl="http://www.tomshardware.com/feeds/rss2/all.xml" htmlUrl="https://www.tomshardware.com"/>
@@ -48,11 +49,13 @@
             <outline type="rss" text="It's FOSS" title="It's FOSS" xmlUrl="http://feeds.feedburner.com/ItsFoss" htmlUrl="https://itsfoss.com/"/>
             <outline type="rss" text="The Linux Mint Blog" title="The Linux Mint Blog" xmlUrl="http://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com"/>
         </outline>
-        <outline text="Gaming" title="Gaming">
-            <outline type="rss" text="GrabFreeGames" title="GrabFreeGames" xmlUrl="https://steamcommunity.com/groups/GrabFreeGames/rss/" htmlUrl="https://steamcommunity.com/groups/GrabFreeGames"/>
-            <outline type="rss" text="GOG.com News" title="GOG.com News" xmlUrl="http://www.gog.com/en/frontpage/rss" htmlUrl="http://www.gog.com/frontpage/rss"/>
+        <outline text="HUN-news" title="HUN-news">
+            <outline type="rss" text="HVG" title="HVG" xmlUrl="http://hvg.hu/rss" htmlUrl="https://hvg.hu"/>
+            <outline type="rss" text="444" title="444" xmlUrl="http://444.hu/feed/" htmlUrl="https://444.hu/feed"/>
+            <outline type="rss" text="Telex RSS: Legfrissebb" title="Telex RSS: Legfrissebb" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
+            <outline type="rss" text="hang.hu" title="hang.hu" xmlUrl="https://magyarhang.org/feed/" htmlUrl="https://hang.hu/"/>
         </outline>
-        <outline text="Web" title="Web">
+        <outline text="ENG-web" title="ENG-web">
             <outline type="rss" text="Adam Argyle" title="Adam Argyle" xmlUrl="https://nerdy.dev/rss.xml" htmlUrl="https://nerdy.dev"/>
             <outline type="rss" text="Robin Rendle" title="Robin Rendle" xmlUrl="http://robinrendle.com/feed.xml" htmlUrl="https://robinrendle.com/"/>
             <outline type="rss" text="Heather Buchel" title="Heather Buchel" xmlUrl="https://heather-buchel.com/feed/feed.xml" htmlUrl="https://heather-buchel.com/"/>
@@ -81,18 +84,15 @@
             <outline type="rss" text="Stefan Judis Web Development" title="Stefan Judis Web Development" xmlUrl="https://www.stefanjudis.com/rss.xml" htmlUrl="https://www.stefanjudis.com/"/>
             <outline type="rss" text="utilitybend" title="utilitybend" xmlUrl="https://utilitybend.com/rss.xml" htmlUrl="https://utilitybend.com/"/>
             <outline type="rss" text="OddBird" title="OddBird" xmlUrl="http://oddbird.net/feed.atom" htmlUrl="https://www.oddbird.net/"/>
-            <outline type="rss" text="Austin Gil" title="Austin Gil" xmlUrl="https://stegosource.com/feed/" htmlUrl="https://austingil.com"/>
             <outline type="rss" text="localghost" title="localghost" xmlUrl="http://localghost.dev/feed.xml" htmlUrl="https://localghost.dev"/>
             <outline type="rss" text="David Darnes" title="David Darnes" xmlUrl="https://darn.es/rss.xml" htmlUrl="https://darn.es"/>
             <outline type="rss" text="SpankyStokes.com | Designer Toy • Vinyl Toy • Art Toy Blog" title="SpankyStokes.com | Designer Toy • Vinyl Toy • Art Toy Blog" xmlUrl="http://www.spankystokes.com/feeds/posts/default" htmlUrl="https://www.spankystokes.com/"/>
             <outline type="rss" text="Paul Robert Lloyd" title="Paul Robert Lloyd" xmlUrl="https://paulrobertlloyd.com/feed.xml" htmlUrl="https://paulrobertlloyd.com"/>
-            <outline type="rss" text="Speckyboy Design Magazine" title="Speckyboy Design Magazine" xmlUrl="http://feeds.feedburner.com/speckboy-design-magazine" htmlUrl="https://speckyboy.com/"/>
             <outline type="rss" text="Ryan Mulligan" title="Ryan Mulligan" xmlUrl="https://ryanmulligan.dev/blog/feed.xml" htmlUrl="https://ryanmulligan.dev"/>
-            <outline type="rss" text="noupe" title="noupe" xmlUrl="http://feeds.feedburner.com/Noupe" htmlUrl="https://www.noupe.com/"/>
+            <outline type="rss" text="noupe" title="noupe" xmlUrl="http://feeds.feedburner.com/Noupe" htmlUrl="https://www.noupe.com/magazine/"/>
             <outline type="rss" text="swyx's site RSS Feed" title="swyx's site RSS Feed" xmlUrl="https://www.swyx.io/rss.xml" htmlUrl="https://www.swyx.io"/>
             <outline type="rss" text="The Oatmeal - Comics by Matthew Inman" title="The Oatmeal - Comics by Matthew Inman" xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/"/>
             <outline type="rss" text="Anthony Fu" title="Anthony Fu" xmlUrl="https://antfu.me/feed.xml" htmlUrl="https://antfu.me/"/>
-            <outline type="rss" text="CSS3 Wizardry" title="CSS3 Wizardry" xmlUrl="http://css3wizardry.com/feed/" htmlUrl="https://css3wizardry.com"/>
             <outline type="rss" text="Ahmad Shadeed" title="Ahmad Shadeed" xmlUrl="http://ishadeed.com/feed.xml" htmlUrl="https://ishadeed.com/"/>
             <outline type="rss" text="Bram.us" title="Bram.us" xmlUrl="http://www.bram.us/feed/" htmlUrl="https://www.bram.us"/>
             <outline type="rss" text="Una Kravets Online" title="Una Kravets Online" xmlUrl="https://una.im/rss.xml" htmlUrl="https://una.im/"/>
