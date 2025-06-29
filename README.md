@@ -1,3 +1,3 @@
 # iamdtms-opml
-iamdtms OPML export. 
-Gaming, HUN, Tech, Web
+iamdtms OPML export
+HUN (news, tech), ENG (web, tech) 
