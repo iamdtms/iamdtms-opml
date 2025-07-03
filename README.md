@@ -4,7 +4,6 @@
 ### AI (en)
 ### news (en)
 ### news (hu)
-### quantum (en)
 ### tech (en)
 ### tech (hu)
 ### web (en)
