@@ -5,14 +5,6 @@
         <title>iamdtms' subscriptions</title>
     </head>
     <body>
-        <outline text="news (en)" title="news (en)">
-            <outline type="rss" text="Ukraine | The Guardian" title="Ukraine | The Guardian" xmlUrl="http://www.guardian.co.uk/world/ukraine/rss" htmlUrl="https://www.theguardian.com/world/ukraine"/>
-            <outline type="rss" text="Hungary Today" title="Hungary Today" xmlUrl="http://hungarytoday.hu/feed" htmlUrl="https://hungarytoday.hu/"/>
-            <outline type="rss" text="The Kyiv Independent" title="The Kyiv Independent" xmlUrl="https://kyivindependent.com/news-archive/rss/" htmlUrl="https://kyivindependent.com/"/>
-            <outline type="rss" text="Hungary | The Guardian" title="Hungary | The Guardian" xmlUrl="http://www.guardian.co.uk/world/hungary/rss" htmlUrl="https://www.theguardian.com/world/hungary"/>
-            <outline type="rss" text="Kyiv Post" title="Kyiv Post" xmlUrl="http://www.kyivpost.com/rss/" htmlUrl="https://www.kyivpost.com/feed"/>
-            <outline type="rss" text="BBC News" title="BBC News" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="https://www.bbc.co.uk/news"/>
-        </outline>
         <outline text="AI (en)" title="AI (en)">
             <outline type="rss" text="The Gradient" title="The Gradient" xmlUrl="https://thegradient.pub/rss/" htmlUrl="https://thegradient.pub/"/>
             <outline type="rss" text="OpenAI " title="OpenAI " xmlUrl="https://blog.openai.com/rss/" htmlUrl="https://blog.openai.com"/>
@@ -44,6 +36,7 @@
             <outline type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"/>
             <outline type="rss" text="ExtremeTech" title="ExtremeTech" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/feed"/>
             <outline type="rss" text="Phoronix" title="Phoronix" xmlUrl="http://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
+            <outline type="rss" text="XiaomiToday" title="XiaomiToday" xmlUrl="http://www.xiaomitoday.com/feed/" htmlUrl="https://xiaomitoday.com/"/>
             <outline type="rss" text="Android Police" title="Android Police" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com"/>
             <outline type="rss" text="Ubuntu blog" title="Ubuntu blog" xmlUrl="http://www.ubuntu.com/rss.xml" htmlUrl="https://ubuntu.com//blog/feed"/>
             <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/everything" htmlUrl="https://arstechnica.com"/>
@@ -66,9 +59,9 @@
         </outline>
         <outline text="news (hu)" title="news (hu)">
             <outline type="rss" text="Portfolio.hu - Összes hír" title="Portfolio.hu - Összes hír" xmlUrl="http://www.portfolio.hu/rss/cikkek/all.xml" htmlUrl="https://www.portfolio.hu"/>
-            <outline type="rss" text="Politics.hu" title="Politics.hu" xmlUrl="http://www.politics.hu/feed/" htmlUrl="https://politics.hu"/>
             <outline type="rss" text="HVG" title="HVG" xmlUrl="http://hvg.hu/rss" htmlUrl="https://hvg.hu"/>
             <outline type="rss" text="Telex RSS: Legfrissebb" title="Telex RSS: Legfrissebb" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
+            <outline type="rss" text="Economx.hu" title="Economx.hu" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
         </outline>
         <outline text="web (en)" title="web (en)">
             <outline type="rss" text="Adam Argyle" title="Adam Argyle" xmlUrl="https://nerdy.dev/rss.xml" htmlUrl="https://nerdy.dev"/>
