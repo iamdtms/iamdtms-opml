@@ -5,12 +5,6 @@
         <title>iamdtms' subscriptions</title>
     </head>
     <body>
-        <outline text="news" title="news">
-            <outline type="rss" text="Portfolio.hu - Összes hír" title="Portfolio.hu - Összes hír" xmlUrl="http://www.portfolio.hu/rss/cikkek/all.xml" htmlUrl="https://www.portfolio.hu"/>
-            <outline type="rss" text="HVG" title="HVG" xmlUrl="http://hvg.hu/rss" htmlUrl="https://hvg.hu"/>
-            <outline type="rss" text="Telex RSS: Legfrissebb" title="Telex RSS: Legfrissebb" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
-            <outline type="rss" text="Economx.hu" title="Economx.hu" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
-        </outline>
         <outline text="technology" title="technology">
             <outline type="rss" text="pcwplus" title="pcwplus" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://www.pcwplus.hu"/>
             <outline type="rss" text="MachineLearningMastery.com" title="MachineLearningMastery.com" xmlUrl="http://feeds.feedburner.com/MachineLearningMastery" htmlUrl="https://machinelearningmastery.com/"/>
@@ -29,6 +23,7 @@
             <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
             <outline type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"/>
             <outline type="rss" text="iPon" title="iPon" xmlUrl="http://ipon.hu/news-feed" htmlUrl="https://ipon.hu/rss/contents-feed"/>
+            <outline type="rss" text="OMG! Ubuntu" title="OMG! Ubuntu" xmlUrl="http://www.omgubuntu.co.uk/feed" htmlUrl="https://www.omgubuntu.co.uk/"/>
             <outline type="rss" text="PROHARDVER!" title="PROHARDVER!" xmlUrl="http://prohardver.hu/_xcache/rss_ph.xml" htmlUrl="https://prohardver.hu"/>
             <outline type="rss" text="Artificial intelligence – MIT Technology Review" title="Artificial intelligence – MIT Technology Review" xmlUrl="https://www.technologyreview.com/topic/artificial-intelligence/feed" htmlUrl="https://www.technologyreview.com"/>
             <outline type="rss" text="ExtremeTech" title="ExtremeTech" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/feed"/>
@@ -50,14 +45,20 @@
             <outline type="rss" text="Android Central" title="Android Central" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com"/>
             <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="http://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com/"/>
             <outline type="rss" text="The Guardian AI" title="The Guardian AI" xmlUrl="http://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
-            <outline type="rss" text="Wired" title="Wired" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="https://www.wired.com"/>
             <outline type="rss" text="Mastodon Blog" title="Mastodon Blog" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="https://blog.joinmastodon.org/"/>
+            <outline type="rss" text="It's FOSS" title="It's FOSS" xmlUrl="https://itsfoss.com/feed/" htmlUrl="https://itsfoss.com/"/>
             <outline type="rss" text="BBC Future" title="BBC Future" xmlUrl="http://www.bbc.com/future/feed.rss" htmlUrl="https://www.bbc.com/"/>
             <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com"/>
             <outline type="rss" text="PCWorld" title="PCWorld" xmlUrl="http://feeds.pcworld.com/pcworld/latestnews" htmlUrl="https://www.pcworld.com"/>
             <outline type="rss" text="NVIDIA Blog" title="NVIDIA Blog" xmlUrl="http://feeds.feedburner.com/nvidiablog" htmlUrl="https://blogs.nvidia.com/"/>
             <outline type="rss" text="It's FOSS" title="It's FOSS" xmlUrl="http://feeds.feedburner.com/ItsFoss" htmlUrl="https://itsfoss.com/"/>
             <outline type="rss" text="The Linux Mint Blog" title="The Linux Mint Blog" xmlUrl="http://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com"/>
+        </outline>
+        <outline text="newshu" title="newshu">
+            <outline type="rss" text="Portfolio.hu - Összes hír" title="Portfolio.hu - Összes hír" xmlUrl="http://www.portfolio.hu/rss/cikkek/all.xml" htmlUrl="https://www.portfolio.hu"/>
+            <outline type="rss" text="HVG" title="HVG" xmlUrl="http://hvg.hu/rss" htmlUrl="https://hvg.hu"/>
+            <outline type="rss" text="Telex RSS: Legfrissebb" title="Telex RSS: Legfrissebb" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
+            <outline type="rss" text="Economx.hu" title="Economx.hu" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
         </outline>
     </body>
 </opml>
