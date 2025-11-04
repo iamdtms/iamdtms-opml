@@ -5,6 +5,12 @@
         <title>iamdtms' subscriptions</title>
     </head>
     <body>
+        <outline text="gaming" title="gaming">
+            <outline type="rss" text="Free Epic Games Games (PC)" title="Free Epic Games Games (PC)" xmlUrl="https://feed.phenx.de/lootscraper_epic_game.xml" htmlUrl="https://eikowagenknecht.com/lootscraper/"/>
+            <outline type="rss" text="GAMINGbible" title="GAMINGbible" xmlUrl="https://www.gamingbible.com/index.rss" htmlUrl="https://www.gamingbible.com"/>
+            <outline type="rss" text="Free GOG Games (PC)" title="Free GOG Games (PC)" xmlUrl="https://feed.phenx.de/lootscraper_gog_game.xml" htmlUrl="https://github.com/eikowagenknecht/lootscraper"/>
+            <outline type="rss" text="Free Steam Games (PC)" title="Free Steam Games (PC)" xmlUrl="https://feed.phenx.de/lootscraper_steam_game.xml" htmlUrl="https://eikowagenknecht.com/lootscraper/"/>
+        </outline>
         <outline text="technology" title="technology">
             <outline type="rss" text="pcwplus" title="pcwplus" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://www.pcwplus.hu"/>
             <outline type="rss" text="MachineLearningMastery.com" title="MachineLearningMastery.com" xmlUrl="http://feeds.feedburner.com/MachineLearningMastery" htmlUrl="https://machinelearningmastery.com/"/>
@@ -17,14 +23,15 @@
             <outline type="rss" text="Digital Trends" title="Digital Trends" xmlUrl="http://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com/"/>
             <outline type="rss" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/excerpts.rss" htmlUrl="https://www.theregister.com/"/>
             <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+            <outline type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"/>
             <outline type="rss" text="iPon" title="iPon" xmlUrl="http://ipon.hu/news-feed" htmlUrl="https://ipon.hu/rss/contents-feed"/>
             <outline type="rss" text="PROHARDVER!" title="PROHARDVER!" xmlUrl="http://prohardver.hu/_xcache/rss_ph.xml" htmlUrl="https://prohardver.hu"/>
             <outline type="rss" text="Artificial intelligence – MIT Technology Review" title="Artificial intelligence – MIT Technology Review" xmlUrl="https://www.technologyreview.com/topic/artificial-intelligence/feed" htmlUrl="https://www.technologyreview.com"/>
             <outline type="rss" text="Futurism" title="Futurism" xmlUrl="http://www.fromquarkstoquasars.com/feed/" htmlUrl="https://futurism.com"/>
             <outline type="rss" text="ExtremeTech" title="ExtremeTech" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/feed"/>
-            <outline type="rss" text="Phoronix" title="Phoronix" xmlUrl="http://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
             <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="https://css-tricks.com"/>
             <outline type="rss" text="Android Police" title="Android Police" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com"/>
+            <outline type="rss" text="Ubuntu blog" title="Ubuntu blog" xmlUrl="http://www.ubuntu.com/rss.xml" htmlUrl="https://ubuntu.com//blog/feed"/>
             <outline type="rss" text="News | Euronews RSS-feed" title="News | Euronews RSS-feed" xmlUrl="https://hu.euronews.com/rss?level=vertical&amp;name=news" htmlUrl="http://hu.euronews.com"/>
             <outline type="rss" text="We love Budapest - Keresés" title="We love Budapest - Keresés" xmlUrl="https://welovebudapest.com/24ora/rss/" htmlUrl="https://welovebudapest.com/24ora/"/>
             <outline type="rss" text="SecurityWeek" title="SecurityWeek" xmlUrl="http://feeds.feedburner.com/Securityweek" htmlUrl="https://www.securityweek.com/"/>
@@ -44,10 +51,11 @@
             <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com"/>
             <outline type="rss" text="PCWorld" title="PCWorld" xmlUrl="http://feeds.pcworld.com/pcworld/latestnews" htmlUrl="https://www.pcworld.com"/>
             <outline type="rss" text="NVIDIA Blog" title="NVIDIA Blog" xmlUrl="http://feeds.feedburner.com/nvidiablog" htmlUrl="https://blogs.nvidia.com/"/>
+            <outline type="rss" text="The Linux Mint Blog" title="The Linux Mint Blog" xmlUrl="http://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com"/>
         </outline>
         <outline text="newshu" title="newshu">
             <outline type="rss" text="Portfolio.hu - Összes hír" title="Portfolio.hu - Összes hír" xmlUrl="http://www.portfolio.hu/rss/cikkek/all.xml" htmlUrl="https://www.portfolio.hu"/>
-            <outline type="rss" text="444" title="444" xmlUrl="https://444.hu/feed" htmlUrl="https://444.hu/feed"/>
+            <outline type="rss" text="24.hu" title="24.hu" xmlUrl="http://www.technet.hu/rss/" htmlUrl="https://24.hu"/>
             <outline type="rss" text="HVG" title="HVG" xmlUrl="http://hvg.hu/rss" htmlUrl="https://hvg.hu"/>
             <outline type="rss" text="Telex RSS: Legfrissebb" title="Telex RSS: Legfrissebb" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
             <outline type="rss" text="Economx.hu" title="Economx.hu" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
