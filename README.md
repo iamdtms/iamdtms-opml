@@ -4,5 +4,5 @@
 Available feed categories: 
 
 ### gaming - free releases: GoG, EPIC, Steam
-### newshu - Hungarian news sources
+### Hungarian - Hungarian sources
 ### technology - Technology related resources
