@@ -1,5 +1,5 @@
 # iamdtms-opml
-## iamdtms OPML export
+## OPML export
 
 Available feed categories: 
 
