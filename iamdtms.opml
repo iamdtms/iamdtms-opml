@@ -5,12 +5,19 @@
         <title>iamdtms' subscriptions</title>
     </head>
     <body>
-        <outline text="gaming" title="gaming">
+        <outline text="gaming-en" title="gaming-en">
+            <outline type="rss" text="Linux Game Consortium – News, Reviews, and Steam Deck Gaming" title="Linux Game Consortium – News, Reviews, and Steam Deck Gaming" xmlUrl="https://linuxgameconsortium.com/feed/" htmlUrl="https://linuxgameconsortium.com/"/>
             <outline type="rss" text="Free Epic Games" title="Free Epic Games" xmlUrl="https://feed.phenx.de/lootscraper_epic_game.xml" htmlUrl="https://eikowagenknecht.com/lootscraper/"/>
+            <outline type="rss" text="Gaming – Ars Technica" title="Gaming – Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/gaming/" htmlUrl="https://arstechnica.com"/>
             <outline type="rss" text="Free GOG Games" title="Free GOG Games" xmlUrl="https://feed.phenx.de/lootscraper_gog_game.xml" htmlUrl="https://github.com/eikowagenknecht/lootscraper"/>
+            <outline type="rss" text="Game Rant" title="Game Rant" xmlUrl="https://gamerant.com/feed/" htmlUrl="https://gamerant.com"/>
             <outline type="rss" text="Free Steam Games" title="Free Steam Games" xmlUrl="https://feed.phenx.de/lootscraper_steam_game.xml" htmlUrl="https://eikowagenknecht.com/lootscraper/"/>
+            <outline type="rss" text="CrackWatch" title="CrackWatch" xmlUrl="https://www.reddit.com/r/CrackWatch/.rss" htmlUrl="https://www.reddit.com/r/CrackWatch/"/>
+            <outline type="rss" text="IGN" title="IGN" xmlUrl="http://feeds.ign.com/ign/games-all" htmlUrl="https://www.ign.com/articles"/>
+            <outline type="rss" text="GamingOnLinux Latest Articles" title="GamingOnLinux Latest Articles" xmlUrl="http://www.gamingonlinux.com/article_rss.php" htmlUrl="https://www.gamingonlinux.com/"/>
+            <outline type="rss" text="Destructoid" title="Destructoid" xmlUrl="http://www.destructoid.com/?mode=atom" htmlUrl="https://www.destructoid.com/"/>
         </outline>
-        <outline text="technology" title="technology">
+        <outline text="tech-en" title="tech-en">
             <outline type="rss" text="pcwplus" title="pcwplus" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="https://www.pcwplus.hu"/>
             <outline type="rss" text="MachineLearningMastery.com" title="MachineLearningMastery.com" xmlUrl="http://feeds.feedburner.com/MachineLearningMastery" htmlUrl="https://machinelearningmastery.com/"/>
             <outline type="rss" text="PCMag" title="PCMag" xmlUrl="https://www.pcmag.com/feeds/rss/latest" htmlUrl="https://www.pcmag.com/feeds/rss/latest"/>
@@ -23,6 +30,7 @@
             <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
             <outline type="rss" text="OMG! Ubuntu!" title="OMG! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk/"/>
             <outline type="rss" text="CSS Tip: Learn CSS the easy way" title="CSS Tip: Learn CSS the easy way" xmlUrl="https://css-tip.com/feed/feed.xml" htmlUrl="https://css-tip.com/"/>
+            <outline type="rss" text="Google Play" title="Google Play" xmlUrl="https://blog.google/products/google-play/rss/" htmlUrl="https://blog.google/products/google-play/"/>
             <outline type="rss" text="Artificial intelligence – MIT Technology Review" title="Artificial intelligence – MIT Technology Review" xmlUrl="https://www.technologyreview.com/topic/artificial-intelligence/feed" htmlUrl="https://www.technologyreview.com"/>
             <outline type="rss" text="Futurism" title="Futurism" xmlUrl="http://www.fromquarkstoquasars.com/feed/" htmlUrl="https://futurism.com"/>
             <outline type="rss" text="ExtremeTech" title="ExtremeTech" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/feed"/>
@@ -49,15 +57,18 @@
             <outline type="rss" text="NVIDIA Blog" title="NVIDIA Blog" xmlUrl="http://feeds.feedburner.com/nvidiablog" htmlUrl="https://blogs.nvidia.com/"/>
             <outline type="rss" text="The Linux Mint Blog" title="The Linux Mint Blog" xmlUrl="http://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com"/>
         </outline>
-        <outline text="Hungarian" title="Hungarian">
-            <outline type="rss" text="Portfolio.hu - Összes hír" title="Portfolio.hu - Összes hír" xmlUrl="http://www.portfolio.hu/rss/cikkek/all.xml" htmlUrl="https://www.portfolio.hu"/>
+        <outline text="tech-hu" title="tech-hu">
             <outline type="rss" text="iPon" title="iPon" xmlUrl="http://ipon.hu/news-feed" htmlUrl="https://ipon.hu/rss/contents-feed"/>
             <outline type="rss" text="PROHARDVER!" title="PROHARDVER!" xmlUrl="http://prohardver.hu/_xcache/rss_ph.xml" htmlUrl="https://prohardver.hu"/>
+            <outline type="rss" text="HUP" title="HUP" xmlUrl="http://hup.hu/node/feed" htmlUrl="https://hup.hu/"/>
+        </outline>
+        <outline text="news-hu" title="news-hu">
+            <outline type="rss" text="Portfolio.hu - Összes hír" title="Portfolio.hu - Összes hír" xmlUrl="http://www.portfolio.hu/rss/cikkek/all.xml" htmlUrl="https://www.portfolio.hu"/>
             <outline type="rss" text="HVG" title="HVG" xmlUrl="http://hvg.hu/rss" htmlUrl="https://hvg.hu"/>
             <outline type="rss" text="Telex RSS: Legfrissebb" title="Telex RSS: Legfrissebb" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
             <outline type="rss" text="Qubit" title="Qubit" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
             <outline type="rss" text="We love Budapest - Keresés" title="We love Budapest - Keresés" xmlUrl="https://welovebudapest.com/24ora/rss/" htmlUrl="https://welovebudapest.com/24ora/"/>
-            <outline type="rss" text="Economx.hu" title="Economx.hu" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
+            <outline type="rss" text="Economx" title="Economx" xmlUrl="http://www.napi.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
         </outline>
     </body>
 </opml>
