@@ -2,12 +2,13 @@
 OPML export, available feed categories: 
 
 ### gaming-en
-Destructoid, Game Rant, Ars Technica Gaming, Gaming on Linux, IGN, Linux Game Consorcium, Crackwatch, Free (EPIC | GoG | Steam) Games
+Crackwatch, Free (EPIC | GoG | Steam) Games
 
 ### news-hu __ Hungarian news sources
-Economix, HVG, Portfolio, Qubit, Telex, We Love Budapest
+444, HVG, Telex, Dull Szabolcs, Qubit
 
 ### tech-en __ Technology related resources, English
+...35 feeds
 
 ### tech-hu __ Technology related resources, Hungarian
-HUP, iPon, Prohardver
+HUP, iPon, Prohardver, pcwplus
