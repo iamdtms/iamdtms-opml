@@ -5,9 +5,10 @@
         <title>iamdtms' subscriptions</title>
     </head>
     <body>
-        <outline text="gaming-en" title="gaming-en">
+        <outline text="gaming" title="gaming">
             <outline type="rss" text="Free Epic Games" title="Free Epic Games" xmlUrl="https://feed.phenx.de/lootscraper_epic_game.xml" htmlUrl="https://eikowagenknecht.com/lootscraper/"/>
-            <outline type="rss" text="Free GOG PC Games" title="Free GOG PC Games" xmlUrl="http://freegogpcgames.com/feed/" htmlUrl="https://freegogpcgames.com/"/>
+            <outline type="rss" text="PCGamer latest" title="PCGamer latest" xmlUrl="http://www.maximumpc.com/articles/all/feed" htmlUrl="https://www.pcgamer.com"/>
+            <outline type="rss" text="A PGO legfrissebb anyagai | PC Guru Online" title="A PGO legfrissebb anyagai | PC Guru Online" xmlUrl="http://www.pcguru.hu/pcguru/rss/rss.xml" htmlUrl="https://www.pcguru.hu"/>
             <outline type="rss" text="Free Steam Games" title="Free Steam Games" xmlUrl="https://feed.phenx.de/lootscraper_steam_game.xml" htmlUrl="https://eikowagenknecht.com/lootscraper/"/>
             <outline type="rss" text="CrackWatch" title="CrackWatch" xmlUrl="https://www.reddit.com/r/CrackWatch/.rss" htmlUrl="https://www.reddit.com/r/CrackWatch/"/>
         </outline>
