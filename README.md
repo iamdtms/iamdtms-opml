@@ -1,14 +1,14 @@
 # iamdtms-opml
 OPML export, available feed categories: 
 
-### gaming-en
-Crackwatch, Free (EPIC | GoG | Steam) Games
+### gaming
+Crackwatch, Free (EPIC | GoG | Steam) Games, PCGamer
 
 ### news-hu __ Hungarian news sources
 444, HVG, Telex, Dull Szabolcs, Qubit
 
 ### tech-en __ Technology related resources, English
-...35 feeds
+...35+ feeds
 
 ### tech-hu __ Technology related resources, Hungarian
 HUP, iPon, Prohardver, pcwplus
