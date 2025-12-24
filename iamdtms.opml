@@ -35,7 +35,6 @@
             <outline type="rss" text="PhoneArena" title="PhoneArena" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="https://www.phonearena.com/"/>
             <outline type="rss" text="MIT Technology" title="MIT Technology" xmlUrl="http://www.technologyreview.com/rss/rss.aspx" htmlUrl="https://www.technologyreview.com"/>
             <outline type="rss" text="Disconnect" title="Disconnect" xmlUrl="https://www.disconnect.blog/feed" htmlUrl="https://disconnect.blog/"/>
-            <outline type="rss" text="Financial Technology" title="Financial Technology" xmlUrl="http://www.forbes.com/sites/tomgroenfeldt/feed/" htmlUrl="https://www.forbes.com/sites/tomgroenfeldt/"/>
             <outline type="rss" text="OpenAI " title="OpenAI " xmlUrl="https://blog.openai.com/rss/" htmlUrl="https://blog.openai.com"/>
             <outline type="rss" text="Towards Data Science" title="Towards Data Science" xmlUrl="https://towardsdatascience.com/feed" htmlUrl="https://towardsdatascience.com/"/>
             <outline type="rss" text="The Next Web" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="https://thenextweb.com"/>
