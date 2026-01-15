@@ -2,7 +2,7 @@
 OPML export, available feed categories: 
 
 ### gaming
-Crackwatch, Free (EPIC | Steam) Games, PCGamer, PGO
+Free Steam Games
 
 ### news-hu __ Hungarian news sources
 444, HVG, Telex, Dull Szabolcs, Qubit
