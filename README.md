@@ -2,7 +2,7 @@
 OPML export, available feed categories: 
 
 ### gaming
-Free Steam Games
+Free (Steam | GOG) Games
 
 ### news-hu __ Hungarian news sources
 444, HVG, Telex, Dull Szabolcs, Qubit
