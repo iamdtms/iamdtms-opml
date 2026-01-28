@@ -2,13 +2,9 @@
 
 <opml version="1.0">
     <head>
-        <title>iamdtms' subscriptions</title>
+        <title>iamdtms' subscriptionsd</title>
     </head>
     <body>
-        <outline text="gaming" title="gaming">
-            <outline type="rss" text="Free GOG Games" title="Free GOG Games" xmlUrl="http://freegogpcgames.com/feed/" htmlUrl="https://freegogpcgames.com/"/>
-            <outline type="rss" text="Free Steam Games" title="Free Steam Games" xmlUrl="https://feed.phenx.de/lootscraper_steam_game.xml" htmlUrl="https://eikowagenknecht.com/lootscraper/"/>
-        </outline>
         <outline text="tech-en" title="tech-en">
             <outline type="rss" text="MachineLearningMastery.com" title="MachineLearningMastery.com" xmlUrl="http://feeds.feedburner.com/MachineLearningMastery" htmlUrl="https://machinelearningmastery.com/"/>
             <outline type="rss" text="PCMag" title="PCMag" xmlUrl="https://www.pcmag.com/feeds/rss/latest" htmlUrl="https://www.pcmag.com/feeds/rss/latest"/>
@@ -16,7 +12,6 @@
             <outline type="rss" text="Neowin" title="Neowin" xmlUrl="http://feeds.feedburner.com/neowin-main" htmlUrl="https://www.neowin.net/"/>
             <outline type="rss" text="IGN Hungary" title="IGN Hungary" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="https://hu.ign.com"/>
             <outline type="rss" text="Digital Trends" title="Digital Trends" xmlUrl="http://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com/"/>
-            <outline type="rss" text="404 Media" title="404 Media" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/"/>
             <outline type="rss" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/excerpts.rss" htmlUrl="https://www.theregister.com/"/>
             <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
             <outline type="rss" text="UX Collective - Medium" title="UX Collective - Medium" xmlUrl="https://uxdesign.cc/feed" htmlUrl="https://uxdesign.cc?source=rss----138adf9c44c---4"/>
@@ -57,7 +52,7 @@
             <outline type="rss" text="444" title="444" xmlUrl="http://444.hu/feed/" htmlUrl="https://444.hu/feed"/>
             <outline type="rss" text="Telex" title="Telex" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
             <outline type="rss" text="Qubit" title="Qubit" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
-            <outline type="rss" text="Ötpontban Dull Szabolccsal" title="Ötpontban Dull Szabolccsal" xmlUrl="https://dullszabolcs.substack.com/feed" htmlUrl="https://dullszabolcs.substack.com"/>
+            <outline type="rss" text="Ötpont" title="Ötpont" xmlUrl="https://dullszabolcs.substack.com/feed" htmlUrl="https://dullszabolcs.substack.com"/>
             <outline type="rss" text="Euronews" title="Euronews" xmlUrl="https://hu.euronews.com/rss?level=vertical&amp;name=news" htmlUrl="http://hu.euronews.com"/>
         </outline>
     </body>
