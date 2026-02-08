@@ -1,4 +1,4 @@
-# iamdtms-opml
+# iamdtms-opml (xml)
 OPML export, available feed categories: 
 
 ### news-hu __ Hungarian news sources
