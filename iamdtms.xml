@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of iamdtms</title>
+  </head>
+  <body>
+    <outline text="tech-en" title="tech-en">
+      <outline text="Slashdot" title="Slashdot" type="rss" xmlUrl="https://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
+      <outline text="Futurism" title="Futurism" type="rss" xmlUrl="https://futurism.com/feed" htmlUrl="https://futurism.com/"/>
+      <outline text="MIT Technology Review" title="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/"/>
+      <outline text="Pcworld.com" title="Pcworld.com" type="rss" xmlUrl="https://www.pcworld.com/feed" htmlUrl="https://www.pcworld.com/"/>
+      <outline text="The Linux Mint Blog" title="The Linux Mint Blog" type="rss" xmlUrl="https://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com/"/>
+      <outline text="BBC Future" title="BBC Future" type="rss" xmlUrl="https://www.bbc.com/future/feed.rss" htmlUrl="http://www.bbc.com/future/feed.rss"/>
+      <outline text="Artificial intelligence (AI) | The Guardian" title="Artificial intelligence (AI) | The Guardian" type="rss" xmlUrl="https://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
+      <outline text="Android Authority" title="Android Authority" type="rss" xmlUrl="https://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com/"/>
+      <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="https://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
+      <outline text="Digital Trends" title="Digital Trends" type="rss" xmlUrl="https://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com/"/>
+      <outline text="Tom's Hardware" title="Tom's Hardware" type="rss" xmlUrl="https://www.tomshardware.com/feeds/rss2/all.xml" htmlUrl="https://www.tomshardware.com/"/>
+      <outline text="Machine Learning Mastery" title="Machine Learning Mastery" type="rss" xmlUrl="https://feeds.feedburner.com/MachineLearningMastery" htmlUrl="https://machinelearningmastery.com/"/>
+      <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="https://thehackernews.com/feeds/posts/default" htmlUrl="https://thehackernews.com/"/>
+      <outline text="PCMag" title="PCMag" type="rss" xmlUrl="https://www.pcmag.com/feeds/rss/latest" htmlUrl="https://www.pcmag.com/feeds/rss/latest"/>
+      <outline text="Neowin" title="Neowin" type="rss" xmlUrl="http://feeds.feedburner.com/neowin-main" htmlUrl="http://www.neowin.net/news/rss/"/>
+      <outline text="The Register" title="The Register" type="rss" xmlUrl="http://www.theregister.co.uk/excerpts.rss" htmlUrl="https://www.theregister.com/"/>
+      <outline text="BleepingComputer" title="BleepingComputer" type="rss" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+      <outline text="UX Collective - Medium" title="UX Collective - Medium" type="rss" xmlUrl="https://uxdesign.cc/feed" htmlUrl="https://uxdesign.cc/?source=rss----138adf9c44c---4"/>
+      <outline text="OMG! Ubuntu!" title="OMG! Ubuntu!" type="rss" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="http://www.omgubuntu.co.uk"/>
+      <outline text="Google Play" title="Google Play" type="rss" xmlUrl="https://blog.google/products/google-play/rss/" htmlUrl="https://blog.google/products/google-play/"/>
+      <outline text="Artificial intelligence – MIT Technology Review" title="Artificial intelligence – MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/topic/artificial-intelligence/feed" htmlUrl="https://www.technologyreview.com/"/>
+      <outline text="ExtremeTech" title="ExtremeTech" type="rss" xmlUrl="https://www.extremetech.com/feed" htmlUrl="http://www.extremetech.com/"/>
+      <outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="https://css-tricks.com"/>
+      <outline text="Android Police" title="Android Police" type="rss" xmlUrl="http://www.androidpolice.com/feed/" htmlUrl="http://www.androidpolice.com/"/>
+      <outline text="SecurityWeek" title="SecurityWeek" type="rss" xmlUrl="http://feeds.feedburner.com/Securityweek" htmlUrl="https://www.securityweek.com/"/>
+      <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/everything" htmlUrl="http://arstechnica.com/"/>
+      <outline text="PhoneArena" title="PhoneArena" type="rss" xmlUrl="http://www.phonearena.com/feed/news" htmlUrl="http://www.phonearena.com/"/>
+      <outline text="Disconnect" title="Disconnect" type="rss" xmlUrl="https://www.disconnect.blog/feed" htmlUrl="https://www.disconnect.blog/"/>
+      <outline text="OpenAI " title="OpenAI " type="rss" xmlUrl="https://blog.openai.com/rss/" htmlUrl="https://blog.openai.com/"/>
+      <outline text="Towards Data Science" title="Towards Data Science" type="rss" xmlUrl="https://towardsdatascience.com/feed" htmlUrl="https://towardsdatascience.com/?source=rss----7f60cf5620c9---4"/>
+      <outline text="The Next Web" title="The Next Web" type="rss" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="http://thenextweb.com/"/>
+      <outline text="Android Central" title="Android Central" type="rss" xmlUrl="http://www.androidcentral.com/feed" htmlUrl="https://www.androidcentral.com/"/>
+      <outline text="Mastodon Blog" title="Mastodon Blog" type="rss" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="http://blog.joinmastodon.org/"/>
+      <outline text="NVIDIA Blog" title="NVIDIA Blog" type="rss" xmlUrl="http://feeds.feedburner.com/nvidiablog" htmlUrl="https://blogs.nvidia.com/"/>
+    </outline>
+    <outline text="tech-hu" title="tech-hu">
+      <outline text="PROHARDVER! - Hírek és tesztek vegyesen" title="PROHARDVER! - Hírek és tesztek vegyesen" type="rss" xmlUrl="https://prohardver.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://prohardver.hu/"/>
+      <outline text="Hungarian Unix Portal" title="Hungarian Unix Portal" type="rss" xmlUrl="https://hup.hu/node/feed" htmlUrl="http://hup.hu/"/>
+      <outline text="iPon hírek, tesztek, letöltések" title="iPon hírek, tesztek, letöltések" type="rss" xmlUrl="https://ipon.hu/news-feed" htmlUrl="http://ipon.hu/rss.php"/>
+      <outline text="IGN Hungary" title="IGN Hungary" type="rss" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="https://hu.ign.com"/>
+      <outline text="pcwplus" title="pcwplus" type="rss" xmlUrl="http://pcworld.hu/rss/rss.xml" htmlUrl="http://pcworld.hu/"/>
+    </outline>
+    <outline text="news-hu" title="news-hu">
+      <outline text="!!444!!!" title="!!444!!!" type="rss" xmlUrl="https://444.hu/feed/" htmlUrl="https://444.hu/"/>
+      <outline text="hvg.hu RSS" title="hvg.hu RSS" type="rss" xmlUrl="https://hvg.hu/rss" htmlUrl="https://hvg.hu/"/>
+      <outline text="Telex" title="Telex" type="rss" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
+      <outline text="Qubit" title="Qubit" type="rss" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
+      <outline text="Ötpont" title="Ötpont" type="rss" xmlUrl="https://dullszabolcs.substack.com/feed" htmlUrl="https://dullszabolcs.substack.com/"/>
+      <outline text="Euronews" title="Euronews" type="rss" xmlUrl="https://hu.euronews.com/rss?level=vertical&amp;name=news" htmlUrl="https://hu.euronews.com/"/>
+    </outline>
+  </body>
+</opml>
