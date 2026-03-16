@@ -1,16 +1,21 @@
 # iamdtms-opml (xml export)
 
-## design
-CSSence, Smashing Magazine, CSS Weekly, Adam Argyle, Chris Coyier, Frontend Masters, Ahmad Shadeed, Speckyboy, FrontEnd Focus, Codrops, UX Collective, CSS Tricks, 1stwebdesigner, A List Apart, BittBox, I Love Typography, Line25, Logo Design Love, Speckyboy, UX Movement, UXmatters, Web Design Ledger
-
 ## newshu
-444, HVG, Forbes, Telex, Qubit, Ötpont, HUP, HWSW, IGN Hungary, iPon, Mobilarena, Prohardver!, raketa, SGhu
+> ```
+> 24hu, 444, Economix, Forbes, HVG, HWSW, IGN Hungary, iPon, Mobilarena, Ötpont, Portfolio, Prohardver!, Qubit, HUP, raketa, Tech2, Telex
+> ```
 
 ## PC gaming
-Gamekapocs, PlayDome, Eurogamer, Rock Paper Shotgun, SGhu - Játék
+> ```
+> Gamekapocs, PlayDome, Eurogamer, Rock Paper Shotgun, SGhu - Játék, Free GoG PC Games, GOG Games
+> ```
 
 ## tech
-27 related feeds
+> ```
+> AI - ScienceDaily, AI | The Guardian, Android Authority, Android Central, Android Police, Ars Technica, BBC Future, BleepingComputer, Digital Trends, Disconnect, ExtremeTech, Futurism, Google AI Blog, Google Blog, Google Play, Inoreader blog, MIT News, MIT Review, Neowin, NVIDIA Blog, OpenAI, SecurityWeek, The Hacker News, The Next Web, The Register, Tom's Hardware, Towards Data Science
+> ```
 
 ## open source
-Mastodon, The Linux Mint Blog, Phoronix, OMG Ubuntu, HUP
+> ```
+> Mastodon, The Linux Mint Blog, Phoronix, OMG Ubuntu, HUP
+> ```
