@@ -4,30 +4,10 @@
     <title>Feeds of iamdtms</title>
   </head>
   <body>
-    <outline text="design" title="design">
-      <outline text="1stwebdesigner" title="1stwebdesigner" type="rss" xmlUrl="http://www.1stwebdesigner.com/feed/" htmlUrl="http://www.1stwebdesigner.com/"/>
-      <outline text="A List Apart" title="A List Apart" type="rss" xmlUrl="https://alistapart.com/main/feed/" htmlUrl="http://alistapart.com/"/>
-      <outline text="Adam Argyle" title="Adam Argyle" type="rss" xmlUrl="https://nerdy.dev/rss.xml" htmlUrl="https://nerdy.dev/"/>
-      <outline text="Ahmad Shadeed" title="Ahmad Shadeed" type="rss" xmlUrl="https://ishadeed.com/feed.xml" htmlUrl="https://ishadeed.com/"/>
-      <outline text="BittBox" title="BittBox" type="rss" xmlUrl="https://feeds.feedburner.com/Bittbox" htmlUrl="https://www.bittbox.com/"/>
-      <outline text="Chris Coyier" title="Chris Coyier" type="rss" xmlUrl="https://chriscoyier.net/feed/" htmlUrl="https://chriscoyier.net/"/>
-      <outline text="Codrops" title="Codrops" type="rss" xmlUrl="https://tympanus.net/codrops/feed/" htmlUrl="https://tympanus.net/codrops"/>
-      <outline text="CSS Weekly" title="CSS Weekly" type="rss" xmlUrl="https://css-weekly.com/feed" htmlUrl="https://css-weekly.com/"/>
-      <outline text="CSSence" title="CSSence" type="rss" xmlUrl="https://cssence.com/all/rss.xml" htmlUrl="https://cssence.com/all/rss.xml"/>
-      <outline text="FrontEnd Focus" title="FrontEnd Focus" type="rss" xmlUrl="http://frontendfocus.co/rss/1e4m5lnd" htmlUrl="http://html5weekly.com/"/>
-      <outline text="Frontend Masters" title="Frontend Masters" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/" htmlUrl="https://frontendmasters.com/blog"/>
-      <outline text="I Love Typography" title="I Love Typography" type="rss" xmlUrl="https://feeds.feedburner.com/ILoveTypography" htmlUrl="https://ilovetypography.com/"/>
-      <outline text="Line25" title="Line25" type="rss" xmlUrl="https://feeds2.feedburner.com/Line25" htmlUrl="https://line25.com/"/>
-      <outline text="Logo Design Love" title="Logo Design Love" type="rss" xmlUrl="https://feeds.feedburner.com/logodesignlove" htmlUrl="https://www.logodesignlove.com/"/>
-      <outline text="Speckyboy" title="Speckyboy" type="rss" xmlUrl="http://feeds.feedburner.com/speckboy-design-magazine" htmlUrl="http://speckyboy.com/"/>
-      <outline text="UX Collective" title="UX Collective" type="rss" xmlUrl="https://uxdesign.cc/feed" htmlUrl="https://uxdesign.cc/?source=rss----138adf9c44c---4"/>
-      <outline text="UX Movement" title="UX Movement" type="rss" xmlUrl="https://uxmovement.com/feed/" htmlUrl="https://uxmovement.com/"/>
-      <outline text="UXmatters" title="UXmatters" type="rss" xmlUrl="http://www.uxmatters.com/index.xml" htmlUrl="http://www.uxmatters.com/"/>
-      <outline text="Web Design Ledger" title="Web Design Ledger" type="rss" xmlUrl="https://webdesignledger.com/feed" htmlUrl="https://webdesignledger.com/"/>
-    </outline>
     <outline text="newshu" title="newshu">
       <outline text="24hu" title="24hu" type="rss" xmlUrl="https://24.hu/feed/" htmlUrl="https://24.hu/"/>
       <outline text="444" title="444" type="rss" xmlUrl="https://444.hu/feed/" htmlUrl="https://444.hu/"/>
+      <outline text="Economx" title="Economx" type="rss" xmlUrl="https://www.economx.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
       <outline text="Forbes" title="Forbes" type="rss" xmlUrl="https://forbes.hu/feed/" htmlUrl="https://forbes.hu/"/>
       <outline text="HVG" title="HVG" type="rss" xmlUrl="https://hvg.hu/rss" htmlUrl="https://hvg.hu/"/>
       <outline text="HWSW" title="HWSW" type="rss" xmlUrl="https://www.hwsw.hu/xml/latest_news_rss.xml" htmlUrl="https://www.hwsw.hu/"/>
@@ -35,11 +15,11 @@
       <outline text="iPon" title="iPon" type="rss" xmlUrl="https://ipon.hu/news-feed" htmlUrl="http://ipon.hu/rss.php"/>
       <outline text="Mobilarena" title="Mobilarena" type="rss" xmlUrl="https://mobilarena.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://mobilarena.hu/"/>
       <outline text="Ötpont" title="Ötpont" type="rss" xmlUrl="https://dullszabolcs.substack.com/feed" htmlUrl="https://dullszabolcs.substack.com/"/>
+      <outline text="Portfolio" title="Portfolio" type="rss" xmlUrl="https://www.portfolio.hu/rss/all.xml" htmlUrl="https://www.portfolio.hu/"/>
       <outline text="Prohardver!" title="Prohardver!" type="rss" xmlUrl="https://prohardver.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://prohardver.hu/"/>
       <outline text="Qubit" title="Qubit" type="rss" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
       <outline text="raketa" title="raketa" type="rss" xmlUrl="https://raketa.hu/feed" htmlUrl="https://raketa.hu/"/>
-      <outline text="SG - IT/Tech" title="SG - IT/Tech" type="rss" xmlUrl="https://media.sg.hu/rss/rss_it.xml" htmlUrl="https://sg.hu/it-tech"/>
-      <outline text="SG - Tudomány" title="SG - Tudomány" type="rss" xmlUrl="https://media.sg.hu/rss/rss_tudomany.xml" htmlUrl="http://sg.hu/tudomany"/>
+      <outline text="tech2" title="tech2" type="rss" xmlUrl="https://tech2.hu/feed/" htmlUrl="https://tech2.hu/"/>
       <outline text="Telex" title="Telex" type="rss" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
     </outline>
     <outline text="open source" title="open source">
@@ -51,10 +31,11 @@
     </outline>
     <outline text="PC gaming" title="PC gaming">
       <outline text="Eurogamer" title="Eurogamer" type="rss" xmlUrl="https://www.eurogamer.net/?format=rss" htmlUrl="https://www.eurogamer.net/"/>
+      <outline text="Free GoG PC Games" title="Free GoG PC Games" type="rss" xmlUrl="https://freegogpcgames.com/feed/" htmlUrl="http://freegogpcgames.com/"/>
       <outline text="Gamekapocs" title="Gamekapocs" type="rss" xmlUrl="https://www.gamekapocs.hu/rss" htmlUrl="https://www.gamekapocs.hu/"/>
+      <outline text="GOG Games" title="GOG Games" type="rss" xmlUrl="https://gog-games.to/rss" htmlUrl="http://gog-games.to/"/>
       <outline text="PlayDome" title="PlayDome" type="rss" xmlUrl="http://www.pcdome.hu/rss.html" htmlUrl="http://www.playdome.hu/"/>
       <outline text="Rock Paper Shotgun" title="Rock Paper Shotgun" type="rss" xmlUrl="https://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/"/>
-      <outline text="SG - Játék" title="SG - Játék" type="rss" xmlUrl="https://media.sg.hu/rss/rss_jatek.xml" htmlUrl="http://sg.hu/jatek"/>
     </outline>
     <outline text="tech" title="tech">
       <outline text="AI - ScienceDaily" title="AI - ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
