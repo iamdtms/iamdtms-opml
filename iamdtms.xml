@@ -4,10 +4,20 @@
     <title>Feeds of iamdtms</title>
   </head>
   <body>
+    <outline text="design" title="design">
+      <outline text="Adam Argyle" title="Adam Argyle" type="rss" xmlUrl="https://nerdy.dev/rss.xml" htmlUrl="https://nerdy.dev/"/>
+      <outline text="Ahmad Shadeed Blog" title="Ahmad Shadeed Blog" type="rss" xmlUrl="https://ishadeed.com/feed.xml" htmlUrl="https://ishadeed.com/"/>
+      <outline text="Chris Coyier" title="Chris Coyier" type="rss" xmlUrl="https://chriscoyier.net/feed/" htmlUrl="https://chriscoyier.net/"/>
+      <outline text="Codrops" title="Codrops" type="rss" xmlUrl="https://feeds2.feedburner.com/tympanus" htmlUrl="https://tympanus.net/codrops"/>
+      <outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="https://css-tricks.com"/>
+      <outline text="CSSence" title="CSSence" type="rss" xmlUrl="https://cssence.com/all/rss.xml" htmlUrl="https://cssence.com/all/rss.xml"/>
+      <outline text="FrontEnd Focus" title="FrontEnd Focus" type="rss" xmlUrl="http://frontendfocus.co/rss/1e4m5lnd" htmlUrl="http://html5weekly.com/"/>
+      <outline text="Frontend Masters" title="Frontend Masters" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/" htmlUrl="https://frontendmasters.com/blog"/>
+      <outline text="Smashing Magazine" title="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/"/>
+    </outline>
     <outline text="newshu" title="newshu">
       <outline text="24hu" title="24hu" type="rss" xmlUrl="https://24.hu/feed/" htmlUrl="https://24.hu/"/>
       <outline text="444" title="444" type="rss" xmlUrl="https://444.hu/feed/" htmlUrl="https://444.hu/"/>
-      <outline text="Economx" title="Economx" type="rss" xmlUrl="https://www.economx.hu/feed/mindencikk.xml" htmlUrl="https://www.economx.hu/"/>
       <outline text="Forbes" title="Forbes" type="rss" xmlUrl="https://forbes.hu/feed/" htmlUrl="https://forbes.hu/"/>
       <outline text="HVG" title="HVG" type="rss" xmlUrl="https://hvg.hu/rss" htmlUrl="https://hvg.hu/"/>
       <outline text="HWSW" title="HWSW" type="rss" xmlUrl="https://www.hwsw.hu/xml/latest_news_rss.xml" htmlUrl="https://www.hwsw.hu/"/>
@@ -38,6 +48,7 @@
       <outline text="Rock Paper Shotgun" title="Rock Paper Shotgun" type="rss" xmlUrl="https://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/"/>
     </outline>
     <outline text="tech" title="tech">
+      <outline text="404 Media" title="404 Media" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/"/>
       <outline text="AI - ScienceDaily" title="AI - ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
       <outline text="AI | The Guardian" title="AI | The Guardian" type="rss" xmlUrl="https://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
       <outline text="Android Authority" title="Android Authority" type="rss" xmlUrl="https://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com/"/>
