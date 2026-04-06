@@ -2,25 +2,69 @@
 
 ## design
 ```
-9 feeds
+nerdy.dev
+ishadeed
+chriscoyier
+codrops
+css-tricks.com
+cssence
+html5weekly
+frontendmasters
+smashingmagazine
+speckyboy
+```
+
+## future
+```
+Futurism
+IFTF
+Marginal REVOLUTION
+MIT Review
+ribbonfarm
+ScienceAlert
+Singularity HUB
 ```
 
 ## newshu
 ```
-24hu, 444, Economix, Forbes, HVG, HWSW, IGN Hungary, iPon, Mobilarena, Ötpont, Portfolio, Prohardver!, Qubit, HUP, raketa, Tech2, Telex
+24hu
+444
+Forbes
+HVG
+HWSW
+IGN Hungary
+iPon
+Mobilarena
+Ötpont
+Portfolio
+Prohardver!
+Qubit
+HUP
+raketa
+Tech2
+Telex
+```
+
+## Open Soruce
+```
+HUP
+Linuxmint blog
+Mastodon
+OMG Ubuntu
+Phoronix
 ```
 
 ## PC gaming
 ```
-Gamekapocs, PlayDome, Eurogamer, Rock Paper Shotgun, SGhu - Játék, Free GoG PC Games, GOG Games
+Gamekapocs
+PlayDome
+Eurogamer
+Rock Paper Shotgun
+Free GoG PC Games
+GOG Games
 ```
 
 ## tech
 ```
-28 feeds 
-```
-
-## open source
-```
-Mastodon, The Linux Mint Blog, Phoronix, OMG Ubuntu, HUP
+25 feeds 
 ```
