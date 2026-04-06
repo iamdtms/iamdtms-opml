@@ -14,6 +14,17 @@
       <outline text="FrontEnd Focus" title="FrontEnd Focus" type="rss" xmlUrl="http://frontendfocus.co/rss/1e4m5lnd" htmlUrl="http://html5weekly.com/"/>
       <outline text="Frontend Masters" title="Frontend Masters" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/" htmlUrl="https://frontendmasters.com/blog"/>
       <outline text="Smashing Magazine" title="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/"/>
+      <outline text="Speckyboy" title="Speckyboy" type="rss" xmlUrl="http://feeds.feedburner.com/speckboy-design-magazine" htmlUrl="http://speckyboy.com/"/>
+    </outline>
+    <outline text="future" title="future">
+      <outline text="Futurism" title="Futurism" type="rss" xmlUrl="https://futurism.com/feed" htmlUrl="https://futurism.com/"/>
+      <outline text="Institute for the Future (IFTF)" title="Institute for the Future (IFTF)" type="rss" xmlUrl="https://www.iftf.org" htmlUrl="https://www.iftf.org"/>
+      <outline text="Marginal REVOLUTION" title="Marginal REVOLUTION" type="rss" xmlUrl="https://marginalrevolution.com/feed" htmlUrl="https://marginalrevolution.com/"/>
+      <outline text="MIT Review" title="MIT Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/"/>
+      <outline text="MIT Technology Review" title="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/feed" htmlUrl="https://www.technologyreview.com/"/>
+      <outline text="ribbonfarm" title="ribbonfarm" type="rss" xmlUrl="https://www.ribbonfarm.com/feed/" htmlUrl="https://www.ribbonfarm.com/"/>
+      <outline text="ScienceAlert" title="ScienceAlert" type="rss" xmlUrl="https://www.sciencealert.com/feed/gn/" htmlUrl="https://www.sciencealert.com/"/>
+      <outline text="Singularity HUB" title="Singularity HUB" type="rss" xmlUrl="https://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
     </outline>
     <outline text="newshu" title="newshu">
       <outline text="24hu" title="24hu" type="rss" xmlUrl="https://24.hu/feed/" htmlUrl="https://24.hu/"/>
@@ -60,13 +71,10 @@
       <outline text="Digital Trends" title="Digital Trends" type="rss" xmlUrl="https://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com/"/>
       <outline text="Disconnect" title="Disconnect" type="rss" xmlUrl="https://www.disconnect.blog/feed" htmlUrl="https://www.disconnect.blog/"/>
       <outline text="ExtremeTech" title="ExtremeTech" type="rss" xmlUrl="https://www.extremetech.com/feed" htmlUrl="http://www.extremetech.com/"/>
-      <outline text="Futurism" title="Futurism" type="rss" xmlUrl="https://futurism.com/feed" htmlUrl="https://futurism.com/"/>
       <outline text="Google AI Blog" title="Google AI Blog" type="rss" xmlUrl="https://googleaiblog.blogspot.com/atom.xml" htmlUrl="https://ai.googleblog.com/"/>
       <outline text="Google Blog" title="Google Blog" type="rss" xmlUrl="https://googleblog.blogspot.com/atom.xml" htmlUrl="https://googleblog.blogspot.com/"/>
       <outline text="Google Play" title="Google Play" type="rss" xmlUrl="https://blog.google/products/google-play/rss/" htmlUrl="https://blog.google/products/google-play/"/>
       <outline text="Inoreader blog" title="Inoreader blog" type="rss" xmlUrl="https://www.inoreader.com/blog/feed" htmlUrl="https://www.inoreader.com/blog/"/>
-      <outline text="MIT News" title="MIT News" type="rss" xmlUrl="https://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="https://newsoffice.mit.edu/topic/mitcomputer-science-and-artificial-intelligence-laboratory-csail-rss.xml"/>
-      <outline text="MIT Review" title="MIT Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/"/>
       <outline text="Neowin" title="Neowin" type="rss" xmlUrl="http://feeds.feedburner.com/neowin-main" htmlUrl="http://www.neowin.net/news/rss/"/>
       <outline text="NVIDIA Blog" title="NVIDIA Blog" type="rss" xmlUrl="http://feeds.feedburner.com/nvidiablog" htmlUrl="https://blogs.nvidia.com/"/>
       <outline text="OpenAI " title="OpenAI " type="rss" xmlUrl="https://blog.openai.com/rss/" htmlUrl="https://blog.openai.com/"/>
