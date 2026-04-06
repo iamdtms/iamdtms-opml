@@ -45,7 +45,7 @@ Tech2
 Telex
 ```
 
-## Open Soruce
+## open source
 ```
 HUP
 Linuxmint blog
