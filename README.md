@@ -2,25 +2,22 @@
 
 ## design
 ```
-nerdy.dev
-ishadeed
-chriscoyier
-codrops
-css-tricks.com
-cssence
-html5weekly
-frontendmasters
-smashingmagazine
-speckyboy
+Adam Argyle
+Ahmad Shadeed
+Chris Coyier
+Codrops
+CSS-Tricks
+CSSence
+FrontEnd Focus
+Frontend Masters
+Smashing Magazine
+Speckyboy
 ```
 
 ## future
 ```
 Futurism
-IFTF
-Marginal REVOLUTION
-MIT Review
-ribbonfarm
+MIT Technology Review
 ScienceAlert
 Singularity HUB
 ```
@@ -35,11 +32,9 @@ HWSW
 IGN Hungary
 iPon
 Mobilarena
-Ötpont
 Portfolio
 Prohardver!
 Qubit
-HUP
 raketa
 Tech2
 Telex
@@ -56,12 +51,13 @@ Phoronix
 
 ## PC gaming
 ```
+Eurogamer
+Free GoG PC Games
 Gamekapocs
+GOG Games
 PlayDome
 Eurogamer
 Rock Paper Shotgun
-Free GoG PC Games
-GOG Games
 ```
 
 ## tech
