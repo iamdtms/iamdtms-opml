@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>Feeds of iamdtms</title>
+    <title>Feeds of iamdtms from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
     <outline text="design" title="design">
@@ -18,11 +18,7 @@
     </outline>
     <outline text="future" title="future">
       <outline text="Futurism" title="Futurism" type="rss" xmlUrl="https://futurism.com/feed" htmlUrl="https://futurism.com/"/>
-      <outline text="Institute for the Future (IFTF)" title="Institute for the Future (IFTF)" type="rss" xmlUrl="https://www.iftf.org" htmlUrl="https://www.iftf.org"/>
-      <outline text="Marginal REVOLUTION" title="Marginal REVOLUTION" type="rss" xmlUrl="https://marginalrevolution.com/feed" htmlUrl="https://marginalrevolution.com/"/>
-      <outline text="MIT Review" title="MIT Review" type="rss" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/"/>
       <outline text="MIT Technology Review" title="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/feed" htmlUrl="https://www.technologyreview.com/"/>
-      <outline text="ribbonfarm" title="ribbonfarm" type="rss" xmlUrl="https://www.ribbonfarm.com/feed/" htmlUrl="https://www.ribbonfarm.com/"/>
       <outline text="ScienceAlert" title="ScienceAlert" type="rss" xmlUrl="https://www.sciencealert.com/feed/gn/" htmlUrl="https://www.sciencealert.com/"/>
       <outline text="Singularity HUB" title="Singularity HUB" type="rss" xmlUrl="https://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
     </outline>
@@ -35,7 +31,6 @@
       <outline text="IGN Hungary" title="IGN Hungary" type="rss" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="https://hu.ign.com"/>
       <outline text="iPon" title="iPon" type="rss" xmlUrl="https://ipon.hu/news-feed" htmlUrl="http://ipon.hu/rss.php"/>
       <outline text="Mobilarena" title="Mobilarena" type="rss" xmlUrl="https://mobilarena.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://mobilarena.hu/"/>
-      <outline text="Ötpont" title="Ötpont" type="rss" xmlUrl="https://dullszabolcs.substack.com/feed" htmlUrl="https://dullszabolcs.substack.com/"/>
       <outline text="Portfolio" title="Portfolio" type="rss" xmlUrl="https://www.portfolio.hu/rss/all.xml" htmlUrl="https://www.portfolio.hu/"/>
       <outline text="Prohardver!" title="Prohardver!" type="rss" xmlUrl="https://prohardver.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://prohardver.hu/"/>
       <outline text="Qubit" title="Qubit" type="rss" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
