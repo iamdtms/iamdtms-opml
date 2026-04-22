@@ -1,6 +1,7 @@
 # iamdtms-opml (xml export)
 
 ## design
+[Preview](https://www.inoreader.com/stream/user/1005110964/tag/design/view/html?cs=m)
 ```
 Adam Argyle
 Ahmad Shadeed
@@ -15,6 +16,7 @@ Speckyboy
 ```
 
 ## future
+[Preview](https://www.inoreader.com/stream/user/1005110964/tag/future/view/html?cs=m)
 ```
 Futurism
 MIT Technology Review
@@ -23,6 +25,7 @@ Singularity HUB
 ```
 
 ## newshu
+[Preview](https://www.inoreader.com/stream/user/1005110964/tag/newshu/view/html?cs=m)
 ```
 24hu
 444
@@ -41,6 +44,7 @@ Telex
 ```
 
 ## open source
+[Preview](https://www.inoreader.com/stream/user/1005110964/tag/open%20source/view/html?cs=m)
 ```
 HUP
 Linuxmint blog
@@ -50,6 +54,7 @@ Phoronix
 ```
 
 ## PC gaming
+[Preview](https://www.inoreader.com/stream/user/1005110964/tag/PC%20gaming/view/html?cs=m)
 ```
 Eurogamer
 Free GoG PC Games
@@ -61,6 +66,7 @@ Rock Paper Shotgun
 ```
 
 ## tech
+[Preview](https://www.inoreader.com/stream/user/1005110964/tag/tech/view/html?cs=m)
 ```
 25 feeds 
 ```
