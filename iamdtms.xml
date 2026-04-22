@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>Feeds of iamdtms from Inoreader [https://www.inoreader.com]</title>
+    <title>Feeds of iamdtms</title>
   </head>
   <body>
     <outline text="design" title="design">
@@ -31,6 +31,7 @@
       <outline text="IGN Hungary" title="IGN Hungary" type="rss" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="https://hu.ign.com"/>
       <outline text="iPon" title="iPon" type="rss" xmlUrl="https://ipon.hu/news-feed" htmlUrl="http://ipon.hu/rss.php"/>
       <outline text="Mobilarena" title="Mobilarena" type="rss" xmlUrl="https://mobilarena.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://mobilarena.hu/"/>
+      <outline text="Ötpont" title="Ötpont" type="rss" xmlUrl="https://dullszabolcs.substack.com/feed" htmlUrl="https://dullszabolcs.substack.com/"/>
       <outline text="Portfolio" title="Portfolio" type="rss" xmlUrl="https://www.portfolio.hu/rss/all.xml" htmlUrl="https://www.portfolio.hu/"/>
       <outline text="Prohardver!" title="Prohardver!" type="rss" xmlUrl="https://prohardver.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://prohardver.hu/"/>
       <outline text="Qubit" title="Qubit" type="rss" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
@@ -54,7 +55,6 @@
       <outline text="Rock Paper Shotgun" title="Rock Paper Shotgun" type="rss" xmlUrl="https://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/"/>
     </outline>
     <outline text="tech" title="tech">
-      <outline text="404 Media" title="404 Media" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/"/>
       <outline text="AI - ScienceDaily" title="AI - ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
       <outline text="AI | The Guardian" title="AI | The Guardian" type="rss" xmlUrl="https://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
       <outline text="Android Authority" title="Android Authority" type="rss" xmlUrl="https://feeds.feedburner.com/androidauthority" htmlUrl="https://www.androidauthority.com/"/>
