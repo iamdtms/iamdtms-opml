@@ -68,5 +68,5 @@ Rock Paper Shotgun
 ## tech
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/tech/view/html?cs=m)
 ```
-25 feeds 
+20+ feeds 
 ```
