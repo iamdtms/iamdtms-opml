@@ -45,12 +45,14 @@
       <outline text="Mastodon" title="Mastodon" type="rss" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="http://blog.joinmastodon.org/"/>
       <outline text="OMG Ubuntu" title="OMG Ubuntu" type="rss" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="http://www.omgubuntu.co.uk"/>
       <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="https://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
+      <outline text="The Linux Kernel Archives" title="The Linux Kernel Archives" type="rss" xmlUrl="https://www.kernel.org/feeds/all.atom.xml" htmlUrl="https://www.kernel.org/"/>
     </outline>
     <outline text="PC gaming" title="PC gaming">
       <outline text="Eurogamer" title="Eurogamer" type="rss" xmlUrl="https://www.eurogamer.net/?format=rss" htmlUrl="https://www.eurogamer.net/"/>
       <outline text="Free GoG PC Games" title="Free GoG PC Games" type="rss" xmlUrl="https://freegogpcgames.com/feed/" htmlUrl="http://freegogpcgames.com/"/>
       <outline text="Gamekapocs" title="Gamekapocs" type="rss" xmlUrl="https://www.gamekapocs.hu/rss" htmlUrl="https://www.gamekapocs.hu/"/>
       <outline text="GOG Games" title="GOG Games" type="rss" xmlUrl="https://gog-games.to/rss" htmlUrl="http://gog-games.to/"/>
+      <outline text="PCGamesTorrents" title="PCGamesTorrents" type="rss" xmlUrl="https://pcgamestorrents.com/feed" htmlUrl="https://pcgamestorrents.com/"/>
       <outline text="PlayDome" title="PlayDome" type="rss" xmlUrl="http://www.pcdome.hu/rss.html" htmlUrl="http://www.playdome.hu/"/>
       <outline text="Rock Paper Shotgun" title="Rock Paper Shotgun" type="rss" xmlUrl="https://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/"/>
     </outline>
@@ -66,7 +68,6 @@
       <outline text="Digital Trends" title="Digital Trends" type="rss" xmlUrl="https://www.digitaltrends.com/feed/" htmlUrl="https://www.digitaltrends.com/"/>
       <outline text="Disconnect" title="Disconnect" type="rss" xmlUrl="https://www.disconnect.blog/feed" htmlUrl="https://www.disconnect.blog/"/>
       <outline text="ExtremeTech" title="ExtremeTech" type="rss" xmlUrl="https://www.extremetech.com/feed" htmlUrl="http://www.extremetech.com/"/>
-      <outline text="Google AI Blog" title="Google AI Blog" type="rss" xmlUrl="https://googleaiblog.blogspot.com/atom.xml" htmlUrl="https://ai.googleblog.com/"/>
       <outline text="Google Blog" title="Google Blog" type="rss" xmlUrl="https://googleblog.blogspot.com/atom.xml" htmlUrl="https://googleblog.blogspot.com/"/>
       <outline text="Google Play" title="Google Play" type="rss" xmlUrl="https://blog.google/products/google-play/rss/" htmlUrl="https://blog.google/products/google-play/"/>
       <outline text="Inoreader blog" title="Inoreader blog" type="rss" xmlUrl="https://www.inoreader.com/blog/feed" htmlUrl="https://www.inoreader.com/blog/"/>
