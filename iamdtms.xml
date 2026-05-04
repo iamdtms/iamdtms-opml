@@ -14,7 +14,6 @@
       <outline text="FrontEnd Focus" title="FrontEnd Focus" type="rss" xmlUrl="http://frontendfocus.co/rss/1e4m5lnd" htmlUrl="http://html5weekly.com/"/>
       <outline text="Frontend Masters" title="Frontend Masters" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/" htmlUrl="https://frontendmasters.com/blog"/>
       <outline text="Smashing Magazine" title="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/"/>
-      <outline text="Speckyboy" title="Speckyboy" type="rss" xmlUrl="http://feeds.feedburner.com/speckboy-design-magazine" htmlUrl="http://speckyboy.com/"/>
     </outline>
     <outline text="future" title="future">
       <outline text="Futurism" title="Futurism" type="rss" xmlUrl="https://futurism.com/feed" htmlUrl="https://futurism.com/"/>
@@ -36,7 +35,7 @@
       <outline text="Prohardver!" title="Prohardver!" type="rss" xmlUrl="https://prohardver.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://prohardver.hu/"/>
       <outline text="Qubit" title="Qubit" type="rss" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
       <outline text="raketa" title="raketa" type="rss" xmlUrl="https://raketa.hu/feed" htmlUrl="https://raketa.hu/"/>
-      <outline text="tech2" title="tech2" type="rss" xmlUrl="https://tech2.hu/feed/" htmlUrl="https://tech2.hu/"/>
+      <outline text="Tech2" title="Tech2" type="rss" xmlUrl="https://tech2.hu/feed/" htmlUrl="https://tech2.hu/"/>
       <outline text="Telex" title="Telex" type="rss" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
     </outline>
     <outline text="open source" title="open source">
@@ -45,7 +44,6 @@
       <outline text="Mastodon" title="Mastodon" type="rss" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="http://blog.joinmastodon.org/"/>
       <outline text="OMG Ubuntu" title="OMG Ubuntu" type="rss" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="http://www.omgubuntu.co.uk"/>
       <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="https://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
-      <outline text="The Linux Kernel Archives" title="The Linux Kernel Archives" type="rss" xmlUrl="https://www.kernel.org/feeds/all.atom.xml" htmlUrl="https://www.kernel.org/"/>
     </outline>
     <outline text="PC gaming" title="PC gaming">
       <outline text="Eurogamer" title="Eurogamer" type="rss" xmlUrl="https://www.eurogamer.net/?format=rss" htmlUrl="https://www.eurogamer.net/"/>
