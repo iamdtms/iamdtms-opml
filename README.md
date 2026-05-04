@@ -12,7 +12,6 @@ CSSence
 FrontEnd Focus
 Frontend Masters
 Smashing Magazine
-Speckyboy
 ```
 
 ## future
@@ -60,8 +59,8 @@ Eurogamer
 Free GoG PC Games
 Gamekapocs
 GOG Games
+PCGamesTorrents
 PlayDome
-Eurogamer
 Rock Paper Shotgun
 ```
 
