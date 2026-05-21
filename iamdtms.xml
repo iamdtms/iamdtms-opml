@@ -14,6 +14,7 @@
       <outline text="FrontEnd Focus" title="FrontEnd Focus" type="rss" xmlUrl="http://frontendfocus.co/rss/1e4m5lnd" htmlUrl="http://html5weekly.com/"/>
       <outline text="Frontend Masters" title="Frontend Masters" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/" htmlUrl="https://frontendmasters.com/blog"/>
       <outline text="Smashing Magazine" title="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/"/>
+      <outline text="Una Kravets Online" title="Una Kravets Online" type="rss" xmlUrl="https://una.im/rss.xml" htmlUrl="https://una.im/"/>
     </outline>
     <outline text="future" title="future">
       <outline text="Futurism" title="Futurism" type="rss" xmlUrl="https://futurism.com/feed" htmlUrl="https://futurism.com/"/>
@@ -30,15 +31,15 @@
       <outline text="IGN Hungary" title="IGN Hungary" type="rss" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="https://hu.ign.com"/>
       <outline text="iPon" title="iPon" type="rss" xmlUrl="https://ipon.hu/news-feed" htmlUrl="http://ipon.hu/rss.php"/>
       <outline text="Mobilarena" title="Mobilarena" type="rss" xmlUrl="https://mobilarena.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://mobilarena.hu/"/>
-      <outline text="Ötpont" title="Ötpont" type="rss" xmlUrl="https://dullszabolcs.substack.com/feed" htmlUrl="https://dullszabolcs.substack.com/"/>
       <outline text="Portfolio" title="Portfolio" type="rss" xmlUrl="https://www.portfolio.hu/rss/all.xml" htmlUrl="https://www.portfolio.hu/"/>
       <outline text="Prohardver!" title="Prohardver!" type="rss" xmlUrl="https://prohardver.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://prohardver.hu/"/>
       <outline text="Qubit" title="Qubit" type="rss" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
       <outline text="raketa" title="raketa" type="rss" xmlUrl="https://raketa.hu/feed" htmlUrl="https://raketa.hu/"/>
-      <outline text="Tech2" title="Tech2" type="rss" xmlUrl="https://tech2.hu/feed/" htmlUrl="https://tech2.hu/"/>
+      <outline text="tech2" title="tech2" type="rss" xmlUrl="https://tech2.hu/feed/" htmlUrl="https://tech2.hu/"/>
       <outline text="Telex" title="Telex" type="rss" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
     </outline>
     <outline text="open source" title="open source">
+      <outline text="GamingOnLinux.com Latest Articles" title="GamingOnLinux.com Latest Articles" type="rss" xmlUrl="https://www.gamingonlinux.com/article_rss.php" htmlUrl="https://www.gamingonlinux.com/"/>
       <outline text="HUP" title="HUP" type="rss" xmlUrl="https://hup.hu/node/feed" htmlUrl="http://hup.hu/"/>
       <outline text="LM Blog" title="LM Blog" type="rss" xmlUrl="https://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com/"/>
       <outline text="Mastodon" title="Mastodon" type="rss" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="http://blog.joinmastodon.org/"/>
