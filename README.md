@@ -12,6 +12,7 @@ CSSence
 FrontEnd Focus
 Frontend Masters
 Smashing Magazine
+Una Kravets
 ```
 
 ## future
@@ -45,6 +46,7 @@ Telex
 ## open source
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/open%20source/view/html?cs=m)
 ```
+GamingOnLinux
 HUP
 Linuxmint blog
 Mastodon
