@@ -39,21 +39,11 @@
       <outline text="Telex" title="Telex" type="rss" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
     </outline>
     <outline text="open source" title="open source">
-      <outline text="GamingOnLinux.com Latest Articles" title="GamingOnLinux.com Latest Articles" type="rss" xmlUrl="https://www.gamingonlinux.com/article_rss.php" htmlUrl="https://www.gamingonlinux.com/"/>
       <outline text="HUP" title="HUP" type="rss" xmlUrl="https://hup.hu/node/feed" htmlUrl="http://hup.hu/"/>
       <outline text="LM Blog" title="LM Blog" type="rss" xmlUrl="https://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com/"/>
       <outline text="Mastodon" title="Mastodon" type="rss" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="http://blog.joinmastodon.org/"/>
       <outline text="OMG Ubuntu" title="OMG Ubuntu" type="rss" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="http://www.omgubuntu.co.uk"/>
       <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="https://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
-    </outline>
-    <outline text="PC gaming" title="PC gaming">
-      <outline text="Eurogamer" title="Eurogamer" type="rss" xmlUrl="https://www.eurogamer.net/?format=rss" htmlUrl="https://www.eurogamer.net/"/>
-      <outline text="Free GoG PC Games" title="Free GoG PC Games" type="rss" xmlUrl="https://freegogpcgames.com/feed/" htmlUrl="http://freegogpcgames.com/"/>
-      <outline text="Gamekapocs" title="Gamekapocs" type="rss" xmlUrl="https://www.gamekapocs.hu/rss" htmlUrl="https://www.gamekapocs.hu/"/>
-      <outline text="GOG Games" title="GOG Games" type="rss" xmlUrl="https://gog-games.to/rss" htmlUrl="http://gog-games.to/"/>
-      <outline text="PCGamesTorrents" title="PCGamesTorrents" type="rss" xmlUrl="https://pcgamestorrents.com/feed" htmlUrl="https://pcgamestorrents.com/"/>
-      <outline text="PlayDome" title="PlayDome" type="rss" xmlUrl="http://www.pcdome.hu/rss.html" htmlUrl="http://www.playdome.hu/"/>
-      <outline text="Rock Paper Shotgun" title="Rock Paper Shotgun" type="rss" xmlUrl="https://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/"/>
     </outline>
     <outline text="tech" title="tech">
       <outline text="AI - ScienceDaily" title="AI - ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
