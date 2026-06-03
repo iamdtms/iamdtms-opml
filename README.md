@@ -46,24 +46,11 @@ Telex
 ## open source
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/open%20source/view/html?cs=m)
 ```
-GamingOnLinux
 HUP
 Linuxmint blog
 Mastodon
 OMG Ubuntu
 Phoronix
-```
-
-## PC gaming
-[Preview](https://www.inoreader.com/stream/user/1005110964/tag/PC%20gaming/view/html?cs=m)
-```
-Eurogamer
-Free GoG PC Games
-Gamekapocs
-GOG Games
-PCGamesTorrents
-PlayDome
-Rock Paper Shotgun
 ```
 
 ## tech
