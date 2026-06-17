@@ -53,6 +53,15 @@ OMG Ubuntu
 Phoronix
 ```
 
+## PC gaming
+```
+Gaming On Linux
+GOG Games
+GOG PC Games
+IGG Games
+PC games torrents
+```
+
 ## tech
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/tech/view/html?cs=m)
 ```
