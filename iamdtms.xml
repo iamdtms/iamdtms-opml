@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>Feeds of iamdtms</title>
+    <title>Feeds of iamdtms from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
     <outline text="design" title="design">
       <outline text="Adam Argyle" title="Adam Argyle" type="rss" xmlUrl="https://nerdy.dev/rss.xml" htmlUrl="https://nerdy.dev/"/>
       <outline text="Ahmad Shadeed Blog" title="Ahmad Shadeed Blog" type="rss" xmlUrl="https://ishadeed.com/feed.xml" htmlUrl="https://ishadeed.com/"/>
       <outline text="Chris Coyier" title="Chris Coyier" type="rss" xmlUrl="https://chriscoyier.net/feed/" htmlUrl="https://chriscoyier.net/"/>
-      <outline text="Codrops" title="Codrops" type="rss" xmlUrl="https://feeds2.feedburner.com/tympanus" htmlUrl="https://tympanus.net/codrops"/>
-      <outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="https://css-tricks.com"/>
       <outline text="CSSence" title="CSSence" type="rss" xmlUrl="https://cssence.com/all/rss.xml" htmlUrl="https://cssence.com/all/rss.xml"/>
       <outline text="FrontEnd Focus" title="FrontEnd Focus" type="rss" xmlUrl="http://frontendfocus.co/rss/1e4m5lnd" htmlUrl="http://html5weekly.com/"/>
       <outline text="Frontend Masters" title="Frontend Masters" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/" htmlUrl="https://frontendmasters.com/blog"/>
@@ -31,6 +29,7 @@
       <outline text="IGN Hungary" title="IGN Hungary" type="rss" xmlUrl="http://hu.ign.com/feed.xml" htmlUrl="https://hu.ign.com"/>
       <outline text="iPon" title="iPon" type="rss" xmlUrl="https://ipon.hu/news-feed" htmlUrl="http://ipon.hu/rss.php"/>
       <outline text="Mobilarena" title="Mobilarena" type="rss" xmlUrl="https://mobilarena.hu/hirfolyam/anyagok/rss.xml" htmlUrl="https://mobilarena.hu/"/>
+      <outline text="PC Fórum" title="PC Fórum" type="rss" xmlUrl="https://pcforum.hu/site.pc/backend/pcforum-atom.xml" htmlUrl="https://pcforum.hu/"/>
       <outline text="Portfolio" title="Portfolio" type="rss" xmlUrl="https://www.portfolio.hu/rss/all.xml" htmlUrl="https://www.portfolio.hu/"/>
       <outline text="Prohardver!" title="Prohardver!" type="rss" xmlUrl="https://prohardver.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://prohardver.hu/"/>
       <outline text="Qubit" title="Qubit" type="rss" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
@@ -44,6 +43,13 @@
       <outline text="Mastodon" title="Mastodon" type="rss" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="http://blog.joinmastodon.org/"/>
       <outline text="OMG Ubuntu" title="OMG Ubuntu" type="rss" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="http://www.omgubuntu.co.uk"/>
       <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="https://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
+    </outline>
+    <outline text="PC gaming" title="PC gaming">
+      <outline text="Gaming On Linux" title="GamingOnLinux" type="rss" xmlUrl="https://www.gamingonlinux.com/article_rss.php" htmlUrl="https://www.gamingonlinux.com/"/>
+      <outline text="GOG Games" title="GOG Games" type="rss" xmlUrl="https://gog-games.to/rss" htmlUrl="http://gog-games.to/"/>
+      <outline text="GoG PC Games" title="GoG PC Games" type="rss" xmlUrl="https://feeds.feedburner.com/freegogpcgames" htmlUrl="https://freegogpcgames.com/"/>
+      <outline text="IGG Games" title="IGG Games" type="rss" xmlUrl="https://igg-games.com/feed" htmlUrl="https://igg-games.com/"/>
+      <outline text="PC games torrents" title="PC games torrents" type="rss" xmlUrl="https://pcgamestorrents.com/feed" htmlUrl="https://pcgamestorrents.com/"/>
     </outline>
     <outline text="tech" title="tech">
       <outline text="AI - ScienceDaily" title="AI - ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
