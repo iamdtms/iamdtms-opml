@@ -54,6 +54,7 @@ Phoronix
 ```
 
 ## PC gaming
+[Preview](https://www.inoreader.com/stream/user/1005110964/tag/pc%20gaming/view/html?cs=m)
 ```
 Gaming On Linux
 GOG Games
