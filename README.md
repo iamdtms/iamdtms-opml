@@ -59,8 +59,7 @@ Phoronix
 Gaming On Linux
 GOG Games
 GOG PC Games
-IGG Games
-PC games torrents
+IGN Hungary gaming
 ```
 
 ## tech
