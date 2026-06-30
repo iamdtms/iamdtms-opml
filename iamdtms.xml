@@ -18,7 +18,6 @@
       <outline text="AI - ScienceDaily" title="AI - ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
       <outline text="AI | The Guardian" title="AI | The Guardian" type="rss" xmlUrl="https://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
       <outline text="Futurism" title="Futurism" type="rss" xmlUrl="https://futurism.com/feed" htmlUrl="https://futurism.com/"/>
-      <outline text="MIT Technology Review" title="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/feed" htmlUrl="https://www.technologyreview.com/"/>
       <outline text="OpenAI " title="OpenAI " type="rss" xmlUrl="https://blog.openai.com/rss/" htmlUrl="https://blog.openai.com/"/>
       <outline text="ScienceAlert" title="ScienceAlert" type="rss" xmlUrl="https://www.sciencealert.com/feed/gn/" htmlUrl="https://www.sciencealert.com/"/>
       <outline text="Singularity HUB" title="Singularity HUB" type="rss" xmlUrl="https://singularityhub.com/feed/" htmlUrl="https://singularityhub.com/"/>
