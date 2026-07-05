@@ -6,17 +6,17 @@
   <body>
     <outline text="design" title="design">
       <outline text="Adam Argyle" title="Adam Argyle" type="rss" xmlUrl="https://nerdy.dev/rss.xml" htmlUrl="https://nerdy.dev/"/>
-      <outline text="Ahmad Shadeed Blog" title="Ahmad Shadeed Blog" type="rss" xmlUrl="https://ishadeed.com/feed.xml" htmlUrl="https://ishadeed.com/"/>
+      <outline text="Ahmad Shadeed" title="Ahmad Shadeed Blog" type="rss" xmlUrl="https://ishadeed.com/feed.xml" htmlUrl="https://ishadeed.com/"/>
       <outline text="Chris Coyier" title="Chris Coyier" type="rss" xmlUrl="https://chriscoyier.net/feed/" htmlUrl="https://chriscoyier.net/"/>
       <outline text="CSSence" title="CSSence" type="rss" xmlUrl="https://cssence.com/all/rss.xml" htmlUrl="https://cssence.com/all/rss.xml"/>
       <outline text="FrontEnd Focus" title="FrontEnd Focus" type="rss" xmlUrl="http://frontendfocus.co/rss/1e4m5lnd" htmlUrl="http://html5weekly.com/"/>
       <outline text="Frontend Masters" title="Frontend Masters" type="rss" xmlUrl="https://frontendmasters.com/blog/feed/" htmlUrl="https://frontendmasters.com/blog"/>
       <outline text="Smashing Magazine" title="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/"/>
-      <outline text="Una Kravets Online" title="Una Kravets Online" type="rss" xmlUrl="https://una.im/rss.xml" htmlUrl="https://una.im/"/>
+      <outline text="Una Kravets" title="Una Kravets Online" type="rss" xmlUrl="https://una.im/rss.xml" htmlUrl="https://una.im/"/>
     </outline>
     <outline text="future" title="future">
-      <outline text="AI - ScienceDaily" title="AI - ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
-      <outline text="AI | The Guardian" title="AI | The Guardian" type="rss" xmlUrl="https://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
+      <outline text="ScienceDaily" title="AI - ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
+      <outline text="The Guardian" title="AI | The Guardian" type="rss" xmlUrl="https://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
       <outline text="Futurism" title="Futurism" type="rss" xmlUrl="https://futurism.com/feed" htmlUrl="https://futurism.com/"/>
       <outline text="OpenAI " title="OpenAI " type="rss" xmlUrl="https://blog.openai.com/rss/" htmlUrl="https://blog.openai.com/"/>
       <outline text="ScienceAlert" title="ScienceAlert" type="rss" xmlUrl="https://www.sciencealert.com/feed/gn/" htmlUrl="https://www.sciencealert.com/"/>
@@ -36,12 +36,12 @@
       <outline text="Prohardver!" title="Prohardver!" type="rss" xmlUrl="https://prohardver.hu/hirfolyam/anyagok/rss.xml" htmlUrl="http://prohardver.hu/"/>
       <outline text="Qubit" title="Qubit" type="rss" xmlUrl="https://qubit.hu/feed" htmlUrl="https://qubit.hu/feed"/>
       <outline text="raketa" title="raketa" type="rss" xmlUrl="https://raketa.hu/feed" htmlUrl="https://raketa.hu/"/>
-      <outline text="tech2" title="tech2" type="rss" xmlUrl="https://tech2.hu/feed/" htmlUrl="https://tech2.hu/"/>
+      <outline text="Tech2" title="tech2" type="rss" xmlUrl="https://tech2.hu/feed/" htmlUrl="https://tech2.hu/"/>
       <outline text="Telex" title="Telex" type="rss" xmlUrl="https://telex.hu/rss" htmlUrl="https://telex.hu/rss"/>
     </outline>
     <outline text="open source" title="open source">
       <outline text="HUP" title="HUP" type="rss" xmlUrl="https://hup.hu/node/feed" htmlUrl="http://hup.hu/"/>
-      <outline text="LM Blog" title="LM Blog" type="rss" xmlUrl="https://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com/"/>
+      <outline text="The Linux Mint blog" title="LM Blog" type="rss" xmlUrl="https://blog.linuxmint.com/?feed=rss2" htmlUrl="https://blog.linuxmint.com/"/>
       <outline text="Mastodon" title="Mastodon" type="rss" xmlUrl="https://blog.joinmastodon.org/index.xml" htmlUrl="http://blog.joinmastodon.org/"/>
       <outline text="OMG Ubuntu" title="OMG Ubuntu" type="rss" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="http://www.omgubuntu.co.uk"/>
       <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="https://feeds.feedburner.com/Phoronix" htmlUrl="https://www.phoronix.com/"/>
