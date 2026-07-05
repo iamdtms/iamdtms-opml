@@ -6,7 +6,6 @@
 Adam Argyle
 Ahmad Shadeed
 Chris Coyier
-Codrops
 CSS-Tricks
 CSSence
 FrontEnd Focus
@@ -18,7 +17,10 @@ Una Kravets
 ## future
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/future/view/html?cs=m)
 ```
+ScienceDaily
+The Guardian
 Futurism
+OpenAI
 MIT Technology Review
 ScienceAlert
 Singularity HUB
@@ -35,6 +37,7 @@ HWSW
 IGN Hungary
 iPon
 Mobilarena
+PC Fórum
 Portfolio
 Prohardver!
 Qubit
@@ -47,7 +50,7 @@ Telex
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/open%20source/view/html?cs=m)
 ```
 HUP
-Linuxmint blog
+The Linux Mint blog
 Mastodon
 OMG Ubuntu
 Phoronix
@@ -65,5 +68,5 @@ IGN Hungary gaming
 ## tech
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/tech/view/html?cs=m)
 ```
-20+ feed sources
+More feed sources
 ```
