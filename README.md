@@ -65,5 +65,5 @@ IGN Hungary gaming
 ## tech
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/tech/view/html?cs=m)
 ```
-20+ feeds 
+20+ feed sources
 ```
