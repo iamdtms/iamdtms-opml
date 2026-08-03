@@ -21,7 +21,6 @@ ScienceDaily
 The Guardian
 Futurism
 OpenAI
-MIT Technology Review
 ScienceAlert
 Singularity HUB
 ```
@@ -42,27 +41,8 @@ Portfolio
 Prohardver!
 Qubit
 raketa
-Tech2
+tech2
 Telex
-```
-
-## open source
-[Preview](https://www.inoreader.com/stream/user/1005110964/tag/open%20source/view/html?cs=m)
-```
-HUP
-The Linux Mint blog
-Mastodon
-OMG Ubuntu
-Phoronix
-```
-
-## PC gaming
-[Preview](https://www.inoreader.com/stream/user/1005110964/tag/pc%20gaming/view/html?cs=m)
-```
-Gaming On Linux
-GOG Games
-GOG PC Games
-IGN Hungary gaming
 ```
 
 ## tech
