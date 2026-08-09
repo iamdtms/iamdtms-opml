@@ -1,4 +1,4 @@
-# iamdtms-opml (xml export)
+# iamdtms-opml (xml export) - 54 feeds
 
 ## design
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/design/view/html?cs=m)
