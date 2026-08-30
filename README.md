@@ -1,4 +1,4 @@
-# iamdtms-opml (xml export) - 54 feeds
+# iamdtms-opml (xml export)
 
 ## design
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/design/view/html?cs=m)
@@ -14,7 +14,7 @@ Smashing Magazine
 Una Kravets
 ```
 
-## future
+## future & AI
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/future/view/html?cs=m)
 ```
 ScienceDaily
@@ -23,6 +23,8 @@ Futurism
 OpenAI
 ScienceAlert
 Singularity HUB
+Inside Climate News
+Quanta Magazine
 ```
 
 ## newshu
@@ -48,5 +50,5 @@ Telex
 ## tech
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/tech/view/html?cs=m)
 ```
-More feed sources
+More 20+ feed sources
 ```
