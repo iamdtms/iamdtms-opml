@@ -38,7 +38,6 @@ HWSW
 IGN Hungary
 iPon
 Mobilarena
-PC Fórum
 Portfolio
 Prohardver!
 Qubit
@@ -50,5 +49,27 @@ Telex
 ## tech
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/tech/view/html?cs=m)
 ```
-More 20+ feed sources
+9to5Linux
+Android Central
+Ars Technica
+BBC Future
+Bleeping Computer
+Digital Trends
+Disconnect
+Extreme Tech
+Gaming on Linux
+Google Blog
+Google Play
+HUP
+Linuxiac
+Linux Mint Blog
+Mastodon
+Neowin
+Nvidia Blog
+OMG Ubuntu
+Phoronix
+Seurity Week
+The Hacker News
+Tom's Hardware
+Towards Data Science
 ```
