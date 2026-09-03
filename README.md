@@ -69,6 +69,7 @@ Nvidia Blog
 OMG Ubuntu
 Phoronix
 Seurity Week
+TechRadar
 The Hacker News
 Tom's Hardware
 Towards Data Science
