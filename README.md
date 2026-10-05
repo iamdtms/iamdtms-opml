@@ -11,7 +11,7 @@ CSSence
 FrontEnd Focus
 Frontend Masters
 Smashing Magazine
-Una Kravets
+...
 ```
 
 ## future & AI
@@ -25,6 +25,7 @@ ScienceAlert
 Singularity HUB
 Inside Climate News
 Quanta Magazine
+...
 ```
 
 ## newshu
@@ -39,11 +40,12 @@ IGN Hungary
 iPon
 Mobilarena
 Portfolio
-Prohardver!
+Prohardver
 Qubit
 raketa
 tech2
 Telex
+...
 ```
 
 ## tech
@@ -73,4 +75,5 @@ TechRadar
 The Hacker News
 Tom's Hardware
 Towards Data Science
+...
 ```
