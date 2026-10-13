@@ -6,8 +6,6 @@
 Adam Argyle
 Ahmad Shadeed
 Chris Coyier
-CSS-Tricks
-CSSence
 FrontEnd Focus
 Frontend Masters
 Smashing Magazine
@@ -18,21 +16,20 @@ Smashing Magazine
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/future/view/html?cs=m)
 ```
 ScienceDaily
-The Guardian
 Futurism
 OpenAI
 ScienceAlert
 Singularity HUB
 Inside Climate News
-Quanta Magazine
 ...
 ```
 
 ## newshu
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/newshu/view/html?cs=m)
 ```
-24hu
+24h | parlament
 444
+Bűvös Szakács
 Forbes
 HVG
 HWSW
@@ -41,6 +38,7 @@ iPon
 Mobilarena
 Portfolio
 Prohardver
+Provehu
 Qubit
 raketa
 tech2
@@ -55,11 +53,8 @@ Telex
 Android Central
 Ars Technica
 BBC Future
-Bleeping Computer
-Digital Trends
 Disconnect
 Extreme Tech
-Gaming on Linux
 Google Blog
 Google Play
 HUP
