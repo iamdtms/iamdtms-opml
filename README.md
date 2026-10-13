@@ -46,6 +46,17 @@ Telex
 ...
 ```
 
+## pcgames
+[Preview](https://www.inoreader.com/stream/user/1005110964/tag/pcgames/view/html?cs=m)
+```
+Destructoid
+Eurogamer
+Gamekapocs
+GamesRadar
+PC Gamer
+Rock, Paper, Shotgun
+...
+```
 ## tech
 [Preview](https://www.inoreader.com/stream/user/1005110964/tag/tech/view/html?cs=m)
 ```
